@@ -4,7 +4,6 @@ A synthetic-data portfolio project exploring patient flow, waiting times, admiss
 
 **Prepared by:** Phillimon Magwature  
 **Analysis period:** 1 January 2024 - 31 December 2025  
-**Project type:** Synthetic-data portfolio case study
 
 > **Data disclosure:** All records in this repository are fictional and were generated for learning and portfolio demonstration. An earlier patient-visit workbook was used only as a structural reference. This project does not contain Corporate 24 Healthcare production data and its figures must not be interpreted as the performance of a real healthcare provider.
 
