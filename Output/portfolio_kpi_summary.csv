@@ -1,0 +1,10 @@
+KPI,Value,Unit
+Total encounters,42000.0,encounters
+Completed encounters,39441.0,encounters
+Unique patients with a valid patient key,10762.0,patients
+Admissions,2793.0,admissions
+"Average wait (completed visits, minutes)",34.5,minutes
+"Average consultation (completed visits, minutes)",24.1,minutes
+Average length of stay (days),4.7,days
+Weighted bed occupancy,64.3,percent
+Staff coverage,95.9,percent

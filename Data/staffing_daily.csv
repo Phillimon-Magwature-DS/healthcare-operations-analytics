@@ -1,0 +1,4387 @@
+Date,Department,PlannedStaff,StaffOnDuty,OvertimeHours,PatientsSeen
+2024-01-01,Outpatient,13,12,2.1,28
+2024-01-01,Emergency,10,11,0.0,4
+2024-01-01,Maternity,7,7,0.0,1
+2024-01-01,Paediatrics,7,7,0.0,6
+2024-01-01,Surgical Clinic,8,7,1.8,5
+2024-01-01,Diagnostics,6,7,0.0,1
+2024-01-02,Outpatient,13,12,2.0,25
+2024-01-02,Emergency,10,8,2.3,9
+2024-01-02,Maternity,7,7,0.0,6
+2024-01-02,Paediatrics,7,6,1.0,4
+2024-01-02,Surgical Clinic,8,9,0.0,7
+2024-01-02,Diagnostics,6,6,0.0,1
+2024-01-03,Outpatient,13,13,0.0,24
+2024-01-03,Emergency,10,9,1.9,8
+2024-01-03,Maternity,7,7,0.0,4
+2024-01-03,Paediatrics,7,7,0.0,9
+2024-01-03,Surgical Clinic,8,8,0.0,4
+2024-01-03,Diagnostics,6,6,0.0,7
+2024-01-04,Outpatient,13,14,0.0,28
+2024-01-04,Emergency,10,10,0.0,9
+2024-01-04,Maternity,7,6,1.3,9
+2024-01-04,Paediatrics,7,8,0.0,9
+2024-01-04,Surgical Clinic,8,7,1.5,11
+2024-01-04,Diagnostics,6,5,1.3,0
+2024-01-05,Outpatient,13,14,0.0,23
+2024-01-05,Emergency,10,11,0.0,7
+2024-01-05,Maternity,7,6,2.3,4
+2024-01-05,Paediatrics,7,7,0.0,10
+2024-01-05,Surgical Clinic,8,9,0.0,5
+2024-01-05,Diagnostics,6,5,1.5,4
+2024-01-06,Outpatient,13,11,2.8,12
+2024-01-06,Emergency,10,10,0.0,9
+2024-01-06,Maternity,7,7,0.0,2
+2024-01-06,Paediatrics,7,7,0.0,3
+2024-01-06,Surgical Clinic,8,7,2.4,5
+2024-01-06,Diagnostics,6,6,0.0,2
+2024-01-07,Outpatient,13,13,0.0,11
+2024-01-07,Emergency,10,9,2.4,5
+2024-01-07,Maternity,7,6,0.8,1
+2024-01-07,Paediatrics,7,7,0.0,2
+2024-01-07,Surgical Clinic,8,8,0.0,4
+2024-01-07,Diagnostics,6,6,0.0,3
+2024-01-08,Outpatient,13,11,1.9,25
+2024-01-08,Emergency,10,9,0.8,8
+2024-01-08,Maternity,7,7,0.0,2
+2024-01-08,Paediatrics,7,7,0.0,5
+2024-01-08,Surgical Clinic,8,8,0.0,7
+2024-01-08,Diagnostics,6,5,1.2,1
+2024-01-09,Outpatient,13,12,1.0,9
+2024-01-09,Emergency,10,9,2.3,8
+2024-01-09,Maternity,7,8,0.0,6
+2024-01-09,Paediatrics,7,7,0.0,6
+2024-01-09,Surgical Clinic,8,7,2.3,7
+2024-01-09,Diagnostics,6,6,0.0,3
+2024-01-10,Outpatient,13,14,0.0,18
+2024-01-10,Emergency,10,10,0.0,8
+2024-01-10,Maternity,7,7,0.0,3
+2024-01-10,Paediatrics,7,7,0.0,7
+2024-01-10,Surgical Clinic,8,8,0.0,4
+2024-01-10,Diagnostics,6,6,0.0,5
+2024-01-11,Outpatient,13,12,1.3,23
+2024-01-11,Emergency,10,10,0.0,11
+2024-01-11,Maternity,7,7,0.0,3
+2024-01-11,Paediatrics,7,7,0.0,6
+2024-01-11,Surgical Clinic,8,8,0.0,5
+2024-01-11,Diagnostics,6,5,2.3,2
+2024-01-12,Outpatient,13,13,0.0,15
+2024-01-12,Emergency,10,10,0.0,8
+2024-01-12,Maternity,7,7,0.0,3
+2024-01-12,Paediatrics,7,8,0.0,6
+2024-01-12,Surgical Clinic,8,8,0.0,5
+2024-01-12,Diagnostics,6,5,0.6,8
+2024-01-13,Outpatient,13,12,2.6,16
+2024-01-13,Emergency,10,9,2.6,7
+2024-01-13,Maternity,7,6,0.9,4
+2024-01-13,Paediatrics,7,7,0.0,10
+2024-01-13,Surgical Clinic,8,8,0.0,3
+2024-01-13,Diagnostics,6,6,0.0,2
+2024-01-14,Outpatient,13,12,1.6,8
+2024-01-14,Emergency,10,9,1.0,6
+2024-01-14,Maternity,7,7,0.0,1
+2024-01-14,Paediatrics,7,7,0.0,9
+2024-01-14,Surgical Clinic,8,8,0.0,6
+2024-01-14,Diagnostics,6,6,0.0,3
+2024-01-15,Outpatient,13,13,0.0,10
+2024-01-15,Emergency,10,9,2.6,8
+2024-01-15,Maternity,7,6,2.3,8
+2024-01-15,Paediatrics,7,6,0.7,6
+2024-01-15,Surgical Clinic,8,8,0.0,5
+2024-01-15,Diagnostics,6,6,0.0,2
+2024-01-16,Outpatient,13,12,1.9,16
+2024-01-16,Emergency,10,10,0.0,9
+2024-01-16,Maternity,7,7,0.0,1
+2024-01-16,Paediatrics,7,6,2.4,6
+2024-01-16,Surgical Clinic,8,9,0.0,5
+2024-01-16,Diagnostics,6,6,0.0,6
+2024-01-17,Outpatient,13,11,1.3,15
+2024-01-17,Emergency,10,9,1.0,11
+2024-01-17,Maternity,7,7,0.0,3
+2024-01-17,Paediatrics,7,6,0.6,5
+2024-01-17,Surgical Clinic,8,8,0.0,10
+2024-01-17,Diagnostics,6,7,0.0,6
+2024-01-18,Outpatient,13,11,5.3,24
+2024-01-18,Emergency,10,9,0.4,10
+2024-01-18,Maternity,7,7,0.0,4
+2024-01-18,Paediatrics,7,7,0.0,8
+2024-01-18,Surgical Clinic,8,7,1.9,5
+2024-01-18,Diagnostics,6,6,0.0,3
+2024-01-19,Outpatient,13,12,2.6,24
+2024-01-19,Emergency,10,10,0.0,11
+2024-01-19,Maternity,7,7,0.0,7
+2024-01-19,Paediatrics,7,6,2.3,2
+2024-01-19,Surgical Clinic,8,9,0.0,5
+2024-01-19,Diagnostics,6,6,0.0,5
+2024-01-20,Outpatient,13,12,0.7,18
+2024-01-20,Emergency,10,9,0.7,10
+2024-01-20,Maternity,7,6,0.7,4
+2024-01-20,Paediatrics,7,7,0.0,6
+2024-01-20,Surgical Clinic,8,9,0.0,2
+2024-01-20,Diagnostics,6,6,0.0,1
+2024-01-21,Outpatient,13,12,1.0,17
+2024-01-21,Emergency,10,9,1.4,6
+2024-01-21,Maternity,7,6,1.8,3
+2024-01-21,Paediatrics,7,7,0.0,1
+2024-01-21,Surgical Clinic,8,9,0.0,3
+2024-01-21,Diagnostics,6,7,0.0,6
+2024-01-22,Outpatient,13,12,1.6,17
+2024-01-22,Emergency,10,9,2.4,4
+2024-01-22,Maternity,7,7,0.0,5
+2024-01-22,Paediatrics,7,7,0.0,6
+2024-01-22,Surgical Clinic,8,8,0.0,4
+2024-01-22,Diagnostics,6,6,0.0,4
+2024-01-23,Outpatient,13,14,0.0,25
+2024-01-23,Emergency,10,10,0.0,6
+2024-01-23,Maternity,7,7,0.0,3
+2024-01-23,Paediatrics,7,7,0.0,7
+2024-01-23,Surgical Clinic,8,7,1.3,6
+2024-01-23,Diagnostics,6,6,0.0,2
+2024-01-24,Outpatient,13,12,1.1,23
+2024-01-24,Emergency,10,10,0.0,6
+2024-01-24,Maternity,7,7,0.0,0
+2024-01-24,Paediatrics,7,7,0.0,5
+2024-01-24,Surgical Clinic,8,8,0.0,10
+2024-01-24,Diagnostics,6,5,0.7,4
+2024-01-25,Outpatient,13,12,1.8,19
+2024-01-25,Emergency,10,10,0.0,15
+2024-01-25,Maternity,7,8,0.0,5
+2024-01-25,Paediatrics,7,6,1.4,4
+2024-01-25,Surgical Clinic,8,8,0.0,7
+2024-01-25,Diagnostics,6,6,0.0,3
+2024-01-26,Outpatient,13,13,0.0,26
+2024-01-26,Emergency,10,10,0.0,4
+2024-01-26,Maternity,7,7,0.0,3
+2024-01-26,Paediatrics,7,7,0.0,11
+2024-01-26,Surgical Clinic,8,8,0.0,5
+2024-01-26,Diagnostics,6,6,0.0,4
+2024-01-27,Outpatient,13,10,3.1,16
+2024-01-27,Emergency,10,9,2.2,4
+2024-01-27,Maternity,7,7,0.0,7
+2024-01-27,Paediatrics,7,7,0.0,4
+2024-01-27,Surgical Clinic,8,8,0.0,11
+2024-01-27,Diagnostics,6,6,0.0,3
+2024-01-28,Outpatient,13,13,0.0,10
+2024-01-28,Emergency,10,9,1.1,7
+2024-01-28,Maternity,7,7,0.0,2
+2024-01-28,Paediatrics,7,7,0.0,3
+2024-01-28,Surgical Clinic,8,9,0.0,2
+2024-01-28,Diagnostics,6,6,0.0,4
+2024-01-29,Outpatient,13,13,0.0,24
+2024-01-29,Emergency,10,10,0.0,6
+2024-01-29,Maternity,7,6,2.0,5
+2024-01-29,Paediatrics,7,8,0.0,7
+2024-01-29,Surgical Clinic,8,9,0.0,7
+2024-01-29,Diagnostics,6,5,2.1,1
+2024-01-30,Outpatient,13,13,0.0,35
+2024-01-30,Emergency,10,9,0.7,8
+2024-01-30,Maternity,7,7,0.0,2
+2024-01-30,Paediatrics,7,6,0.9,4
+2024-01-30,Surgical Clinic,8,8,0.0,9
+2024-01-30,Diagnostics,6,6,0.0,3
+2024-01-31,Outpatient,13,12,2.5,18
+2024-01-31,Emergency,10,10,0.0,5
+2024-01-31,Maternity,7,7,0.0,2
+2024-01-31,Paediatrics,7,7,0.0,10
+2024-01-31,Surgical Clinic,8,8,0.0,5
+2024-01-31,Diagnostics,6,5,2.1,3
+2024-02-01,Outpatient,13,13,0.0,23
+2024-02-01,Emergency,10,10,0.0,7
+2024-02-01,Maternity,7,6,0.7,5
+2024-02-01,Paediatrics,7,6,2.4,3
+2024-02-01,Surgical Clinic,8,8,0.0,8
+2024-02-01,Diagnostics,6,6,0.0,5
+2024-02-02,Outpatient,13,13,0.0,20
+2024-02-02,Emergency,10,8,1.0,8
+2024-02-02,Maternity,7,7,0.0,7
+2024-02-02,Paediatrics,7,7,0.0,9
+2024-02-02,Surgical Clinic,8,7,1.8,7
+2024-02-02,Diagnostics,6,6,0.0,3
+2024-02-03,Outpatient,13,11,1.7,18
+2024-02-03,Emergency,10,9,0.5,7
+2024-02-03,Maternity,7,7,0.0,5
+2024-02-03,Paediatrics,7,7,0.0,9
+2024-02-03,Surgical Clinic,8,8,0.0,6
+2024-02-03,Diagnostics,6,6,0.0,2
+2024-02-04,Outpatient,13,13,0.0,12
+2024-02-04,Emergency,10,10,0.0,4
+2024-02-04,Maternity,7,7,0.0,4
+2024-02-04,Paediatrics,7,6,2.4,6
+2024-02-04,Surgical Clinic,8,7,1.2,1
+2024-02-04,Diagnostics,6,6,0.0,3
+2024-02-05,Outpatient,13,12,1.4,22
+2024-02-05,Emergency,10,9,2.5,8
+2024-02-05,Maternity,7,7,0.0,6
+2024-02-05,Paediatrics,7,7,0.0,6
+2024-02-05,Surgical Clinic,8,7,1.2,4
+2024-02-05,Diagnostics,6,6,0.0,2
+2024-02-06,Outpatient,13,12,1.4,20
+2024-02-06,Emergency,10,10,0.0,7
+2024-02-06,Maternity,7,6,1.9,8
+2024-02-06,Paediatrics,7,7,0.0,5
+2024-02-06,Surgical Clinic,8,9,0.0,4
+2024-02-06,Diagnostics,6,6,0.0,7
+2024-02-07,Outpatient,13,14,0.0,30
+2024-02-07,Emergency,10,9,0.7,11
+2024-02-07,Maternity,7,7,0.0,5
+2024-02-07,Paediatrics,7,7,0.0,8
+2024-02-07,Surgical Clinic,8,8,0.0,4
+2024-02-07,Diagnostics,6,5,1.4,1
+2024-02-08,Outpatient,13,13,0.0,16
+2024-02-08,Emergency,10,9,0.5,10
+2024-02-08,Maternity,7,6,1.1,7
+2024-02-08,Paediatrics,7,6,2.5,2
+2024-02-08,Surgical Clinic,8,8,0.0,6
+2024-02-08,Diagnostics,6,5,2.2,3
+2024-02-09,Outpatient,13,14,0.0,29
+2024-02-09,Emergency,10,10,0.0,8
+2024-02-09,Maternity,7,7,0.0,4
+2024-02-09,Paediatrics,7,7,0.0,6
+2024-02-09,Surgical Clinic,8,9,0.0,5
+2024-02-09,Diagnostics,6,5,1.9,9
+2024-02-10,Outpatient,13,11,2.8,18
+2024-02-10,Emergency,10,9,0.5,7
+2024-02-10,Maternity,7,6,1.9,8
+2024-02-10,Paediatrics,7,7,0.0,2
+2024-02-10,Surgical Clinic,8,8,0.0,2
+2024-02-10,Diagnostics,6,5,2.4,5
+2024-02-11,Outpatient,13,12,0.7,17
+2024-02-11,Emergency,10,10,0.0,5
+2024-02-11,Maternity,7,7,0.0,3
+2024-02-11,Paediatrics,7,6,0.5,10
+2024-02-11,Surgical Clinic,8,8,0.0,3
+2024-02-11,Diagnostics,6,5,2.1,2
+2024-02-12,Outpatient,13,11,4.3,16
+2024-02-12,Emergency,10,10,0.0,6
+2024-02-12,Maternity,7,6,1.1,7
+2024-02-12,Paediatrics,7,6,2.7,6
+2024-02-12,Surgical Clinic,8,8,0.0,8
+2024-02-12,Diagnostics,6,6,0.0,6
+2024-02-13,Outpatient,13,12,0.5,15
+2024-02-13,Emergency,10,10,0.0,12
+2024-02-13,Maternity,7,7,0.0,6
+2024-02-13,Paediatrics,7,7,0.0,7
+2024-02-13,Surgical Clinic,8,7,2.0,5
+2024-02-13,Diagnostics,6,5,1.9,3
+2024-02-14,Outpatient,13,12,2.4,20
+2024-02-14,Emergency,10,10,0.0,6
+2024-02-14,Maternity,7,6,1.3,8
+2024-02-14,Paediatrics,7,7,0.0,5
+2024-02-14,Surgical Clinic,8,8,0.0,7
+2024-02-14,Diagnostics,6,6,0.0,7
+2024-02-15,Outpatient,13,12,1.6,26
+2024-02-15,Emergency,10,9,0.8,9
+2024-02-15,Maternity,7,7,0.0,7
+2024-02-15,Paediatrics,7,7,0.0,9
+2024-02-15,Surgical Clinic,8,8,0.0,6
+2024-02-15,Diagnostics,6,6,0.0,6
+2024-02-16,Outpatient,13,13,0.0,27
+2024-02-16,Emergency,10,8,1.1,11
+2024-02-16,Maternity,7,7,0.0,5
+2024-02-16,Paediatrics,7,7,0.0,6
+2024-02-16,Surgical Clinic,8,7,2.4,4
+2024-02-16,Diagnostics,6,6,0.0,0
+2024-02-17,Outpatient,13,12,2.0,18
+2024-02-17,Emergency,10,9,1.2,4
+2024-02-17,Maternity,7,6,2.6,4
+2024-02-17,Paediatrics,7,7,0.0,5
+2024-02-17,Surgical Clinic,8,8,0.0,2
+2024-02-17,Diagnostics,6,6,0.0,6
+2024-02-18,Outpatient,13,12,0.6,17
+2024-02-18,Emergency,10,10,0.0,5
+2024-02-18,Maternity,7,6,2.4,4
+2024-02-18,Paediatrics,7,8,0.0,1
+2024-02-18,Surgical Clinic,8,8,0.0,3
+2024-02-18,Diagnostics,6,6,0.0,4
+2024-02-19,Outpatient,13,12,0.9,27
+2024-02-19,Emergency,10,8,3.4,9
+2024-02-19,Maternity,7,5,2.5,6
+2024-02-19,Paediatrics,7,6,0.7,2
+2024-02-19,Surgical Clinic,8,8,0.0,10
+2024-02-19,Diagnostics,6,6,0.0,5
+2024-02-20,Outpatient,13,11,5.5,29
+2024-02-20,Emergency,10,10,0.0,10
+2024-02-20,Maternity,7,7,0.0,8
+2024-02-20,Paediatrics,7,6,0.6,4
+2024-02-20,Surgical Clinic,8,8,0.0,5
+2024-02-20,Diagnostics,6,5,0.5,5
+2024-02-21,Outpatient,13,12,2.6,24
+2024-02-21,Emergency,10,9,2.0,12
+2024-02-21,Maternity,7,7,0.0,8
+2024-02-21,Paediatrics,7,6,0.8,4
+2024-02-21,Surgical Clinic,8,7,1.4,8
+2024-02-21,Diagnostics,6,6,0.0,7
+2024-02-22,Outpatient,13,13,0.0,22
+2024-02-22,Emergency,10,11,0.0,7
+2024-02-22,Maternity,7,7,0.0,5
+2024-02-22,Paediatrics,7,6,0.7,6
+2024-02-22,Surgical Clinic,8,9,0.0,5
+2024-02-22,Diagnostics,6,6,0.0,5
+2024-02-23,Outpatient,13,12,2.4,25
+2024-02-23,Emergency,10,9,1.7,13
+2024-02-23,Maternity,7,7,0.0,4
+2024-02-23,Paediatrics,7,7,0.0,5
+2024-02-23,Surgical Clinic,8,7,0.6,6
+2024-02-23,Diagnostics,6,5,0.7,6
+2024-02-24,Outpatient,13,12,1.2,23
+2024-02-24,Emergency,10,11,0.0,7
+2024-02-24,Maternity,7,6,0.7,3
+2024-02-24,Paediatrics,7,5,2.5,3
+2024-02-24,Surgical Clinic,8,9,0.0,5
+2024-02-24,Diagnostics,6,6,0.0,1
+2024-02-25,Outpatient,13,13,0.0,6
+2024-02-25,Emergency,10,10,0.0,4
+2024-02-25,Maternity,7,6,1.8,9
+2024-02-25,Paediatrics,7,7,0.0,8
+2024-02-25,Surgical Clinic,8,8,0.0,4
+2024-02-25,Diagnostics,6,6,0.0,5
+2024-02-26,Outpatient,13,10,2.5,23
+2024-02-26,Emergency,10,10,0.0,6
+2024-02-26,Maternity,7,7,0.0,5
+2024-02-26,Paediatrics,7,7,0.0,15
+2024-02-26,Surgical Clinic,8,9,0.0,8
+2024-02-26,Diagnostics,6,6,0.0,8
+2024-02-27,Outpatient,13,13,0.0,17
+2024-02-27,Emergency,10,9,2.1,6
+2024-02-27,Maternity,7,7,0.0,1
+2024-02-27,Paediatrics,7,6,0.4,6
+2024-02-27,Surgical Clinic,8,9,0.0,8
+2024-02-27,Diagnostics,6,6,0.0,2
+2024-02-28,Outpatient,13,12,1.8,25
+2024-02-28,Emergency,10,11,0.0,9
+2024-02-28,Maternity,7,5,5.3,5
+2024-02-28,Paediatrics,7,7,0.0,9
+2024-02-28,Surgical Clinic,8,7,1.9,8
+2024-02-28,Diagnostics,6,6,0.0,4
+2024-02-29,Outpatient,13,13,0.0,29
+2024-02-29,Emergency,10,10,0.0,9
+2024-02-29,Maternity,7,6,2.8,6
+2024-02-29,Paediatrics,7,8,0.0,6
+2024-02-29,Surgical Clinic,8,7,2.4,12
+2024-02-29,Diagnostics,6,6,0.0,4
+2024-03-01,Outpatient,13,14,0.0,26
+2024-03-01,Emergency,10,10,0.0,11
+2024-03-01,Maternity,7,6,1.7,3
+2024-03-01,Paediatrics,7,7,0.0,4
+2024-03-01,Surgical Clinic,8,7,1.3,9
+2024-03-01,Diagnostics,6,7,0.0,4
+2024-03-02,Outpatient,13,12,1.2,26
+2024-03-02,Emergency,10,10,0.0,6
+2024-03-02,Maternity,7,7,0.0,2
+2024-03-02,Paediatrics,7,7,0.0,3
+2024-03-02,Surgical Clinic,8,7,1.6,6
+2024-03-02,Diagnostics,6,6,0.0,2
+2024-03-03,Outpatient,13,12,1.1,17
+2024-03-03,Emergency,10,9,1.4,9
+2024-03-03,Maternity,7,8,0.0,3
+2024-03-03,Paediatrics,7,7,0.0,2
+2024-03-03,Surgical Clinic,8,7,2.7,0
+2024-03-03,Diagnostics,6,6,0.0,0
+2024-03-04,Outpatient,13,13,0.0,25
+2024-03-04,Emergency,10,10,0.0,5
+2024-03-04,Maternity,7,7,0.0,7
+2024-03-04,Paediatrics,7,7,0.0,5
+2024-03-04,Surgical Clinic,8,8,0.0,9
+2024-03-04,Diagnostics,6,6,0.0,2
+2024-03-05,Outpatient,13,12,2.8,23
+2024-03-05,Emergency,10,9,2.3,16
+2024-03-05,Maternity,7,7,0.0,3
+2024-03-05,Paediatrics,7,6,2.8,3
+2024-03-05,Surgical Clinic,8,7,2.3,6
+2024-03-05,Diagnostics,6,6,0.0,7
+2024-03-06,Outpatient,13,12,1.3,32
+2024-03-06,Emergency,10,10,0.0,7
+2024-03-06,Maternity,7,6,1.9,5
+2024-03-06,Paediatrics,7,7,0.0,5
+2024-03-06,Surgical Clinic,8,8,0.0,4
+2024-03-06,Diagnostics,6,6,0.0,7
+2024-03-07,Outpatient,13,11,0.8,18
+2024-03-07,Emergency,10,10,0.0,9
+2024-03-07,Maternity,7,7,0.0,6
+2024-03-07,Paediatrics,7,7,0.0,9
+2024-03-07,Surgical Clinic,8,8,0.0,1
+2024-03-07,Diagnostics,6,6,0.0,9
+2024-03-08,Outpatient,13,13,0.0,30
+2024-03-08,Emergency,10,9,2.0,5
+2024-03-08,Maternity,7,7,0.0,4
+2024-03-08,Paediatrics,7,7,0.0,9
+2024-03-08,Surgical Clinic,8,8,0.0,4
+2024-03-08,Diagnostics,6,6,0.0,8
+2024-03-09,Outpatient,13,13,0.0,18
+2024-03-09,Emergency,10,11,0.0,5
+2024-03-09,Maternity,7,7,0.0,6
+2024-03-09,Paediatrics,7,7,0.0,3
+2024-03-09,Surgical Clinic,8,8,0.0,5
+2024-03-09,Diagnostics,6,6,0.0,4
+2024-03-10,Outpatient,13,13,0.0,21
+2024-03-10,Emergency,10,8,4.6,6
+2024-03-10,Maternity,7,7,0.0,5
+2024-03-10,Paediatrics,7,6,0.7,4
+2024-03-10,Surgical Clinic,8,8,0.0,5
+2024-03-10,Diagnostics,6,6,0.0,0
+2024-03-11,Outpatient,13,13,0.0,21
+2024-03-11,Emergency,10,9,2.3,11
+2024-03-11,Maternity,7,7,0.0,7
+2024-03-11,Paediatrics,7,7,0.0,10
+2024-03-11,Surgical Clinic,8,7,1.2,3
+2024-03-11,Diagnostics,6,6,0.0,8
+2024-03-12,Outpatient,13,13,0.0,25
+2024-03-12,Emergency,10,10,0.0,5
+2024-03-12,Maternity,7,7,0.0,5
+2024-03-12,Paediatrics,7,6,0.6,8
+2024-03-12,Surgical Clinic,8,8,0.0,8
+2024-03-12,Diagnostics,6,6,0.0,5
+2024-03-13,Outpatient,13,12,1.2,26
+2024-03-13,Emergency,10,9,1.4,10
+2024-03-13,Maternity,7,8,0.0,3
+2024-03-13,Paediatrics,7,7,0.0,6
+2024-03-13,Surgical Clinic,8,8,0.0,10
+2024-03-13,Diagnostics,6,5,1.1,9
+2024-03-14,Outpatient,13,11,2.4,18
+2024-03-14,Emergency,10,9,2.0,9
+2024-03-14,Maternity,7,7,0.0,4
+2024-03-14,Paediatrics,7,7,0.0,4
+2024-03-14,Surgical Clinic,8,9,0.0,3
+2024-03-14,Diagnostics,6,7,0.0,3
+2024-03-15,Outpatient,13,12,2.7,24
+2024-03-15,Emergency,10,10,0.0,10
+2024-03-15,Maternity,7,7,0.0,8
+2024-03-15,Paediatrics,7,7,0.0,1
+2024-03-15,Surgical Clinic,8,8,0.0,7
+2024-03-15,Diagnostics,6,7,0.0,10
+2024-03-16,Outpatient,13,14,0.0,19
+2024-03-16,Emergency,10,9,0.7,6
+2024-03-16,Maternity,7,7,0.0,3
+2024-03-16,Paediatrics,7,6,2.4,5
+2024-03-16,Surgical Clinic,8,8,0.0,3
+2024-03-16,Diagnostics,6,7,0.0,2
+2024-03-17,Outpatient,13,12,1.9,13
+2024-03-17,Emergency,10,9,1.2,8
+2024-03-17,Maternity,7,7,0.0,3
+2024-03-17,Paediatrics,7,6,2.6,5
+2024-03-17,Surgical Clinic,8,8,0.0,4
+2024-03-17,Diagnostics,6,5,2.3,2
+2024-03-18,Outpatient,13,13,0.0,25
+2024-03-18,Emergency,10,11,0.0,15
+2024-03-18,Maternity,7,6,1.7,4
+2024-03-18,Paediatrics,7,7,0.0,2
+2024-03-18,Surgical Clinic,8,7,2.6,4
+2024-03-18,Diagnostics,6,6,0.0,4
+2024-03-19,Outpatient,13,12,1.3,16
+2024-03-19,Emergency,10,10,0.0,9
+2024-03-19,Maternity,7,7,0.0,4
+2024-03-19,Paediatrics,7,7,0.0,7
+2024-03-19,Surgical Clinic,8,8,0.0,3
+2024-03-19,Diagnostics,6,6,0.0,3
+2024-03-20,Outpatient,13,12,2.4,26
+2024-03-20,Emergency,10,9,2.8,8
+2024-03-20,Maternity,7,6,2.5,11
+2024-03-20,Paediatrics,7,8,0.0,5
+2024-03-20,Surgical Clinic,8,7,2.2,11
+2024-03-20,Diagnostics,6,6,0.0,4
+2024-03-21,Outpatient,13,12,0.7,19
+2024-03-21,Emergency,10,9,1.0,12
+2024-03-21,Maternity,7,7,0.0,8
+2024-03-21,Paediatrics,7,7,0.0,7
+2024-03-21,Surgical Clinic,8,8,0.0,2
+2024-03-21,Diagnostics,6,6,0.0,6
+2024-03-22,Outpatient,13,12,1.1,26
+2024-03-22,Emergency,10,8,1.5,8
+2024-03-22,Maternity,7,7,0.0,10
+2024-03-22,Paediatrics,7,6,2.6,7
+2024-03-22,Surgical Clinic,8,8,0.0,9
+2024-03-22,Diagnostics,6,6,0.0,1
+2024-03-23,Outpatient,13,14,0.0,17
+2024-03-23,Emergency,10,9,1.7,9
+2024-03-23,Maternity,7,7,0.0,5
+2024-03-23,Paediatrics,7,7,0.0,5
+2024-03-23,Surgical Clinic,8,8,0.0,5
+2024-03-23,Diagnostics,6,6,0.0,0
+2024-03-24,Outpatient,13,14,0.0,19
+2024-03-24,Emergency,10,11,0.0,8
+2024-03-24,Maternity,7,7,0.0,2
+2024-03-24,Paediatrics,7,6,1.1,3
+2024-03-24,Surgical Clinic,8,7,0.8,7
+2024-03-24,Diagnostics,6,6,0.0,1
+2024-03-25,Outpatient,13,11,1.3,19
+2024-03-25,Emergency,10,11,0.0,10
+2024-03-25,Maternity,7,6,1.0,5
+2024-03-25,Paediatrics,7,6,0.9,5
+2024-03-25,Surgical Clinic,8,8,0.0,6
+2024-03-25,Diagnostics,6,6,0.0,4
+2024-03-26,Outpatient,13,13,0.0,22
+2024-03-26,Emergency,10,10,0.0,12
+2024-03-26,Maternity,7,6,1.7,6
+2024-03-26,Paediatrics,7,7,0.0,4
+2024-03-26,Surgical Clinic,8,7,1.0,4
+2024-03-26,Diagnostics,6,7,0.0,3
+2024-03-27,Outpatient,13,11,4.1,31
+2024-03-27,Emergency,10,10,0.0,11
+2024-03-27,Maternity,7,7,0.0,9
+2024-03-27,Paediatrics,7,6,2.0,6
+2024-03-27,Surgical Clinic,8,8,0.0,11
+2024-03-27,Diagnostics,6,6,0.0,4
+2024-03-28,Outpatient,13,14,0.0,14
+2024-03-28,Emergency,10,9,1.5,6
+2024-03-28,Maternity,7,6,1.8,2
+2024-03-28,Paediatrics,7,7,0.0,2
+2024-03-28,Surgical Clinic,8,7,0.8,5
+2024-03-28,Diagnostics,6,6,0.0,3
+2024-03-29,Outpatient,13,11,2.8,18
+2024-03-29,Emergency,10,9,2.7,10
+2024-03-29,Maternity,7,7,0.0,7
+2024-03-29,Paediatrics,7,7,0.0,4
+2024-03-29,Surgical Clinic,8,8,0.0,6
+2024-03-29,Diagnostics,6,6,0.0,4
+2024-03-30,Outpatient,13,11,1.5,13
+2024-03-30,Emergency,10,10,0.0,9
+2024-03-30,Maternity,7,6,1.0,3
+2024-03-30,Paediatrics,7,7,0.0,8
+2024-03-30,Surgical Clinic,8,8,0.0,2
+2024-03-30,Diagnostics,6,6,0.0,5
+2024-03-31,Outpatient,13,13,0.0,18
+2024-03-31,Emergency,10,10,0.0,5
+2024-03-31,Maternity,7,6,1.0,4
+2024-03-31,Paediatrics,7,7,0.0,4
+2024-03-31,Surgical Clinic,8,7,2.8,2
+2024-03-31,Diagnostics,6,6,0.0,1
+2024-04-01,Outpatient,13,12,2.0,19
+2024-04-01,Emergency,10,9,0.5,9
+2024-04-01,Maternity,7,7,0.0,6
+2024-04-01,Paediatrics,7,6,0.8,8
+2024-04-01,Surgical Clinic,8,8,0.0,8
+2024-04-01,Diagnostics,6,6,0.0,9
+2024-04-02,Outpatient,13,13,0.0,25
+2024-04-02,Emergency,10,10,0.0,10
+2024-04-02,Maternity,7,6,1.3,4
+2024-04-02,Paediatrics,7,7,0.0,2
+2024-04-02,Surgical Clinic,8,8,0.0,5
+2024-04-02,Diagnostics,6,6,0.0,5
+2024-04-03,Outpatient,13,12,2.4,26
+2024-04-03,Emergency,10,10,0.0,9
+2024-04-03,Maternity,7,6,2.2,4
+2024-04-03,Paediatrics,7,7,0.0,1
+2024-04-03,Surgical Clinic,8,8,0.0,16
+2024-04-03,Diagnostics,6,6,0.0,1
+2024-04-04,Outpatient,13,13,0.0,20
+2024-04-04,Emergency,10,10,0.0,12
+2024-04-04,Maternity,7,7,0.0,7
+2024-04-04,Paediatrics,7,7,0.0,8
+2024-04-04,Surgical Clinic,8,8,0.0,6
+2024-04-04,Diagnostics,6,6,0.0,8
+2024-04-05,Outpatient,13,12,1.7,31
+2024-04-05,Emergency,10,10,0.0,7
+2024-04-05,Maternity,7,6,1.2,3
+2024-04-05,Paediatrics,7,6,2.3,4
+2024-04-05,Surgical Clinic,8,8,0.0,6
+2024-04-05,Diagnostics,6,5,2.2,8
+2024-04-06,Outpatient,13,12,1.5,21
+2024-04-06,Emergency,10,9,1.2,8
+2024-04-06,Maternity,7,7,0.0,4
+2024-04-06,Paediatrics,7,7,0.0,3
+2024-04-06,Surgical Clinic,8,8,0.0,9
+2024-04-06,Diagnostics,6,6,0.0,2
+2024-04-07,Outpatient,13,12,2.2,17
+2024-04-07,Emergency,10,11,0.0,11
+2024-04-07,Maternity,7,6,1.7,1
+2024-04-07,Paediatrics,7,6,2.0,9
+2024-04-07,Surgical Clinic,8,8,0.0,2
+2024-04-07,Diagnostics,6,6,0.0,1
+2024-04-08,Outpatient,13,12,1.2,26
+2024-04-08,Emergency,10,9,2.7,8
+2024-04-08,Maternity,7,7,0.0,7
+2024-04-08,Paediatrics,7,6,2.0,3
+2024-04-08,Surgical Clinic,8,8,0.0,11
+2024-04-08,Diagnostics,6,6,0.0,4
+2024-04-09,Outpatient,13,11,1.8,27
+2024-04-09,Emergency,10,10,0.0,8
+2024-04-09,Maternity,7,7,0.0,8
+2024-04-09,Paediatrics,7,7,0.0,4
+2024-04-09,Surgical Clinic,8,8,0.0,17
+2024-04-09,Diagnostics,6,6,0.0,4
+2024-04-10,Outpatient,13,13,0.0,24
+2024-04-10,Emergency,10,9,2.5,13
+2024-04-10,Maternity,7,6,1.2,4
+2024-04-10,Paediatrics,7,7,0.0,14
+2024-04-10,Surgical Clinic,8,7,0.9,5
+2024-04-10,Diagnostics,6,6,0.0,2
+2024-04-11,Outpatient,13,12,2.6,18
+2024-04-11,Emergency,10,8,3.6,11
+2024-04-11,Maternity,7,7,0.0,4
+2024-04-11,Paediatrics,7,7,0.0,4
+2024-04-11,Surgical Clinic,8,7,2.7,7
+2024-04-11,Diagnostics,6,6,0.0,3
+2024-04-12,Outpatient,13,12,0.9,41
+2024-04-12,Emergency,10,10,0.0,8
+2024-04-12,Maternity,7,7,0.0,8
+2024-04-12,Paediatrics,7,6,0.7,4
+2024-04-12,Surgical Clinic,8,8,0.0,9
+2024-04-12,Diagnostics,6,6,0.0,7
+2024-04-13,Outpatient,13,12,2.3,14
+2024-04-13,Emergency,10,10,0.0,4
+2024-04-13,Maternity,7,7,0.0,3
+2024-04-13,Paediatrics,7,7,0.0,3
+2024-04-13,Surgical Clinic,8,8,0.0,8
+2024-04-13,Diagnostics,6,6,0.0,2
+2024-04-14,Outpatient,13,13,0.0,14
+2024-04-14,Emergency,10,10,0.0,5
+2024-04-14,Maternity,7,7,0.0,5
+2024-04-14,Paediatrics,7,7,0.0,6
+2024-04-14,Surgical Clinic,8,8,0.0,2
+2024-04-14,Diagnostics,6,6,0.0,2
+2024-04-15,Outpatient,13,11,3.7,27
+2024-04-15,Emergency,10,10,0.0,11
+2024-04-15,Maternity,7,6,0.9,4
+2024-04-15,Paediatrics,7,6,1.1,10
+2024-04-15,Surgical Clinic,8,7,2.8,12
+2024-04-15,Diagnostics,6,5,2.7,1
+2024-04-16,Outpatient,13,12,1.9,25
+2024-04-16,Emergency,10,9,1.5,5
+2024-04-16,Maternity,7,7,0.0,4
+2024-04-16,Paediatrics,7,7,0.0,5
+2024-04-16,Surgical Clinic,8,7,1.9,6
+2024-04-16,Diagnostics,6,6,0.0,4
+2024-04-17,Outpatient,13,13,0.0,31
+2024-04-17,Emergency,10,9,1.6,14
+2024-04-17,Maternity,7,7,0.0,6
+2024-04-17,Paediatrics,7,7,0.0,9
+2024-04-17,Surgical Clinic,8,8,0.0,6
+2024-04-17,Diagnostics,6,5,1.8,0
+2024-04-18,Outpatient,13,13,0.0,33
+2024-04-18,Emergency,10,10,0.0,10
+2024-04-18,Maternity,7,7,0.0,5
+2024-04-18,Paediatrics,7,7,0.0,6
+2024-04-18,Surgical Clinic,8,7,1.5,9
+2024-04-18,Diagnostics,6,5,1.9,4
+2024-04-19,Outpatient,13,11,5.1,22
+2024-04-19,Emergency,10,9,2.0,6
+2024-04-19,Maternity,7,6,2.5,5
+2024-04-19,Paediatrics,7,7,0.0,9
+2024-04-19,Surgical Clinic,8,7,1.2,8
+2024-04-19,Diagnostics,6,5,1.3,5
+2024-04-20,Outpatient,13,12,2.3,18
+2024-04-20,Emergency,10,9,2.4,6
+2024-04-20,Maternity,7,6,2.0,4
+2024-04-20,Paediatrics,7,7,0.0,5
+2024-04-20,Surgical Clinic,8,8,0.0,7
+2024-04-20,Diagnostics,6,5,1.4,5
+2024-04-21,Outpatient,13,13,0.0,16
+2024-04-21,Emergency,10,9,0.9,11
+2024-04-21,Maternity,7,6,2.4,1
+2024-04-21,Paediatrics,7,7,0.0,2
+2024-04-21,Surgical Clinic,8,9,0.0,5
+2024-04-21,Diagnostics,6,5,1.9,3
+2024-04-22,Outpatient,13,12,1.9,13
+2024-04-22,Emergency,10,9,1.2,16
+2024-04-22,Maternity,7,7,0.0,9
+2024-04-22,Paediatrics,7,7,0.0,2
+2024-04-22,Surgical Clinic,8,8,0.0,7
+2024-04-22,Diagnostics,6,6,0.0,6
+2024-04-23,Outpatient,13,12,0.5,23
+2024-04-23,Emergency,10,9,1.5,5
+2024-04-23,Maternity,7,6,2.2,6
+2024-04-23,Paediatrics,7,7,0.0,9
+2024-04-23,Surgical Clinic,8,8,0.0,10
+2024-04-23,Diagnostics,6,6,0.0,2
+2024-04-24,Outpatient,13,13,0.0,16
+2024-04-24,Emergency,10,11,0.0,11
+2024-04-24,Maternity,7,6,1.5,2
+2024-04-24,Paediatrics,7,6,2.4,7
+2024-04-24,Surgical Clinic,8,9,0.0,6
+2024-04-24,Diagnostics,6,6,0.0,4
+2024-04-25,Outpatient,13,11,1.2,26
+2024-04-25,Emergency,10,9,2.2,10
+2024-04-25,Maternity,7,7,0.0,10
+2024-04-25,Paediatrics,7,6,1.2,7
+2024-04-25,Surgical Clinic,8,8,0.0,6
+2024-04-25,Diagnostics,6,6,0.0,8
+2024-04-26,Outpatient,13,13,0.0,20
+2024-04-26,Emergency,10,10,0.0,7
+2024-04-26,Maternity,7,7,0.0,8
+2024-04-26,Paediatrics,7,7,0.0,1
+2024-04-26,Surgical Clinic,8,8,0.0,7
+2024-04-26,Diagnostics,6,6,0.0,4
+2024-04-27,Outpatient,13,11,1.0,21
+2024-04-27,Emergency,10,9,1.9,5
+2024-04-27,Maternity,7,6,2.3,12
+2024-04-27,Paediatrics,7,6,0.4,6
+2024-04-27,Surgical Clinic,8,7,0.8,1
+2024-04-27,Diagnostics,6,6,0.0,3
+2024-04-28,Outpatient,13,14,0.0,15
+2024-04-28,Emergency,10,10,0.0,4
+2024-04-28,Maternity,7,8,0.0,1
+2024-04-28,Paediatrics,7,6,2.4,0
+2024-04-28,Surgical Clinic,8,8,0.0,3
+2024-04-28,Diagnostics,6,6,0.0,2
+2024-04-29,Outpatient,13,12,1.4,29
+2024-04-29,Emergency,10,10,0.0,6
+2024-04-29,Maternity,7,6,1.5,10
+2024-04-29,Paediatrics,7,7,0.0,11
+2024-04-29,Surgical Clinic,8,8,0.0,5
+2024-04-29,Diagnostics,6,6,0.0,8
+2024-04-30,Outpatient,13,11,5.2,23
+2024-04-30,Emergency,10,9,1.4,14
+2024-04-30,Maternity,7,7,0.0,6
+2024-04-30,Paediatrics,7,6,2.5,6
+2024-04-30,Surgical Clinic,8,8,0.0,9
+2024-04-30,Diagnostics,6,6,0.0,4
+2024-05-01,Outpatient,13,13,0.0,29
+2024-05-01,Emergency,10,8,2.8,12
+2024-05-01,Maternity,7,7,0.0,5
+2024-05-01,Paediatrics,7,7,0.0,5
+2024-05-01,Surgical Clinic,8,8,0.0,6
+2024-05-01,Diagnostics,6,5,0.8,7
+2024-05-02,Outpatient,13,13,0.0,15
+2024-05-02,Emergency,10,11,0.0,11
+2024-05-02,Maternity,7,6,1.1,7
+2024-05-02,Paediatrics,7,7,0.0,10
+2024-05-02,Surgical Clinic,8,8,0.0,6
+2024-05-02,Diagnostics,6,5,2.4,3
+2024-05-03,Outpatient,13,12,0.4,30
+2024-05-03,Emergency,10,10,0.0,3
+2024-05-03,Maternity,7,8,0.0,8
+2024-05-03,Paediatrics,7,7,0.0,8
+2024-05-03,Surgical Clinic,8,7,0.8,9
+2024-05-03,Diagnostics,6,6,0.0,7
+2024-05-04,Outpatient,13,11,4.4,24
+2024-05-04,Emergency,10,10,0.0,8
+2024-05-04,Maternity,7,7,0.0,8
+2024-05-04,Paediatrics,7,6,1.8,7
+2024-05-04,Surgical Clinic,8,8,0.0,7
+2024-05-04,Diagnostics,6,6,0.0,3
+2024-05-05,Outpatient,13,13,0.0,11
+2024-05-05,Emergency,10,10,0.0,8
+2024-05-05,Maternity,7,6,2.4,1
+2024-05-05,Paediatrics,7,7,0.0,3
+2024-05-05,Surgical Clinic,8,7,2.8,5
+2024-05-05,Diagnostics,6,6,0.0,1
+2024-05-06,Outpatient,13,10,7.2,23
+2024-05-06,Emergency,10,9,0.9,7
+2024-05-06,Maternity,7,6,0.4,8
+2024-05-06,Paediatrics,7,7,0.0,7
+2024-05-06,Surgical Clinic,8,7,2.3,2
+2024-05-06,Diagnostics,6,6,0.0,4
+2024-05-07,Outpatient,13,11,2.7,24
+2024-05-07,Emergency,10,10,0.0,10
+2024-05-07,Maternity,7,6,2.8,6
+2024-05-07,Paediatrics,7,7,0.0,11
+2024-05-07,Surgical Clinic,8,8,0.0,8
+2024-05-07,Diagnostics,6,6,0.0,2
+2024-05-08,Outpatient,13,12,2.8,13
+2024-05-08,Emergency,10,10,0.0,9
+2024-05-08,Maternity,7,7,0.0,5
+2024-05-08,Paediatrics,7,6,1.2,6
+2024-05-08,Surgical Clinic,8,8,0.0,7
+2024-05-08,Diagnostics,6,5,2.0,4
+2024-05-09,Outpatient,13,13,0.0,20
+2024-05-09,Emergency,10,10,0.0,10
+2024-05-09,Maternity,7,6,2.7,10
+2024-05-09,Paediatrics,7,7,0.0,5
+2024-05-09,Surgical Clinic,8,8,0.0,5
+2024-05-09,Diagnostics,6,6,0.0,4
+2024-05-10,Outpatient,13,12,2.2,19
+2024-05-10,Emergency,10,10,0.0,7
+2024-05-10,Maternity,7,6,1.1,8
+2024-05-10,Paediatrics,7,7,0.0,8
+2024-05-10,Surgical Clinic,8,8,0.0,10
+2024-05-10,Diagnostics,6,5,0.7,5
+2024-05-11,Outpatient,13,14,0.0,26
+2024-05-11,Emergency,10,10,0.0,6
+2024-05-11,Maternity,7,6,0.4,5
+2024-05-11,Paediatrics,7,7,0.0,9
+2024-05-11,Surgical Clinic,8,8,0.0,4
+2024-05-11,Diagnostics,6,6,0.0,5
+2024-05-12,Outpatient,13,12,1.1,15
+2024-05-12,Emergency,10,9,1.0,9
+2024-05-12,Maternity,7,7,0.0,4
+2024-05-12,Paediatrics,7,7,0.0,7
+2024-05-12,Surgical Clinic,8,7,1.7,6
+2024-05-12,Diagnostics,6,5,1.9,4
+2024-05-13,Outpatient,13,13,0.0,21
+2024-05-13,Emergency,10,9,2.0,7
+2024-05-13,Maternity,7,7,0.0,7
+2024-05-13,Paediatrics,7,7,0.0,5
+2024-05-13,Surgical Clinic,8,7,2.8,7
+2024-05-13,Diagnostics,6,6,0.0,5
+2024-05-14,Outpatient,13,11,5.3,34
+2024-05-14,Emergency,10,9,2.4,3
+2024-05-14,Maternity,7,7,0.0,4
+2024-05-14,Paediatrics,7,7,0.0,7
+2024-05-14,Surgical Clinic,8,7,2.5,7
+2024-05-14,Diagnostics,6,5,1.8,8
+2024-05-15,Outpatient,13,14,0.0,25
+2024-05-15,Emergency,10,11,0.0,12
+2024-05-15,Maternity,7,7,0.0,9
+2024-05-15,Paediatrics,7,7,0.0,4
+2024-05-15,Surgical Clinic,8,8,0.0,4
+2024-05-15,Diagnostics,6,6,0.0,6
+2024-05-16,Outpatient,13,14,0.0,28
+2024-05-16,Emergency,10,8,1.9,8
+2024-05-16,Maternity,7,8,0.0,3
+2024-05-16,Paediatrics,7,7,0.0,11
+2024-05-16,Surgical Clinic,8,8,0.0,9
+2024-05-16,Diagnostics,6,5,1.1,6
+2024-05-17,Outpatient,13,12,2.4,18
+2024-05-17,Emergency,10,10,0.0,9
+2024-05-17,Maternity,7,7,0.0,4
+2024-05-17,Paediatrics,7,7,0.0,11
+2024-05-17,Surgical Clinic,8,7,2.7,10
+2024-05-17,Diagnostics,6,6,0.0,8
+2024-05-18,Outpatient,13,12,1.0,15
+2024-05-18,Emergency,10,10,0.0,12
+2024-05-18,Maternity,7,6,1.9,5
+2024-05-18,Paediatrics,7,7,0.0,5
+2024-05-18,Surgical Clinic,8,8,0.0,10
+2024-05-18,Diagnostics,6,5,2.8,2
+2024-05-19,Outpatient,13,12,1.2,18
+2024-05-19,Emergency,10,11,0.0,7
+2024-05-19,Maternity,7,7,0.0,4
+2024-05-19,Paediatrics,7,7,0.0,5
+2024-05-19,Surgical Clinic,8,7,1.9,4
+2024-05-19,Diagnostics,6,6,0.0,3
+2024-05-20,Outpatient,13,13,0.0,16
+2024-05-20,Emergency,10,10,0.0,11
+2024-05-20,Maternity,7,6,1.9,8
+2024-05-20,Paediatrics,7,7,0.0,6
+2024-05-20,Surgical Clinic,8,7,1.2,2
+2024-05-20,Diagnostics,6,6,0.0,2
+2024-05-21,Outpatient,13,13,0.0,24
+2024-05-21,Emergency,10,9,0.7,11
+2024-05-21,Maternity,7,7,0.0,4
+2024-05-21,Paediatrics,7,6,2.0,5
+2024-05-21,Surgical Clinic,8,7,2.5,6
+2024-05-21,Diagnostics,6,6,0.0,4
+2024-05-22,Outpatient,13,14,0.0,22
+2024-05-22,Emergency,10,10,0.0,15
+2024-05-22,Maternity,7,7,0.0,4
+2024-05-22,Paediatrics,7,7,0.0,7
+2024-05-22,Surgical Clinic,8,8,0.0,10
+2024-05-22,Diagnostics,6,5,1.0,6
+2024-05-23,Outpatient,13,12,2.6,26
+2024-05-23,Emergency,10,9,1.6,10
+2024-05-23,Maternity,7,7,0.0,4
+2024-05-23,Paediatrics,7,7,0.0,4
+2024-05-23,Surgical Clinic,8,7,1.0,9
+2024-05-23,Diagnostics,6,6,0.0,10
+2024-05-24,Outpatient,13,11,1.8,22
+2024-05-24,Emergency,10,9,2.3,9
+2024-05-24,Maternity,7,7,0.0,2
+2024-05-24,Paediatrics,7,7,0.0,7
+2024-05-24,Surgical Clinic,8,7,2.5,9
+2024-05-24,Diagnostics,6,6,0.0,3
+2024-05-25,Outpatient,13,11,2.9,15
+2024-05-25,Emergency,10,8,5.1,3
+2024-05-25,Maternity,7,6,2.6,4
+2024-05-25,Paediatrics,7,6,1.8,7
+2024-05-25,Surgical Clinic,8,8,0.0,7
+2024-05-25,Diagnostics,6,6,0.0,0
+2024-05-26,Outpatient,13,13,0.0,20
+2024-05-26,Emergency,10,10,0.0,3
+2024-05-26,Maternity,7,6,1.9,6
+2024-05-26,Paediatrics,7,7,0.0,4
+2024-05-26,Surgical Clinic,8,8,0.0,5
+2024-05-26,Diagnostics,6,5,0.7,3
+2024-05-27,Outpatient,13,12,1.8,25
+2024-05-27,Emergency,10,11,0.0,11
+2024-05-27,Maternity,7,7,0.0,6
+2024-05-27,Paediatrics,7,7,0.0,3
+2024-05-27,Surgical Clinic,8,8,0.0,8
+2024-05-27,Diagnostics,6,6,0.0,4
+2024-05-28,Outpatient,13,12,1.4,24
+2024-05-28,Emergency,10,10,0.0,9
+2024-05-28,Maternity,7,7,0.0,2
+2024-05-28,Paediatrics,7,7,0.0,5
+2024-05-28,Surgical Clinic,8,9,0.0,7
+2024-05-28,Diagnostics,6,6,0.0,3
+2024-05-29,Outpatient,13,12,0.9,27
+2024-05-29,Emergency,10,8,3.4,14
+2024-05-29,Maternity,7,7,0.0,7
+2024-05-29,Paediatrics,7,7,0.0,2
+2024-05-29,Surgical Clinic,8,8,0.0,11
+2024-05-29,Diagnostics,6,5,2.6,4
+2024-05-30,Outpatient,13,12,1.0,21
+2024-05-30,Emergency,10,8,3.1,10
+2024-05-30,Maternity,7,7,0.0,5
+2024-05-30,Paediatrics,7,6,1.1,4
+2024-05-30,Surgical Clinic,8,8,0.0,7
+2024-05-30,Diagnostics,6,6,0.0,6
+2024-05-31,Outpatient,13,13,0.0,21
+2024-05-31,Emergency,10,9,0.8,8
+2024-05-31,Maternity,7,7,0.0,5
+2024-05-31,Paediatrics,7,7,0.0,8
+2024-05-31,Surgical Clinic,8,9,0.0,8
+2024-05-31,Diagnostics,6,6,0.0,3
+2024-06-01,Outpatient,13,13,0.0,18
+2024-06-01,Emergency,10,9,2.2,7
+2024-06-01,Maternity,7,7,0.0,4
+2024-06-01,Paediatrics,7,8,0.0,7
+2024-06-01,Surgical Clinic,8,8,0.0,4
+2024-06-01,Diagnostics,6,7,0.0,3
+2024-06-02,Outpatient,13,12,1.3,15
+2024-06-02,Emergency,10,10,0.0,6
+2024-06-02,Maternity,7,7,0.0,2
+2024-06-02,Paediatrics,7,7,0.0,4
+2024-06-02,Surgical Clinic,8,8,0.0,2
+2024-06-02,Diagnostics,6,5,1.4,4
+2024-06-03,Outpatient,13,12,0.5,15
+2024-06-03,Emergency,10,9,2.5,10
+2024-06-03,Maternity,7,6,2.5,2
+2024-06-03,Paediatrics,7,7,0.0,5
+2024-06-03,Surgical Clinic,8,8,0.0,5
+2024-06-03,Diagnostics,6,6,0.0,5
+2024-06-04,Outpatient,13,12,1.7,22
+2024-06-04,Emergency,10,10,0.0,12
+2024-06-04,Maternity,7,6,1.4,5
+2024-06-04,Paediatrics,7,7,0.0,5
+2024-06-04,Surgical Clinic,8,8,0.0,8
+2024-06-04,Diagnostics,6,5,0.4,7
+2024-06-05,Outpatient,13,14,0.0,21
+2024-06-05,Emergency,10,10,0.0,9
+2024-06-05,Maternity,7,7,0.0,3
+2024-06-05,Paediatrics,7,7,0.0,5
+2024-06-05,Surgical Clinic,8,8,0.0,6
+2024-06-05,Diagnostics,6,5,1.7,6
+2024-06-06,Outpatient,13,13,0.0,28
+2024-06-06,Emergency,10,9,0.5,10
+2024-06-06,Maternity,7,6,0.6,10
+2024-06-06,Paediatrics,7,7,0.0,5
+2024-06-06,Surgical Clinic,8,7,2.7,9
+2024-06-06,Diagnostics,6,6,0.0,7
+2024-06-07,Outpatient,13,11,3.1,27
+2024-06-07,Emergency,10,10,0.0,9
+2024-06-07,Maternity,7,7,0.0,7
+2024-06-07,Paediatrics,7,8,0.0,3
+2024-06-07,Surgical Clinic,8,7,1.1,10
+2024-06-07,Diagnostics,6,7,0.0,3
+2024-06-08,Outpatient,13,12,0.9,18
+2024-06-08,Emergency,10,9,0.4,6
+2024-06-08,Maternity,7,7,0.0,5
+2024-06-08,Paediatrics,7,8,0.0,5
+2024-06-08,Surgical Clinic,8,7,1.4,5
+2024-06-08,Diagnostics,6,6,0.0,1
+2024-06-09,Outpatient,13,12,1.9,16
+2024-06-09,Emergency,10,9,2.0,8
+2024-06-09,Maternity,7,6,1.0,2
+2024-06-09,Paediatrics,7,7,0.0,3
+2024-06-09,Surgical Clinic,8,9,0.0,7
+2024-06-09,Diagnostics,6,6,0.0,4
+2024-06-10,Outpatient,13,12,1.4,26
+2024-06-10,Emergency,10,10,0.0,11
+2024-06-10,Maternity,7,7,0.0,8
+2024-06-10,Paediatrics,7,6,2.7,5
+2024-06-10,Surgical Clinic,8,7,0.8,9
+2024-06-10,Diagnostics,6,6,0.0,9
+2024-06-11,Outpatient,13,12,2.3,16
+2024-06-11,Emergency,10,9,0.4,11
+2024-06-11,Maternity,7,6,0.9,4
+2024-06-11,Paediatrics,7,7,0.0,4
+2024-06-11,Surgical Clinic,8,8,0.0,12
+2024-06-11,Diagnostics,6,6,0.0,12
+2024-06-12,Outpatient,13,12,0.5,18
+2024-06-12,Emergency,10,10,0.0,8
+2024-06-12,Maternity,7,6,2.7,7
+2024-06-12,Paediatrics,7,6,0.5,12
+2024-06-12,Surgical Clinic,8,7,0.5,8
+2024-06-12,Diagnostics,6,5,1.1,1
+2024-06-13,Outpatient,13,13,0.0,24
+2024-06-13,Emergency,10,9,0.6,9
+2024-06-13,Maternity,7,7,0.0,5
+2024-06-13,Paediatrics,7,7,0.0,8
+2024-06-13,Surgical Clinic,8,8,0.0,8
+2024-06-13,Diagnostics,6,6,0.0,1
+2024-06-14,Outpatient,13,12,1.4,27
+2024-06-14,Emergency,10,9,2.1,8
+2024-06-14,Maternity,7,7,0.0,9
+2024-06-14,Paediatrics,7,8,0.0,8
+2024-06-14,Surgical Clinic,8,8,0.0,3
+2024-06-14,Diagnostics,6,6,0.0,3
+2024-06-15,Outpatient,13,12,1.8,20
+2024-06-15,Emergency,10,10,0.0,9
+2024-06-15,Maternity,7,7,0.0,4
+2024-06-15,Paediatrics,7,7,0.0,5
+2024-06-15,Surgical Clinic,8,8,0.0,2
+2024-06-15,Diagnostics,6,6,0.0,5
+2024-06-16,Outpatient,13,12,2.1,19
+2024-06-16,Emergency,10,10,0.0,7
+2024-06-16,Maternity,7,6,2.4,3
+2024-06-16,Paediatrics,7,6,2.5,1
+2024-06-16,Surgical Clinic,8,7,1.4,3
+2024-06-16,Diagnostics,6,5,1.3,4
+2024-06-17,Outpatient,13,12,0.9,20
+2024-06-17,Emergency,10,8,2.8,7
+2024-06-17,Maternity,7,7,0.0,2
+2024-06-17,Paediatrics,7,7,0.0,8
+2024-06-17,Surgical Clinic,8,8,0.0,6
+2024-06-17,Diagnostics,6,6,0.0,6
+2024-06-18,Outpatient,13,14,0.0,25
+2024-06-18,Emergency,10,10,0.0,17
+2024-06-18,Maternity,7,6,2.2,9
+2024-06-18,Paediatrics,7,7,0.0,9
+2024-06-18,Surgical Clinic,8,8,0.0,8
+2024-06-18,Diagnostics,6,5,0.6,5
+2024-06-19,Outpatient,13,14,0.0,17
+2024-06-19,Emergency,10,10,0.0,7
+2024-06-19,Maternity,7,6,2.8,10
+2024-06-19,Paediatrics,7,7,0.0,4
+2024-06-19,Surgical Clinic,8,7,2.1,10
+2024-06-19,Diagnostics,6,6,0.0,5
+2024-06-20,Outpatient,13,13,0.0,25
+2024-06-20,Emergency,10,9,1.1,17
+2024-06-20,Maternity,7,7,0.0,9
+2024-06-20,Paediatrics,7,7,0.0,8
+2024-06-20,Surgical Clinic,8,8,0.0,7
+2024-06-20,Diagnostics,6,6,0.0,3
+2024-06-21,Outpatient,13,11,1.8,24
+2024-06-21,Emergency,10,9,2.6,11
+2024-06-21,Maternity,7,7,0.0,1
+2024-06-21,Paediatrics,7,6,0.6,7
+2024-06-21,Surgical Clinic,8,8,0.0,5
+2024-06-21,Diagnostics,6,6,0.0,7
+2024-06-22,Outpatient,13,12,1.6,15
+2024-06-22,Emergency,10,11,0.0,7
+2024-06-22,Maternity,7,7,0.0,2
+2024-06-22,Paediatrics,7,7,0.0,2
+2024-06-22,Surgical Clinic,8,8,0.0,5
+2024-06-22,Diagnostics,6,5,2.0,3
+2024-06-23,Outpatient,13,14,0.0,14
+2024-06-23,Emergency,10,9,1.6,7
+2024-06-23,Maternity,7,6,2.2,2
+2024-06-23,Paediatrics,7,6,1.1,4
+2024-06-23,Surgical Clinic,8,8,0.0,8
+2024-06-23,Diagnostics,6,6,0.0,3
+2024-06-24,Outpatient,13,14,0.0,33
+2024-06-24,Emergency,10,10,0.0,8
+2024-06-24,Maternity,7,6,2.0,6
+2024-06-24,Paediatrics,7,5,5.3,3
+2024-06-24,Surgical Clinic,8,9,0.0,6
+2024-06-24,Diagnostics,6,6,0.0,6
+2024-06-25,Outpatient,13,13,0.0,26
+2024-06-25,Emergency,10,10,0.0,6
+2024-06-25,Maternity,7,6,2.1,5
+2024-06-25,Paediatrics,7,6,0.5,8
+2024-06-25,Surgical Clinic,8,7,2.1,7
+2024-06-25,Diagnostics,6,6,0.0,7
+2024-06-26,Outpatient,13,12,2.4,29
+2024-06-26,Emergency,10,10,0.0,4
+2024-06-26,Maternity,7,7,0.0,4
+2024-06-26,Paediatrics,7,7,0.0,4
+2024-06-26,Surgical Clinic,8,7,2.6,3
+2024-06-26,Diagnostics,6,5,1.3,5
+2024-06-27,Outpatient,13,13,0.0,32
+2024-06-27,Emergency,10,11,0.0,8
+2024-06-27,Maternity,7,6,1.0,5
+2024-06-27,Paediatrics,7,6,2.7,6
+2024-06-27,Surgical Clinic,8,8,0.0,6
+2024-06-27,Diagnostics,6,6,0.0,4
+2024-06-28,Outpatient,13,12,2.3,20
+2024-06-28,Emergency,10,11,0.0,7
+2024-06-28,Maternity,7,6,1.4,4
+2024-06-28,Paediatrics,7,7,0.0,11
+2024-06-28,Surgical Clinic,8,7,1.7,9
+2024-06-28,Diagnostics,6,5,1.8,8
+2024-06-29,Outpatient,13,11,4.3,20
+2024-06-29,Emergency,10,9,1.2,5
+2024-06-29,Maternity,7,7,0.0,4
+2024-06-29,Paediatrics,7,6,2.6,4
+2024-06-29,Surgical Clinic,8,8,0.0,5
+2024-06-29,Diagnostics,6,5,1.1,2
+2024-06-30,Outpatient,13,13,0.0,14
+2024-06-30,Emergency,10,10,0.0,5
+2024-06-30,Maternity,7,6,2.7,2
+2024-06-30,Paediatrics,7,7,0.0,7
+2024-06-30,Surgical Clinic,8,8,0.0,4
+2024-06-30,Diagnostics,6,6,0.0,3
+2024-07-01,Outpatient,13,12,1.1,25
+2024-07-01,Emergency,10,10,0.0,8
+2024-07-01,Maternity,7,7,0.0,7
+2024-07-01,Paediatrics,7,7,0.0,8
+2024-07-01,Surgical Clinic,8,7,2.5,5
+2024-07-01,Diagnostics,6,5,1.9,10
+2024-07-02,Outpatient,13,13,0.0,14
+2024-07-02,Emergency,10,10,0.0,7
+2024-07-02,Maternity,7,8,0.0,5
+2024-07-02,Paediatrics,7,6,2.2,8
+2024-07-02,Surgical Clinic,8,7,2.1,6
+2024-07-02,Diagnostics,6,5,2.8,4
+2024-07-03,Outpatient,13,14,0.0,11
+2024-07-03,Emergency,10,10,0.0,7
+2024-07-03,Maternity,7,7,0.0,12
+2024-07-03,Paediatrics,7,6,2.0,11
+2024-07-03,Surgical Clinic,8,7,1.2,3
+2024-07-03,Diagnostics,6,6,0.0,4
+2024-07-04,Outpatient,13,13,0.0,29
+2024-07-04,Emergency,10,11,0.0,8
+2024-07-04,Maternity,7,6,0.9,2
+2024-07-04,Paediatrics,7,7,0.0,10
+2024-07-04,Surgical Clinic,8,8,0.0,9
+2024-07-04,Diagnostics,6,6,0.0,5
+2024-07-05,Outpatient,13,12,0.8,21
+2024-07-05,Emergency,10,10,0.0,6
+2024-07-05,Maternity,7,8,0.0,5
+2024-07-05,Paediatrics,7,7,0.0,6
+2024-07-05,Surgical Clinic,8,8,0.0,6
+2024-07-05,Diagnostics,6,6,0.0,4
+2024-07-06,Outpatient,13,13,0.0,23
+2024-07-06,Emergency,10,10,0.0,3
+2024-07-06,Maternity,7,7,0.0,5
+2024-07-06,Paediatrics,7,7,0.0,4
+2024-07-06,Surgical Clinic,8,8,0.0,10
+2024-07-06,Diagnostics,6,5,0.9,4
+2024-07-07,Outpatient,13,14,0.0,19
+2024-07-07,Emergency,10,9,2.1,7
+2024-07-07,Maternity,7,6,1.0,8
+2024-07-07,Paediatrics,7,6,1.1,4
+2024-07-07,Surgical Clinic,8,8,0.0,1
+2024-07-07,Diagnostics,6,6,0.0,3
+2024-07-08,Outpatient,13,14,0.0,21
+2024-07-08,Emergency,10,9,2.5,6
+2024-07-08,Maternity,7,5,3.1,5
+2024-07-08,Paediatrics,7,7,0.0,8
+2024-07-08,Surgical Clinic,8,8,0.0,8
+2024-07-08,Diagnostics,6,6,0.0,5
+2024-07-09,Outpatient,13,14,0.0,21
+2024-07-09,Emergency,10,10,0.0,17
+2024-07-09,Maternity,7,6,0.7,8
+2024-07-09,Paediatrics,7,7,0.0,5
+2024-07-09,Surgical Clinic,8,8,0.0,6
+2024-07-09,Diagnostics,6,6,0.0,2
+2024-07-10,Outpatient,13,13,0.0,21
+2024-07-10,Emergency,10,10,0.0,16
+2024-07-10,Maternity,7,6,1.2,3
+2024-07-10,Paediatrics,7,6,2.0,4
+2024-07-10,Surgical Clinic,8,6,1.9,15
+2024-07-10,Diagnostics,6,6,0.0,3
+2024-07-11,Outpatient,13,12,1.1,28
+2024-07-11,Emergency,10,8,1.9,4
+2024-07-11,Maternity,7,7,0.0,10
+2024-07-11,Paediatrics,7,7,0.0,8
+2024-07-11,Surgical Clinic,8,8,0.0,6
+2024-07-11,Diagnostics,6,5,1.6,6
+2024-07-12,Outpatient,13,13,0.0,29
+2024-07-12,Emergency,10,10,0.0,13
+2024-07-12,Maternity,7,7,0.0,9
+2024-07-12,Paediatrics,7,6,2.5,5
+2024-07-12,Surgical Clinic,8,8,0.0,10
+2024-07-12,Diagnostics,6,6,0.0,6
+2024-07-13,Outpatient,13,14,0.0,15
+2024-07-13,Emergency,10,10,0.0,5
+2024-07-13,Maternity,7,8,0.0,7
+2024-07-13,Paediatrics,7,6,1.6,9
+2024-07-13,Surgical Clinic,8,8,0.0,5
+2024-07-13,Diagnostics,6,6,0.0,4
+2024-07-14,Outpatient,13,14,0.0,17
+2024-07-14,Emergency,10,9,2.7,7
+2024-07-14,Maternity,7,6,0.6,6
+2024-07-14,Paediatrics,7,6,1.4,5
+2024-07-14,Surgical Clinic,8,8,0.0,4
+2024-07-14,Diagnostics,6,5,0.9,2
+2024-07-15,Outpatient,13,12,1.7,16
+2024-07-15,Emergency,10,10,0.0,8
+2024-07-15,Maternity,7,7,0.0,5
+2024-07-15,Paediatrics,7,6,0.5,5
+2024-07-15,Surgical Clinic,8,8,0.0,2
+2024-07-15,Diagnostics,6,5,1.8,4
+2024-07-16,Outpatient,13,13,0.0,21
+2024-07-16,Emergency,10,10,0.0,3
+2024-07-16,Maternity,7,7,0.0,6
+2024-07-16,Paediatrics,7,7,0.0,1
+2024-07-16,Surgical Clinic,8,8,0.0,2
+2024-07-16,Diagnostics,6,6,0.0,6
+2024-07-17,Outpatient,13,13,0.0,21
+2024-07-17,Emergency,10,11,0.0,11
+2024-07-17,Maternity,7,7,0.0,6
+2024-07-17,Paediatrics,7,7,0.0,6
+2024-07-17,Surgical Clinic,8,7,1.4,7
+2024-07-17,Diagnostics,6,7,0.0,4
+2024-07-18,Outpatient,13,13,0.0,20
+2024-07-18,Emergency,10,10,0.0,9
+2024-07-18,Maternity,7,7,0.0,4
+2024-07-18,Paediatrics,7,7,0.0,2
+2024-07-18,Surgical Clinic,8,8,0.0,5
+2024-07-18,Diagnostics,6,5,0.7,3
+2024-07-19,Outpatient,13,12,2.0,21
+2024-07-19,Emergency,10,10,0.0,5
+2024-07-19,Maternity,7,7,0.0,6
+2024-07-19,Paediatrics,7,8,0.0,8
+2024-07-19,Surgical Clinic,8,7,1.5,8
+2024-07-19,Diagnostics,6,5,2.5,2
+2024-07-20,Outpatient,13,13,0.0,25
+2024-07-20,Emergency,10,10,0.0,10
+2024-07-20,Maternity,7,7,0.0,4
+2024-07-20,Paediatrics,7,7,0.0,5
+2024-07-20,Surgical Clinic,8,8,0.0,8
+2024-07-20,Diagnostics,6,6,0.0,5
+2024-07-21,Outpatient,13,12,1.2,7
+2024-07-21,Emergency,10,9,1.7,3
+2024-07-21,Maternity,7,6,2.7,4
+2024-07-21,Paediatrics,7,6,2.6,1
+2024-07-21,Surgical Clinic,8,8,0.0,1
+2024-07-21,Diagnostics,6,5,1.8,3
+2024-07-22,Outpatient,13,13,0.0,25
+2024-07-22,Emergency,10,10,0.0,16
+2024-07-22,Maternity,7,7,0.0,9
+2024-07-22,Paediatrics,7,6,0.6,6
+2024-07-22,Surgical Clinic,8,7,1.8,4
+2024-07-22,Diagnostics,6,6,0.0,2
+2024-07-23,Outpatient,13,12,0.5,27
+2024-07-23,Emergency,10,9,0.5,19
+2024-07-23,Maternity,7,7,0.0,5
+2024-07-23,Paediatrics,7,6,2.3,4
+2024-07-23,Surgical Clinic,8,8,0.0,8
+2024-07-23,Diagnostics,6,6,0.0,3
+2024-07-24,Outpatient,13,11,4.0,29
+2024-07-24,Emergency,10,10,0.0,6
+2024-07-24,Maternity,7,7,0.0,5
+2024-07-24,Paediatrics,7,7,0.0,6
+2024-07-24,Surgical Clinic,8,8,0.0,9
+2024-07-24,Diagnostics,6,5,0.8,5
+2024-07-25,Outpatient,13,13,0.0,24
+2024-07-25,Emergency,10,11,0.0,10
+2024-07-25,Maternity,7,6,2.0,7
+2024-07-25,Paediatrics,7,6,2.0,7
+2024-07-25,Surgical Clinic,8,8,0.0,2
+2024-07-25,Diagnostics,6,5,0.9,4
+2024-07-26,Outpatient,13,13,0.0,24
+2024-07-26,Emergency,10,10,0.0,11
+2024-07-26,Maternity,7,7,0.0,5
+2024-07-26,Paediatrics,7,7,0.0,2
+2024-07-26,Surgical Clinic,8,7,1.3,9
+2024-07-26,Diagnostics,6,6,0.0,9
+2024-07-27,Outpatient,13,14,0.0,16
+2024-07-27,Emergency,10,10,0.0,5
+2024-07-27,Maternity,7,7,0.0,1
+2024-07-27,Paediatrics,7,6,0.7,4
+2024-07-27,Surgical Clinic,8,7,0.9,7
+2024-07-27,Diagnostics,6,6,0.0,5
+2024-07-28,Outpatient,13,11,4.2,13
+2024-07-28,Emergency,10,9,2.6,8
+2024-07-28,Maternity,7,7,0.0,6
+2024-07-28,Paediatrics,7,6,1.6,8
+2024-07-28,Surgical Clinic,8,7,1.8,7
+2024-07-28,Diagnostics,6,6,0.0,2
+2024-07-29,Outpatient,13,13,0.0,19
+2024-07-29,Emergency,10,9,2.2,8
+2024-07-29,Maternity,7,7,0.0,8
+2024-07-29,Paediatrics,7,6,2.7,6
+2024-07-29,Surgical Clinic,8,8,0.0,7
+2024-07-29,Diagnostics,6,5,2.7,5
+2024-07-30,Outpatient,13,13,0.0,19
+2024-07-30,Emergency,10,9,0.5,9
+2024-07-30,Maternity,7,6,0.4,8
+2024-07-30,Paediatrics,7,6,1.2,2
+2024-07-30,Surgical Clinic,8,8,0.0,7
+2024-07-30,Diagnostics,6,6,0.0,8
+2024-07-31,Outpatient,13,11,3.1,15
+2024-07-31,Emergency,10,9,1.9,10
+2024-07-31,Maternity,7,6,2.6,4
+2024-07-31,Paediatrics,7,6,1.4,6
+2024-07-31,Surgical Clinic,8,7,1.8,7
+2024-07-31,Diagnostics,6,6,0.0,5
+2024-08-01,Outpatient,13,13,0.0,21
+2024-08-01,Emergency,10,10,0.0,6
+2024-08-01,Maternity,7,7,0.0,5
+2024-08-01,Paediatrics,7,7,0.0,4
+2024-08-01,Surgical Clinic,8,7,0.5,9
+2024-08-01,Diagnostics,6,6,0.0,4
+2024-08-02,Outpatient,13,13,0.0,22
+2024-08-02,Emergency,10,10,0.0,12
+2024-08-02,Maternity,7,6,0.4,6
+2024-08-02,Paediatrics,7,6,2.3,4
+2024-08-02,Surgical Clinic,8,7,1.5,5
+2024-08-02,Diagnostics,6,5,2.3,5
+2024-08-03,Outpatient,13,14,0.0,19
+2024-08-03,Emergency,10,10,0.0,12
+2024-08-03,Maternity,7,6,2.7,6
+2024-08-03,Paediatrics,7,7,0.0,6
+2024-08-03,Surgical Clinic,8,8,0.0,6
+2024-08-03,Diagnostics,6,6,0.0,3
+2024-08-04,Outpatient,13,12,2.8,18
+2024-08-04,Emergency,10,10,0.0,8
+2024-08-04,Maternity,7,6,1.9,3
+2024-08-04,Paediatrics,7,7,0.0,3
+2024-08-04,Surgical Clinic,8,9,0.0,2
+2024-08-04,Diagnostics,6,6,0.0,3
+2024-08-05,Outpatient,13,11,2.0,25
+2024-08-05,Emergency,10,9,1.3,14
+2024-08-05,Maternity,7,7,0.0,3
+2024-08-05,Paediatrics,7,7,0.0,7
+2024-08-05,Surgical Clinic,8,8,0.0,5
+2024-08-05,Diagnostics,6,6,0.0,3
+2024-08-06,Outpatient,13,13,0.0,32
+2024-08-06,Emergency,10,9,0.9,5
+2024-08-06,Maternity,7,7,0.0,2
+2024-08-06,Paediatrics,7,7,0.0,8
+2024-08-06,Surgical Clinic,8,8,0.0,9
+2024-08-06,Diagnostics,6,6,0.0,5
+2024-08-07,Outpatient,13,12,1.0,32
+2024-08-07,Emergency,10,9,1.9,14
+2024-08-07,Maternity,7,6,1.9,10
+2024-08-07,Paediatrics,7,7,0.0,4
+2024-08-07,Surgical Clinic,8,7,2.2,6
+2024-08-07,Diagnostics,6,6,0.0,3
+2024-08-08,Outpatient,13,14,0.0,33
+2024-08-08,Emergency,10,10,0.0,10
+2024-08-08,Maternity,7,7,0.0,8
+2024-08-08,Paediatrics,7,7,0.0,4
+2024-08-08,Surgical Clinic,8,7,0.7,6
+2024-08-08,Diagnostics,6,6,0.0,9
+2024-08-09,Outpatient,13,12,0.6,24
+2024-08-09,Emergency,10,10,0.0,3
+2024-08-09,Maternity,7,5,1.9,10
+2024-08-09,Paediatrics,7,7,0.0,8
+2024-08-09,Surgical Clinic,8,8,0.0,9
+2024-08-09,Diagnostics,6,5,1.9,2
+2024-08-10,Outpatient,13,14,0.0,17
+2024-08-10,Emergency,10,9,2.2,4
+2024-08-10,Maternity,7,6,2.1,1
+2024-08-10,Paediatrics,7,6,1.9,2
+2024-08-10,Surgical Clinic,8,7,0.5,7
+2024-08-10,Diagnostics,6,6,0.0,3
+2024-08-11,Outpatient,13,14,0.0,15
+2024-08-11,Emergency,10,11,0.0,6
+2024-08-11,Maternity,7,7,0.0,7
+2024-08-11,Paediatrics,7,7,0.0,2
+2024-08-11,Surgical Clinic,8,7,0.6,6
+2024-08-11,Diagnostics,6,6,0.0,1
+2024-08-12,Outpatient,13,12,2.0,15
+2024-08-12,Emergency,10,10,0.0,13
+2024-08-12,Maternity,7,7,0.0,8
+2024-08-12,Paediatrics,7,7,0.0,5
+2024-08-12,Surgical Clinic,8,8,0.0,9
+2024-08-12,Diagnostics,6,5,1.9,2
+2024-08-13,Outpatient,13,12,1.3,18
+2024-08-13,Emergency,10,10,0.0,4
+2024-08-13,Maternity,7,7,0.0,4
+2024-08-13,Paediatrics,7,7,0.0,5
+2024-08-13,Surgical Clinic,8,7,0.8,9
+2024-08-13,Diagnostics,6,6,0.0,5
+2024-08-14,Outpatient,13,13,0.0,23
+2024-08-14,Emergency,10,10,0.0,12
+2024-08-14,Maternity,7,7,0.0,9
+2024-08-14,Paediatrics,7,8,0.0,8
+2024-08-14,Surgical Clinic,8,8,0.0,4
+2024-08-14,Diagnostics,6,6,0.0,4
+2024-08-15,Outpatient,13,13,0.0,22
+2024-08-15,Emergency,10,10,0.0,8
+2024-08-15,Maternity,7,7,0.0,5
+2024-08-15,Paediatrics,7,7,0.0,3
+2024-08-15,Surgical Clinic,8,8,0.0,9
+2024-08-15,Diagnostics,6,6,0.0,5
+2024-08-16,Outpatient,13,13,0.0,21
+2024-08-16,Emergency,10,11,0.0,11
+2024-08-16,Maternity,7,7,0.0,7
+2024-08-16,Paediatrics,7,6,1.1,9
+2024-08-16,Surgical Clinic,8,7,2.6,5
+2024-08-16,Diagnostics,6,5,1.2,6
+2024-08-17,Outpatient,13,13,0.0,13
+2024-08-17,Emergency,10,10,0.0,7
+2024-08-17,Maternity,7,6,2.7,4
+2024-08-17,Paediatrics,7,6,1.0,4
+2024-08-17,Surgical Clinic,8,7,1.3,6
+2024-08-17,Diagnostics,6,6,0.0,5
+2024-08-18,Outpatient,13,13,0.0,6
+2024-08-18,Emergency,10,10,0.0,8
+2024-08-18,Maternity,7,7,0.0,7
+2024-08-18,Paediatrics,7,7,0.0,4
+2024-08-18,Surgical Clinic,8,7,2.4,6
+2024-08-18,Diagnostics,6,6,0.0,1
+2024-08-19,Outpatient,13,13,0.0,22
+2024-08-19,Emergency,10,9,2.7,6
+2024-08-19,Maternity,7,7,0.0,6
+2024-08-19,Paediatrics,7,8,0.0,6
+2024-08-19,Surgical Clinic,8,8,0.0,9
+2024-08-19,Diagnostics,6,5,0.9,2
+2024-08-20,Outpatient,13,13,0.0,21
+2024-08-20,Emergency,10,9,2.7,19
+2024-08-20,Maternity,7,7,0.0,4
+2024-08-20,Paediatrics,7,7,0.0,9
+2024-08-20,Surgical Clinic,8,8,0.0,3
+2024-08-20,Diagnostics,6,5,0.4,3
+2024-08-21,Outpatient,13,13,0.0,20
+2024-08-21,Emergency,10,8,5.3,5
+2024-08-21,Maternity,7,6,2.1,7
+2024-08-21,Paediatrics,7,7,0.0,7
+2024-08-21,Surgical Clinic,8,8,0.0,5
+2024-08-21,Diagnostics,6,5,1.7,8
+2024-08-22,Outpatient,13,13,0.0,14
+2024-08-22,Emergency,10,10,0.0,12
+2024-08-22,Maternity,7,7,0.0,8
+2024-08-22,Paediatrics,7,7,0.0,4
+2024-08-22,Surgical Clinic,8,7,1.3,8
+2024-08-22,Diagnostics,6,6,0.0,3
+2024-08-23,Outpatient,13,12,2.0,30
+2024-08-23,Emergency,10,10,0.0,17
+2024-08-23,Maternity,7,8,0.0,3
+2024-08-23,Paediatrics,7,7,0.0,1
+2024-08-23,Surgical Clinic,8,8,0.0,5
+2024-08-23,Diagnostics,6,6,0.0,6
+2024-08-24,Outpatient,13,13,0.0,19
+2024-08-24,Emergency,10,10,0.0,8
+2024-08-24,Maternity,7,7,0.0,5
+2024-08-24,Paediatrics,7,7,0.0,10
+2024-08-24,Surgical Clinic,8,8,0.0,3
+2024-08-24,Diagnostics,6,5,2.3,5
+2024-08-25,Outpatient,13,14,0.0,17
+2024-08-25,Emergency,10,10,0.0,7
+2024-08-25,Maternity,7,7,0.0,5
+2024-08-25,Paediatrics,7,6,1.8,2
+2024-08-25,Surgical Clinic,8,8,0.0,4
+2024-08-25,Diagnostics,6,5,2.2,1
+2024-08-26,Outpatient,13,12,1.2,16
+2024-08-26,Emergency,10,9,2.8,6
+2024-08-26,Maternity,7,7,0.0,1
+2024-08-26,Paediatrics,7,7,0.0,6
+2024-08-26,Surgical Clinic,8,8,0.0,9
+2024-08-26,Diagnostics,6,6,0.0,2
+2024-08-27,Outpatient,13,11,2.3,26
+2024-08-27,Emergency,10,10,0.0,9
+2024-08-27,Maternity,7,6,1.0,7
+2024-08-27,Paediatrics,7,7,0.0,5
+2024-08-27,Surgical Clinic,8,7,2.7,7
+2024-08-27,Diagnostics,6,6,0.0,1
+2024-08-28,Outpatient,13,13,0.0,23
+2024-08-28,Emergency,10,10,0.0,10
+2024-08-28,Maternity,7,6,1.2,4
+2024-08-28,Paediatrics,7,6,2.3,6
+2024-08-28,Surgical Clinic,8,7,2.1,8
+2024-08-28,Diagnostics,6,6,0.0,11
+2024-08-29,Outpatient,13,13,0.0,13
+2024-08-29,Emergency,10,10,0.0,10
+2024-08-29,Maternity,7,6,2.6,6
+2024-08-29,Paediatrics,7,7,0.0,7
+2024-08-29,Surgical Clinic,8,7,1.4,8
+2024-08-29,Diagnostics,6,6,0.0,4
+2024-08-30,Outpatient,13,12,2.3,17
+2024-08-30,Emergency,10,9,1.6,13
+2024-08-30,Maternity,7,6,0.6,8
+2024-08-30,Paediatrics,7,6,2.7,5
+2024-08-30,Surgical Clinic,8,8,0.0,7
+2024-08-30,Diagnostics,6,7,0.0,2
+2024-08-31,Outpatient,13,13,0.0,13
+2024-08-31,Emergency,10,11,0.0,6
+2024-08-31,Maternity,7,7,0.0,4
+2024-08-31,Paediatrics,7,7,0.0,9
+2024-08-31,Surgical Clinic,8,8,0.0,1
+2024-08-31,Diagnostics,6,5,0.9,5
+2024-09-01,Outpatient,13,11,3.7,14
+2024-09-01,Emergency,10,10,0.0,8
+2024-09-01,Maternity,7,7,0.0,1
+2024-09-01,Paediatrics,7,7,0.0,4
+2024-09-01,Surgical Clinic,8,8,0.0,6
+2024-09-01,Diagnostics,6,5,1.1,3
+2024-09-02,Outpatient,13,12,1.2,22
+2024-09-02,Emergency,10,9,2.8,11
+2024-09-02,Maternity,7,8,0.0,5
+2024-09-02,Paediatrics,7,7,0.0,10
+2024-09-02,Surgical Clinic,8,7,1.9,5
+2024-09-02,Diagnostics,6,6,0.0,5
+2024-09-03,Outpatient,13,11,3.0,22
+2024-09-03,Emergency,10,10,0.0,5
+2024-09-03,Maternity,7,7,0.0,7
+2024-09-03,Paediatrics,7,7,0.0,5
+2024-09-03,Surgical Clinic,8,7,2.1,6
+2024-09-03,Diagnostics,6,6,0.0,1
+2024-09-04,Outpatient,13,11,2.7,32
+2024-09-04,Emergency,10,8,1.3,16
+2024-09-04,Maternity,7,7,0.0,6
+2024-09-04,Paediatrics,7,7,0.0,5
+2024-09-04,Surgical Clinic,8,8,0.0,7
+2024-09-04,Diagnostics,6,5,1.7,6
+2024-09-05,Outpatient,13,12,2.2,27
+2024-09-05,Emergency,10,10,0.0,17
+2024-09-05,Maternity,7,6,0.9,3
+2024-09-05,Paediatrics,7,7,0.0,9
+2024-09-05,Surgical Clinic,8,9,0.0,8
+2024-09-05,Diagnostics,6,6,0.0,5
+2024-09-06,Outpatient,13,13,0.0,20
+2024-09-06,Emergency,10,9,1.2,15
+2024-09-06,Maternity,7,7,0.0,6
+2024-09-06,Paediatrics,7,7,0.0,5
+2024-09-06,Surgical Clinic,8,7,2.5,10
+2024-09-06,Diagnostics,6,6,0.0,7
+2024-09-07,Outpatient,13,11,4.0,20
+2024-09-07,Emergency,10,10,0.0,5
+2024-09-07,Maternity,7,6,2.1,6
+2024-09-07,Paediatrics,7,8,0.0,3
+2024-09-07,Surgical Clinic,8,8,0.0,10
+2024-09-07,Diagnostics,6,6,0.0,8
+2024-09-08,Outpatient,13,14,0.0,21
+2024-09-08,Emergency,10,10,0.0,9
+2024-09-08,Maternity,7,7,0.0,4
+2024-09-08,Paediatrics,7,8,0.0,8
+2024-09-08,Surgical Clinic,8,8,0.0,7
+2024-09-08,Diagnostics,6,5,2.7,4
+2024-09-09,Outpatient,13,13,0.0,21
+2024-09-09,Emergency,10,9,2.4,12
+2024-09-09,Maternity,7,7,0.0,9
+2024-09-09,Paediatrics,7,7,0.0,8
+2024-09-09,Surgical Clinic,8,7,0.7,1
+2024-09-09,Diagnostics,6,5,2.7,4
+2024-09-10,Outpatient,13,12,0.4,28
+2024-09-10,Emergency,10,9,1.9,10
+2024-09-10,Maternity,7,7,0.0,4
+2024-09-10,Paediatrics,7,8,0.0,8
+2024-09-10,Surgical Clinic,8,7,2.0,7
+2024-09-10,Diagnostics,6,5,2.3,2
+2024-09-11,Outpatient,13,12,1.7,33
+2024-09-11,Emergency,10,10,0.0,16
+2024-09-11,Maternity,7,5,3.0,6
+2024-09-11,Paediatrics,7,7,0.0,13
+2024-09-11,Surgical Clinic,8,6,4.9,8
+2024-09-11,Diagnostics,6,6,0.0,5
+2024-09-12,Outpatient,13,13,0.0,20
+2024-09-12,Emergency,10,10,0.0,6
+2024-09-12,Maternity,7,8,0.0,5
+2024-09-12,Paediatrics,7,7,0.0,9
+2024-09-12,Surgical Clinic,8,9,0.0,7
+2024-09-12,Diagnostics,6,5,1.8,7
+2024-09-13,Outpatient,13,11,2.6,26
+2024-09-13,Emergency,10,10,0.0,10
+2024-09-13,Maternity,7,6,0.9,5
+2024-09-13,Paediatrics,7,7,0.0,8
+2024-09-13,Surgical Clinic,8,8,0.0,2
+2024-09-13,Diagnostics,6,5,2.7,1
+2024-09-14,Outpatient,13,11,1.0,13
+2024-09-14,Emergency,10,11,0.0,9
+2024-09-14,Maternity,7,7,0.0,3
+2024-09-14,Paediatrics,7,7,0.0,4
+2024-09-14,Surgical Clinic,8,8,0.0,7
+2024-09-14,Diagnostics,6,6,0.0,1
+2024-09-15,Outpatient,13,13,0.0,23
+2024-09-15,Emergency,10,10,0.0,5
+2024-09-15,Maternity,7,7,0.0,7
+2024-09-15,Paediatrics,7,7,0.0,3
+2024-09-15,Surgical Clinic,8,8,0.0,6
+2024-09-15,Diagnostics,6,6,0.0,3
+2024-09-16,Outpatient,13,11,2.7,13
+2024-09-16,Emergency,10,9,1.0,8
+2024-09-16,Maternity,7,7,0.0,11
+2024-09-16,Paediatrics,7,7,0.0,9
+2024-09-16,Surgical Clinic,8,8,0.0,3
+2024-09-16,Diagnostics,6,6,0.0,3
+2024-09-17,Outpatient,13,14,0.0,26
+2024-09-17,Emergency,10,10,0.0,3
+2024-09-17,Maternity,7,7,0.0,10
+2024-09-17,Paediatrics,7,8,0.0,6
+2024-09-17,Surgical Clinic,8,7,2.4,5
+2024-09-17,Diagnostics,6,6,0.0,11
+2024-09-18,Outpatient,13,11,4.4,26
+2024-09-18,Emergency,10,10,0.0,12
+2024-09-18,Maternity,7,6,1.0,14
+2024-09-18,Paediatrics,7,7,0.0,9
+2024-09-18,Surgical Clinic,8,8,0.0,5
+2024-09-18,Diagnostics,6,6,0.0,6
+2024-09-19,Outpatient,13,14,0.0,26
+2024-09-19,Emergency,10,10,0.0,7
+2024-09-19,Maternity,7,7,0.0,7
+2024-09-19,Paediatrics,7,6,1.4,5
+2024-09-19,Surgical Clinic,8,7,2.6,8
+2024-09-19,Diagnostics,6,6,0.0,9
+2024-09-20,Outpatient,13,11,1.4,29
+2024-09-20,Emergency,10,10,0.0,12
+2024-09-20,Maternity,7,6,0.9,4
+2024-09-20,Paediatrics,7,7,0.0,6
+2024-09-20,Surgical Clinic,8,8,0.0,5
+2024-09-20,Diagnostics,6,5,1.5,5
+2024-09-21,Outpatient,13,13,0.0,15
+2024-09-21,Emergency,10,10,0.0,6
+2024-09-21,Maternity,7,7,0.0,3
+2024-09-21,Paediatrics,7,7,0.0,12
+2024-09-21,Surgical Clinic,8,7,1.9,5
+2024-09-21,Diagnostics,6,6,0.0,4
+2024-09-22,Outpatient,13,12,2.1,20
+2024-09-22,Emergency,10,9,1.4,3
+2024-09-22,Maternity,7,7,0.0,2
+2024-09-22,Paediatrics,7,6,1.3,4
+2024-09-22,Surgical Clinic,8,7,2.4,5
+2024-09-22,Diagnostics,6,5,0.6,5
+2024-09-23,Outpatient,13,12,0.5,28
+2024-09-23,Emergency,10,11,0.0,7
+2024-09-23,Maternity,7,7,0.0,3
+2024-09-23,Paediatrics,7,6,2.1,6
+2024-09-23,Surgical Clinic,8,7,0.9,8
+2024-09-23,Diagnostics,6,6,0.0,3
+2024-09-24,Outpatient,13,13,0.0,33
+2024-09-24,Emergency,10,10,0.0,7
+2024-09-24,Maternity,7,7,0.0,4
+2024-09-24,Paediatrics,7,7,0.0,7
+2024-09-24,Surgical Clinic,8,8,0.0,5
+2024-09-24,Diagnostics,6,6,0.0,3
+2024-09-25,Outpatient,13,14,0.0,28
+2024-09-25,Emergency,10,9,1.1,17
+2024-09-25,Maternity,7,7,0.0,5
+2024-09-25,Paediatrics,7,6,2.1,9
+2024-09-25,Surgical Clinic,8,8,0.0,5
+2024-09-25,Diagnostics,6,6,0.0,3
+2024-09-26,Outpatient,13,12,1.4,24
+2024-09-26,Emergency,10,8,1.5,5
+2024-09-26,Maternity,7,7,0.0,4
+2024-09-26,Paediatrics,7,6,2.6,4
+2024-09-26,Surgical Clinic,8,7,2.5,10
+2024-09-26,Diagnostics,6,5,2.7,3
+2024-09-27,Outpatient,13,12,1.0,32
+2024-09-27,Emergency,10,10,0.0,11
+2024-09-27,Maternity,7,8,0.0,7
+2024-09-27,Paediatrics,7,7,0.0,6
+2024-09-27,Surgical Clinic,8,8,0.0,5
+2024-09-27,Diagnostics,6,6,0.0,5
+2024-09-28,Outpatient,13,13,0.0,24
+2024-09-28,Emergency,10,10,0.0,4
+2024-09-28,Maternity,7,6,0.5,7
+2024-09-28,Paediatrics,7,7,0.0,1
+2024-09-28,Surgical Clinic,8,8,0.0,6
+2024-09-28,Diagnostics,6,6,0.0,2
+2024-09-29,Outpatient,13,12,1.6,13
+2024-09-29,Emergency,10,9,1.1,8
+2024-09-29,Maternity,7,6,2.2,6
+2024-09-29,Paediatrics,7,6,1.9,3
+2024-09-29,Surgical Clinic,8,7,1.4,6
+2024-09-29,Diagnostics,6,6,0.0,3
+2024-09-30,Outpatient,13,12,2.7,19
+2024-09-30,Emergency,10,10,0.0,11
+2024-09-30,Maternity,7,6,1.7,4
+2024-09-30,Paediatrics,7,6,2.5,7
+2024-09-30,Surgical Clinic,8,8,0.0,8
+2024-09-30,Diagnostics,6,6,0.0,6
+2024-10-01,Outpatient,13,12,0.9,20
+2024-10-01,Emergency,10,10,0.0,6
+2024-10-01,Maternity,7,6,0.6,4
+2024-10-01,Paediatrics,7,6,1.1,9
+2024-10-01,Surgical Clinic,8,7,2.1,8
+2024-10-01,Diagnostics,6,6,0.0,3
+2024-10-02,Outpatient,13,13,0.0,19
+2024-10-02,Emergency,10,9,2.0,17
+2024-10-02,Maternity,7,7,0.0,8
+2024-10-02,Paediatrics,7,7,0.0,10
+2024-10-02,Surgical Clinic,8,7,1.7,8
+2024-10-02,Diagnostics,6,6,0.0,5
+2024-10-03,Outpatient,13,13,0.0,37
+2024-10-03,Emergency,10,8,5.2,7
+2024-10-03,Maternity,7,6,1.4,3
+2024-10-03,Paediatrics,7,7,0.0,2
+2024-10-03,Surgical Clinic,8,8,0.0,4
+2024-10-03,Diagnostics,6,6,0.0,3
+2024-10-04,Outpatient,13,12,1.1,24
+2024-10-04,Emergency,10,9,2.4,8
+2024-10-04,Maternity,7,7,0.0,5
+2024-10-04,Paediatrics,7,6,1.7,12
+2024-10-04,Surgical Clinic,8,8,0.0,8
+2024-10-04,Diagnostics,6,5,0.8,2
+2024-10-05,Outpatient,13,12,2.7,25
+2024-10-05,Emergency,10,9,1.8,8
+2024-10-05,Maternity,7,7,0.0,5
+2024-10-05,Paediatrics,7,7,0.0,6
+2024-10-05,Surgical Clinic,8,8,0.0,7
+2024-10-05,Diagnostics,6,6,0.0,4
+2024-10-06,Outpatient,13,11,4.1,10
+2024-10-06,Emergency,10,10,0.0,8
+2024-10-06,Maternity,7,7,0.0,6
+2024-10-06,Paediatrics,7,6,0.7,8
+2024-10-06,Surgical Clinic,8,7,1.7,8
+2024-10-06,Diagnostics,6,7,0.0,1
+2024-10-07,Outpatient,13,12,1.4,22
+2024-10-07,Emergency,10,9,1.5,13
+2024-10-07,Maternity,7,6,2.4,6
+2024-10-07,Paediatrics,7,7,0.0,11
+2024-10-07,Surgical Clinic,8,7,1.3,11
+2024-10-07,Diagnostics,6,6,0.0,7
+2024-10-08,Outpatient,13,14,0.0,28
+2024-10-08,Emergency,10,10,0.0,12
+2024-10-08,Maternity,7,7,0.0,8
+2024-10-08,Paediatrics,7,6,1.3,10
+2024-10-08,Surgical Clinic,8,8,0.0,6
+2024-10-08,Diagnostics,6,6,0.0,6
+2024-10-09,Outpatient,13,12,0.8,33
+2024-10-09,Emergency,10,10,0.0,14
+2024-10-09,Maternity,7,7,0.0,12
+2024-10-09,Paediatrics,7,7,0.0,5
+2024-10-09,Surgical Clinic,8,8,0.0,2
+2024-10-09,Diagnostics,6,5,1.3,4
+2024-10-10,Outpatient,13,13,0.0,28
+2024-10-10,Emergency,10,9,1.2,8
+2024-10-10,Maternity,7,6,2.5,7
+2024-10-10,Paediatrics,7,7,0.0,8
+2024-10-10,Surgical Clinic,8,8,0.0,8
+2024-10-10,Diagnostics,6,6,0.0,2
+2024-10-11,Outpatient,13,12,0.8,25
+2024-10-11,Emergency,10,10,0.0,20
+2024-10-11,Maternity,7,6,2.2,6
+2024-10-11,Paediatrics,7,6,1.0,9
+2024-10-11,Surgical Clinic,8,9,0.0,6
+2024-10-11,Diagnostics,6,6,0.0,1
+2024-10-12,Outpatient,13,13,0.0,22
+2024-10-12,Emergency,10,10,0.0,12
+2024-10-12,Maternity,7,7,0.0,6
+2024-10-12,Paediatrics,7,7,0.0,6
+2024-10-12,Surgical Clinic,8,6,1.9,3
+2024-10-12,Diagnostics,6,6,0.0,3
+2024-10-13,Outpatient,13,13,0.0,14
+2024-10-13,Emergency,10,9,2.4,5
+2024-10-13,Maternity,7,8,0.0,5
+2024-10-13,Paediatrics,7,6,0.5,3
+2024-10-13,Surgical Clinic,8,7,1.1,9
+2024-10-13,Diagnostics,6,6,0.0,5
+2024-10-14,Outpatient,13,12,2.0,23
+2024-10-14,Emergency,10,11,0.0,13
+2024-10-14,Maternity,7,6,1.9,8
+2024-10-14,Paediatrics,7,6,0.9,4
+2024-10-14,Surgical Clinic,8,8,0.0,7
+2024-10-14,Diagnostics,6,6,0.0,6
+2024-10-15,Outpatient,13,13,0.0,34
+2024-10-15,Emergency,10,11,0.0,18
+2024-10-15,Maternity,7,7,0.0,5
+2024-10-15,Paediatrics,7,7,0.0,13
+2024-10-15,Surgical Clinic,8,8,0.0,4
+2024-10-15,Diagnostics,6,6,0.0,7
+2024-10-16,Outpatient,13,13,0.0,31
+2024-10-16,Emergency,10,9,1.0,11
+2024-10-16,Maternity,7,7,0.0,3
+2024-10-16,Paediatrics,7,6,0.7,4
+2024-10-16,Surgical Clinic,8,7,0.5,9
+2024-10-16,Diagnostics,6,6,0.0,1
+2024-10-17,Outpatient,13,12,2.0,20
+2024-10-17,Emergency,10,10,0.0,8
+2024-10-17,Maternity,7,7,0.0,8
+2024-10-17,Paediatrics,7,6,1.5,11
+2024-10-17,Surgical Clinic,8,7,2.5,10
+2024-10-17,Diagnostics,6,5,0.8,3
+2024-10-18,Outpatient,13,12,0.6,26
+2024-10-18,Emergency,10,9,0.7,4
+2024-10-18,Maternity,7,7,0.0,7
+2024-10-18,Paediatrics,7,7,0.0,5
+2024-10-18,Surgical Clinic,8,8,0.0,4
+2024-10-18,Diagnostics,6,6,0.0,3
+2024-10-19,Outpatient,13,13,0.0,22
+2024-10-19,Emergency,10,10,0.0,10
+2024-10-19,Maternity,7,7,0.0,4
+2024-10-19,Paediatrics,7,7,0.0,8
+2024-10-19,Surgical Clinic,8,8,0.0,8
+2024-10-19,Diagnostics,6,6,0.0,7
+2024-10-20,Outpatient,13,13,0.0,20
+2024-10-20,Emergency,10,10,0.0,8
+2024-10-20,Maternity,7,7,0.0,4
+2024-10-20,Paediatrics,7,7,0.0,7
+2024-10-20,Surgical Clinic,8,7,2.5,2
+2024-10-20,Diagnostics,6,6,0.0,2
+2024-10-21,Outpatient,13,12,0.7,23
+2024-10-21,Emergency,10,9,1.3,12
+2024-10-21,Maternity,7,6,1.4,11
+2024-10-21,Paediatrics,7,6,0.5,7
+2024-10-21,Surgical Clinic,8,8,0.0,7
+2024-10-21,Diagnostics,6,6,0.0,4
+2024-10-22,Outpatient,13,14,0.0,24
+2024-10-22,Emergency,10,9,2.8,13
+2024-10-22,Maternity,7,7,0.0,9
+2024-10-22,Paediatrics,7,7,0.0,6
+2024-10-22,Surgical Clinic,8,8,0.0,8
+2024-10-22,Diagnostics,6,6,0.0,7
+2024-10-23,Outpatient,13,13,0.0,21
+2024-10-23,Emergency,10,10,0.0,9
+2024-10-23,Maternity,7,7,0.0,6
+2024-10-23,Paediatrics,7,7,0.0,5
+2024-10-23,Surgical Clinic,8,8,0.0,6
+2024-10-23,Diagnostics,6,5,0.7,2
+2024-10-24,Outpatient,13,13,0.0,41
+2024-10-24,Emergency,10,9,1.0,8
+2024-10-24,Maternity,7,6,0.8,11
+2024-10-24,Paediatrics,7,6,0.4,9
+2024-10-24,Surgical Clinic,8,8,0.0,8
+2024-10-24,Diagnostics,6,6,0.0,2
+2024-10-25,Outpatient,13,13,0.0,20
+2024-10-25,Emergency,10,9,1.7,8
+2024-10-25,Maternity,7,7,0.0,7
+2024-10-25,Paediatrics,7,6,1.0,5
+2024-10-25,Surgical Clinic,8,8,0.0,10
+2024-10-25,Diagnostics,6,6,0.0,5
+2024-10-26,Outpatient,13,13,0.0,29
+2024-10-26,Emergency,10,10,0.0,11
+2024-10-26,Maternity,7,7,0.0,4
+2024-10-26,Paediatrics,7,7,0.0,3
+2024-10-26,Surgical Clinic,8,8,0.0,0
+2024-10-26,Diagnostics,6,6,0.0,5
+2024-10-27,Outpatient,13,12,2.5,15
+2024-10-27,Emergency,10,8,4.3,8
+2024-10-27,Maternity,7,8,0.0,6
+2024-10-27,Paediatrics,7,6,0.5,6
+2024-10-27,Surgical Clinic,8,7,1.5,7
+2024-10-27,Diagnostics,6,6,0.0,2
+2024-10-28,Outpatient,13,12,1.1,28
+2024-10-28,Emergency,10,8,1.8,9
+2024-10-28,Maternity,7,7,0.0,6
+2024-10-28,Paediatrics,7,7,0.0,12
+2024-10-28,Surgical Clinic,8,7,0.4,2
+2024-10-28,Diagnostics,6,5,1.0,3
+2024-10-29,Outpatient,13,14,0.0,25
+2024-10-29,Emergency,10,10,0.0,19
+2024-10-29,Maternity,7,7,0.0,8
+2024-10-29,Paediatrics,7,7,0.0,9
+2024-10-29,Surgical Clinic,8,7,2.7,7
+2024-10-29,Diagnostics,6,6,0.0,4
+2024-10-30,Outpatient,13,12,0.9,26
+2024-10-30,Emergency,10,9,0.5,9
+2024-10-30,Maternity,7,7,0.0,4
+2024-10-30,Paediatrics,7,7,0.0,7
+2024-10-30,Surgical Clinic,8,7,2.3,6
+2024-10-30,Diagnostics,6,5,0.5,6
+2024-10-31,Outpatient,13,14,0.0,24
+2024-10-31,Emergency,10,10,0.0,15
+2024-10-31,Maternity,7,7,0.0,5
+2024-10-31,Paediatrics,7,7,0.0,6
+2024-10-31,Surgical Clinic,8,7,0.5,7
+2024-10-31,Diagnostics,6,5,1.3,3
+2024-11-01,Outpatient,13,12,0.7,37
+2024-11-01,Emergency,10,9,2.3,10
+2024-11-01,Maternity,7,6,1.3,5
+2024-11-01,Paediatrics,7,6,1.9,6
+2024-11-01,Surgical Clinic,8,7,0.6,6
+2024-11-01,Diagnostics,6,5,2.5,6
+2024-11-02,Outpatient,13,13,0.0,18
+2024-11-02,Emergency,10,10,0.0,2
+2024-11-02,Maternity,7,7,0.0,5
+2024-11-02,Paediatrics,7,8,0.0,7
+2024-11-02,Surgical Clinic,8,8,0.0,5
+2024-11-02,Diagnostics,6,5,1.7,3
+2024-11-03,Outpatient,13,12,2.6,19
+2024-11-03,Emergency,10,10,0.0,10
+2024-11-03,Maternity,7,7,0.0,1
+2024-11-03,Paediatrics,7,7,0.0,3
+2024-11-03,Surgical Clinic,8,8,0.0,2
+2024-11-03,Diagnostics,6,5,2.2,1
+2024-11-04,Outpatient,13,12,1.7,21
+2024-11-04,Emergency,10,8,3.0,14
+2024-11-04,Maternity,7,7,0.0,5
+2024-11-04,Paediatrics,7,6,2.2,7
+2024-11-04,Surgical Clinic,8,7,1.5,6
+2024-11-04,Diagnostics,6,6,0.0,7
+2024-11-05,Outpatient,13,12,2.5,26
+2024-11-05,Emergency,10,9,0.5,5
+2024-11-05,Maternity,7,6,0.4,7
+2024-11-05,Paediatrics,7,7,0.0,7
+2024-11-05,Surgical Clinic,8,7,2.4,8
+2024-11-05,Diagnostics,6,6,0.0,4
+2024-11-06,Outpatient,13,12,0.8,27
+2024-11-06,Emergency,10,10,0.0,11
+2024-11-06,Maternity,7,7,0.0,4
+2024-11-06,Paediatrics,7,7,0.0,12
+2024-11-06,Surgical Clinic,8,8,0.0,8
+2024-11-06,Diagnostics,6,6,0.0,9
+2024-11-07,Outpatient,13,12,1.2,19
+2024-11-07,Emergency,10,11,0.0,6
+2024-11-07,Maternity,7,6,2.1,5
+2024-11-07,Paediatrics,7,6,2.5,10
+2024-11-07,Surgical Clinic,8,8,0.0,8
+2024-11-07,Diagnostics,6,5,2.0,3
+2024-11-08,Outpatient,13,12,0.8,22
+2024-11-08,Emergency,10,9,1.1,11
+2024-11-08,Maternity,7,7,0.0,4
+2024-11-08,Paediatrics,7,7,0.0,6
+2024-11-08,Surgical Clinic,8,9,0.0,5
+2024-11-08,Diagnostics,6,5,1.2,2
+2024-11-09,Outpatient,13,11,1.6,25
+2024-11-09,Emergency,10,10,0.0,6
+2024-11-09,Maternity,7,7,0.0,4
+2024-11-09,Paediatrics,7,7,0.0,10
+2024-11-09,Surgical Clinic,8,7,2.7,5
+2024-11-09,Diagnostics,6,6,0.0,5
+2024-11-10,Outpatient,13,12,2.2,20
+2024-11-10,Emergency,10,9,1.3,5
+2024-11-10,Maternity,7,6,1.1,3
+2024-11-10,Paediatrics,7,7,0.0,2
+2024-11-10,Surgical Clinic,8,8,0.0,6
+2024-11-10,Diagnostics,6,6,0.0,4
+2024-11-11,Outpatient,13,11,3.8,23
+2024-11-11,Emergency,10,9,2.5,8
+2024-11-11,Maternity,7,7,0.0,7
+2024-11-11,Paediatrics,7,7,0.0,8
+2024-11-11,Surgical Clinic,8,7,1.9,7
+2024-11-11,Diagnostics,6,5,2.3,4
+2024-11-12,Outpatient,13,12,2.3,21
+2024-11-12,Emergency,10,9,0.9,13
+2024-11-12,Maternity,7,7,0.0,5
+2024-11-12,Paediatrics,7,7,0.0,13
+2024-11-12,Surgical Clinic,8,8,0.0,13
+2024-11-12,Diagnostics,6,6,0.0,4
+2024-11-13,Outpatient,13,14,0.0,33
+2024-11-13,Emergency,10,9,2.5,11
+2024-11-13,Maternity,7,5,2.1,3
+2024-11-13,Paediatrics,7,7,0.0,2
+2024-11-13,Surgical Clinic,8,9,0.0,8
+2024-11-13,Diagnostics,6,5,2.4,3
+2024-11-14,Outpatient,13,14,0.0,34
+2024-11-14,Emergency,10,8,1.7,12
+2024-11-14,Maternity,7,7,0.0,9
+2024-11-14,Paediatrics,7,6,0.6,7
+2024-11-14,Surgical Clinic,8,8,0.0,4
+2024-11-14,Diagnostics,6,6,0.0,4
+2024-11-15,Outpatient,13,13,0.0,26
+2024-11-15,Emergency,10,9,1.3,3
+2024-11-15,Maternity,7,7,0.0,8
+2024-11-15,Paediatrics,7,7,0.0,3
+2024-11-15,Surgical Clinic,8,8,0.0,7
+2024-11-15,Diagnostics,6,6,0.0,3
+2024-11-16,Outpatient,13,12,2.7,24
+2024-11-16,Emergency,10,9,2.2,12
+2024-11-16,Maternity,7,7,0.0,8
+2024-11-16,Paediatrics,7,7,0.0,0
+2024-11-16,Surgical Clinic,8,7,1.4,10
+2024-11-16,Diagnostics,6,6,0.0,3
+2024-11-17,Outpatient,13,11,3.9,18
+2024-11-17,Emergency,10,10,0.0,6
+2024-11-17,Maternity,7,6,0.5,7
+2024-11-17,Paediatrics,7,7,0.0,2
+2024-11-17,Surgical Clinic,8,8,0.0,5
+2024-11-17,Diagnostics,6,6,0.0,1
+2024-11-18,Outpatient,13,13,0.0,23
+2024-11-18,Emergency,10,10,0.0,10
+2024-11-18,Maternity,7,6,1.8,8
+2024-11-18,Paediatrics,7,7,0.0,8
+2024-11-18,Surgical Clinic,8,7,2.1,8
+2024-11-18,Diagnostics,6,6,0.0,7
+2024-11-19,Outpatient,13,13,0.0,31
+2024-11-19,Emergency,10,11,0.0,7
+2024-11-19,Maternity,7,6,1.0,6
+2024-11-19,Paediatrics,7,7,0.0,5
+2024-11-19,Surgical Clinic,8,8,0.0,8
+2024-11-19,Diagnostics,6,5,2.6,4
+2024-11-20,Outpatient,13,13,0.0,18
+2024-11-20,Emergency,10,11,0.0,8
+2024-11-20,Maternity,7,7,0.0,7
+2024-11-20,Paediatrics,7,5,2.8,6
+2024-11-20,Surgical Clinic,8,7,2.0,3
+2024-11-20,Diagnostics,6,6,0.0,5
+2024-11-21,Outpatient,13,12,1.7,22
+2024-11-21,Emergency,10,8,3.7,10
+2024-11-21,Maternity,7,8,0.0,7
+2024-11-21,Paediatrics,7,8,0.0,4
+2024-11-21,Surgical Clinic,8,7,2.6,11
+2024-11-21,Diagnostics,6,6,0.0,6
+2024-11-22,Outpatient,13,12,2.7,19
+2024-11-22,Emergency,10,9,1.0,12
+2024-11-22,Maternity,7,7,0.0,5
+2024-11-22,Paediatrics,7,7,0.0,7
+2024-11-22,Surgical Clinic,8,7,2.0,12
+2024-11-22,Diagnostics,6,6,0.0,3
+2024-11-23,Outpatient,13,12,0.8,26
+2024-11-23,Emergency,10,9,1.1,7
+2024-11-23,Maternity,7,7,0.0,3
+2024-11-23,Paediatrics,7,6,1.0,8
+2024-11-23,Surgical Clinic,8,7,1.7,6
+2024-11-23,Diagnostics,6,5,2.3,2
+2024-11-24,Outpatient,13,12,2.7,17
+2024-11-24,Emergency,10,10,0.0,6
+2024-11-24,Maternity,7,7,0.0,5
+2024-11-24,Paediatrics,7,6,0.8,6
+2024-11-24,Surgical Clinic,8,8,0.0,2
+2024-11-24,Diagnostics,6,6,0.0,5
+2024-11-25,Outpatient,13,13,0.0,30
+2024-11-25,Emergency,10,9,2.5,14
+2024-11-25,Maternity,7,7,0.0,5
+2024-11-25,Paediatrics,7,6,2.7,6
+2024-11-25,Surgical Clinic,8,7,1.8,4
+2024-11-25,Diagnostics,6,6,0.0,7
+2024-11-26,Outpatient,13,12,1.4,30
+2024-11-26,Emergency,10,10,0.0,8
+2024-11-26,Maternity,7,6,1.6,4
+2024-11-26,Paediatrics,7,6,1.6,9
+2024-11-26,Surgical Clinic,8,7,1.9,8
+2024-11-26,Diagnostics,6,7,0.0,1
+2024-11-27,Outpatient,13,13,0.0,24
+2024-11-27,Emergency,10,10,0.0,10
+2024-11-27,Maternity,7,6,1.9,4
+2024-11-27,Paediatrics,7,7,0.0,5
+2024-11-27,Surgical Clinic,8,7,1.9,9
+2024-11-27,Diagnostics,6,5,2.1,2
+2024-11-28,Outpatient,13,13,0.0,30
+2024-11-28,Emergency,10,9,0.6,6
+2024-11-28,Maternity,7,7,0.0,9
+2024-11-28,Paediatrics,7,7,0.0,5
+2024-11-28,Surgical Clinic,8,8,0.0,11
+2024-11-28,Diagnostics,6,5,2.0,6
+2024-11-29,Outpatient,13,12,0.6,15
+2024-11-29,Emergency,10,10,0.0,13
+2024-11-29,Maternity,7,6,2.2,8
+2024-11-29,Paediatrics,7,7,0.0,12
+2024-11-29,Surgical Clinic,8,9,0.0,5
+2024-11-29,Diagnostics,6,5,2.1,2
+2024-11-30,Outpatient,13,13,0.0,20
+2024-11-30,Emergency,10,9,0.8,6
+2024-11-30,Maternity,7,7,0.0,3
+2024-11-30,Paediatrics,7,8,0.0,2
+2024-11-30,Surgical Clinic,8,9,0.0,6
+2024-11-30,Diagnostics,6,5,1.6,5
+2024-12-01,Outpatient,13,13,0.0,16
+2024-12-01,Emergency,10,9,1.8,6
+2024-12-01,Maternity,7,7,0.0,0
+2024-12-01,Paediatrics,7,7,0.0,2
+2024-12-01,Surgical Clinic,8,8,0.0,3
+2024-12-01,Diagnostics,6,5,2.1,1
+2024-12-02,Outpatient,13,13,0.0,20
+2024-12-02,Emergency,10,9,1.8,8
+2024-12-02,Maternity,7,6,2.0,3
+2024-12-02,Paediatrics,7,7,0.0,5
+2024-12-02,Surgical Clinic,8,7,1.3,4
+2024-12-02,Diagnostics,6,5,1.8,5
+2024-12-03,Outpatient,13,12,1.5,20
+2024-12-03,Emergency,10,9,2.4,10
+2024-12-03,Maternity,7,7,0.0,4
+2024-12-03,Paediatrics,7,7,0.0,5
+2024-12-03,Surgical Clinic,8,7,1.6,6
+2024-12-03,Diagnostics,6,6,0.0,2
+2024-12-04,Outpatient,13,13,0.0,26
+2024-12-04,Emergency,10,9,1.7,7
+2024-12-04,Maternity,7,6,0.7,3
+2024-12-04,Paediatrics,7,7,0.0,8
+2024-12-04,Surgical Clinic,8,8,0.0,5
+2024-12-04,Diagnostics,6,5,2.7,5
+2024-12-05,Outpatient,13,14,0.0,24
+2024-12-05,Emergency,10,9,2.7,11
+2024-12-05,Maternity,7,7,0.0,7
+2024-12-05,Paediatrics,7,7,0.0,6
+2024-12-05,Surgical Clinic,8,8,0.0,4
+2024-12-05,Diagnostics,6,5,0.5,6
+2024-12-06,Outpatient,13,11,1.5,19
+2024-12-06,Emergency,10,10,0.0,11
+2024-12-06,Maternity,7,6,1.9,4
+2024-12-06,Paediatrics,7,7,0.0,10
+2024-12-06,Surgical Clinic,8,8,0.0,8
+2024-12-06,Diagnostics,6,6,0.0,2
+2024-12-07,Outpatient,13,13,0.0,15
+2024-12-07,Emergency,10,10,0.0,8
+2024-12-07,Maternity,7,7,0.0,2
+2024-12-07,Paediatrics,7,6,0.9,6
+2024-12-07,Surgical Clinic,8,9,0.0,7
+2024-12-07,Diagnostics,6,6,0.0,5
+2024-12-08,Outpatient,13,12,1.2,10
+2024-12-08,Emergency,10,9,1.6,5
+2024-12-08,Maternity,7,6,1.4,4
+2024-12-08,Paediatrics,7,6,2.2,5
+2024-12-08,Surgical Clinic,8,8,0.0,1
+2024-12-08,Diagnostics,6,6,0.0,1
+2024-12-09,Outpatient,13,13,0.0,21
+2024-12-09,Emergency,10,9,1.3,10
+2024-12-09,Maternity,7,7,0.0,3
+2024-12-09,Paediatrics,7,6,0.7,9
+2024-12-09,Surgical Clinic,8,8,0.0,4
+2024-12-09,Diagnostics,6,6,0.0,3
+2024-12-10,Outpatient,13,12,2.7,24
+2024-12-10,Emergency,10,11,0.0,11
+2024-12-10,Maternity,7,8,0.0,5
+2024-12-10,Paediatrics,7,7,0.0,3
+2024-12-10,Surgical Clinic,8,8,0.0,5
+2024-12-10,Diagnostics,6,6,0.0,0
+2024-12-11,Outpatient,13,13,0.0,19
+2024-12-11,Emergency,10,9,1.7,13
+2024-12-11,Maternity,7,6,0.9,8
+2024-12-11,Paediatrics,7,6,2.5,5
+2024-12-11,Surgical Clinic,8,8,0.0,6
+2024-12-11,Diagnostics,6,5,1.4,2
+2024-12-12,Outpatient,13,11,0.8,31
+2024-12-12,Emergency,10,11,0.0,14
+2024-12-12,Maternity,7,7,0.0,6
+2024-12-12,Paediatrics,7,6,1.9,9
+2024-12-12,Surgical Clinic,8,8,0.0,1
+2024-12-12,Diagnostics,6,5,1.0,2
+2024-12-13,Outpatient,13,13,0.0,14
+2024-12-13,Emergency,10,8,3.6,9
+2024-12-13,Maternity,7,7,0.0,7
+2024-12-13,Paediatrics,7,6,0.8,5
+2024-12-13,Surgical Clinic,8,8,0.0,9
+2024-12-13,Diagnostics,6,6,0.0,2
+2024-12-14,Outpatient,13,13,0.0,21
+2024-12-14,Emergency,10,10,0.0,5
+2024-12-14,Maternity,7,6,2.6,5
+2024-12-14,Paediatrics,7,7,0.0,5
+2024-12-14,Surgical Clinic,8,8,0.0,3
+2024-12-14,Diagnostics,6,6,0.0,9
+2024-12-15,Outpatient,13,11,0.8,13
+2024-12-15,Emergency,10,10,0.0,4
+2024-12-15,Maternity,7,6,1.6,4
+2024-12-15,Paediatrics,7,7,0.0,5
+2024-12-15,Surgical Clinic,8,8,0.0,6
+2024-12-15,Diagnostics,6,5,0.6,0
+2024-12-16,Outpatient,13,13,0.0,16
+2024-12-16,Emergency,10,9,0.9,7
+2024-12-16,Maternity,7,7,0.0,9
+2024-12-16,Paediatrics,7,7,0.0,11
+2024-12-16,Surgical Clinic,8,9,0.0,6
+2024-12-16,Diagnostics,6,5,1.6,5
+2024-12-17,Outpatient,13,12,1.9,28
+2024-12-17,Emergency,10,10,0.0,10
+2024-12-17,Maternity,7,6,0.9,9
+2024-12-17,Paediatrics,7,7,0.0,7
+2024-12-17,Surgical Clinic,8,7,2.6,7
+2024-12-17,Diagnostics,6,5,0.8,4
+2024-12-18,Outpatient,13,11,3.9,27
+2024-12-18,Emergency,10,9,2.6,11
+2024-12-18,Maternity,7,7,0.0,3
+2024-12-18,Paediatrics,7,7,0.0,5
+2024-12-18,Surgical Clinic,8,8,0.0,7
+2024-12-18,Diagnostics,6,6,0.0,2
+2024-12-19,Outpatient,13,14,0.0,28
+2024-12-19,Emergency,10,9,1.9,9
+2024-12-19,Maternity,7,7,0.0,8
+2024-12-19,Paediatrics,7,6,1.9,5
+2024-12-19,Surgical Clinic,8,8,0.0,6
+2024-12-19,Diagnostics,6,6,0.0,8
+2024-12-20,Outpatient,13,13,0.0,22
+2024-12-20,Emergency,10,10,0.0,3
+2024-12-20,Maternity,7,7,0.0,8
+2024-12-20,Paediatrics,7,7,0.0,2
+2024-12-20,Surgical Clinic,8,7,2.8,2
+2024-12-20,Diagnostics,6,5,1.0,3
+2024-12-21,Outpatient,13,13,0.0,15
+2024-12-21,Emergency,10,9,1.1,5
+2024-12-21,Maternity,7,7,0.0,9
+2024-12-21,Paediatrics,7,7,0.0,5
+2024-12-21,Surgical Clinic,8,8,0.0,3
+2024-12-21,Diagnostics,6,6,0.0,4
+2024-12-22,Outpatient,13,13,0.0,14
+2024-12-22,Emergency,10,9,1.0,8
+2024-12-22,Maternity,7,6,1.2,6
+2024-12-22,Paediatrics,7,7,0.0,6
+2024-12-22,Surgical Clinic,8,8,0.0,3
+2024-12-22,Diagnostics,6,6,0.0,1
+2024-12-23,Outpatient,13,12,0.9,22
+2024-12-23,Emergency,10,10,0.0,14
+2024-12-23,Maternity,7,7,0.0,5
+2024-12-23,Paediatrics,7,7,0.0,5
+2024-12-23,Surgical Clinic,8,8,0.0,10
+2024-12-23,Diagnostics,6,6,0.0,2
+2024-12-24,Outpatient,13,13,0.0,16
+2024-12-24,Emergency,10,10,0.0,10
+2024-12-24,Maternity,7,5,4.0,7
+2024-12-24,Paediatrics,7,7,0.0,6
+2024-12-24,Surgical Clinic,8,7,1.6,4
+2024-12-24,Diagnostics,6,5,0.9,7
+2024-12-25,Outpatient,13,11,2.1,21
+2024-12-25,Emergency,10,10,0.0,10
+2024-12-25,Maternity,7,6,2.0,2
+2024-12-25,Paediatrics,7,6,0.7,12
+2024-12-25,Surgical Clinic,8,8,0.0,9
+2024-12-25,Diagnostics,6,5,2.7,2
+2024-12-26,Outpatient,13,14,0.0,20
+2024-12-26,Emergency,10,10,0.0,8
+2024-12-26,Maternity,7,7,0.0,2
+2024-12-26,Paediatrics,7,6,1.6,4
+2024-12-26,Surgical Clinic,8,8,0.0,2
+2024-12-26,Diagnostics,6,5,2.4,4
+2024-12-27,Outpatient,13,12,0.5,18
+2024-12-27,Emergency,10,10,0.0,9
+2024-12-27,Maternity,7,7,0.0,6
+2024-12-27,Paediatrics,7,7,0.0,7
+2024-12-27,Surgical Clinic,8,8,0.0,4
+2024-12-27,Diagnostics,6,6,0.0,2
+2024-12-28,Outpatient,13,12,1.4,21
+2024-12-28,Emergency,10,11,0.0,6
+2024-12-28,Maternity,7,7,0.0,6
+2024-12-28,Paediatrics,7,7,0.0,2
+2024-12-28,Surgical Clinic,8,8,0.0,3
+2024-12-28,Diagnostics,6,6,0.0,3
+2024-12-29,Outpatient,13,12,0.7,15
+2024-12-29,Emergency,10,9,0.7,4
+2024-12-29,Maternity,7,7,0.0,3
+2024-12-29,Paediatrics,7,7,0.0,3
+2024-12-29,Surgical Clinic,8,8,0.0,3
+2024-12-29,Diagnostics,6,6,0.0,3
+2024-12-30,Outpatient,13,13,0.0,15
+2024-12-30,Emergency,10,8,3.9,16
+2024-12-30,Maternity,7,7,0.0,5
+2024-12-30,Paediatrics,7,7,0.0,4
+2024-12-30,Surgical Clinic,8,7,1.9,6
+2024-12-30,Diagnostics,6,5,1.3,2
+2024-12-31,Outpatient,13,14,0.0,18
+2024-12-31,Emergency,10,9,1.2,8
+2024-12-31,Maternity,7,7,0.0,7
+2024-12-31,Paediatrics,7,7,0.0,3
+2024-12-31,Surgical Clinic,8,8,0.0,6
+2024-12-31,Diagnostics,6,6,0.0,5
+2025-01-01,Outpatient,13,14,0.0,23
+2025-01-01,Emergency,10,11,0.0,9
+2025-01-01,Maternity,7,6,0.6,10
+2025-01-01,Paediatrics,7,7,0.0,9
+2025-01-01,Surgical Clinic,8,8,0.0,10
+2025-01-01,Diagnostics,6,5,2.1,7
+2025-01-02,Outpatient,13,12,1.8,31
+2025-01-02,Emergency,10,8,1.3,8
+2025-01-02,Maternity,7,7,0.0,5
+2025-01-02,Paediatrics,7,6,2.6,5
+2025-01-02,Surgical Clinic,8,7,1.8,4
+2025-01-02,Diagnostics,6,6,0.0,3
+2025-01-03,Outpatient,13,13,0.0,25
+2025-01-03,Emergency,10,9,1.6,11
+2025-01-03,Maternity,7,7,0.0,6
+2025-01-03,Paediatrics,7,7,0.0,2
+2025-01-03,Surgical Clinic,8,8,0.0,2
+2025-01-03,Diagnostics,6,6,0.0,3
+2025-01-04,Outpatient,13,13,0.0,14
+2025-01-04,Emergency,10,10,0.0,3
+2025-01-04,Maternity,7,7,0.0,6
+2025-01-04,Paediatrics,7,6,1.3,9
+2025-01-04,Surgical Clinic,8,8,0.0,5
+2025-01-04,Diagnostics,6,6,0.0,4
+2025-01-05,Outpatient,13,13,0.0,9
+2025-01-05,Emergency,10,10,0.0,6
+2025-01-05,Maternity,7,7,0.0,4
+2025-01-05,Paediatrics,7,6,2.0,1
+2025-01-05,Surgical Clinic,8,8,0.0,5
+2025-01-05,Diagnostics,6,7,0.0,2
+2025-01-06,Outpatient,13,11,1.5,21
+2025-01-06,Emergency,10,10,0.0,7
+2025-01-06,Maternity,7,7,0.0,4
+2025-01-06,Paediatrics,7,7,0.0,2
+2025-01-06,Surgical Clinic,8,8,0.0,8
+2025-01-06,Diagnostics,6,5,2.4,5
+2025-01-07,Outpatient,13,13,0.0,24
+2025-01-07,Emergency,10,9,0.9,10
+2025-01-07,Maternity,7,6,1.7,11
+2025-01-07,Paediatrics,7,6,1.8,5
+2025-01-07,Surgical Clinic,8,7,0.8,6
+2025-01-07,Diagnostics,6,6,0.0,3
+2025-01-08,Outpatient,13,14,0.0,22
+2025-01-08,Emergency,10,8,5.3,6
+2025-01-08,Maternity,7,7,0.0,5
+2025-01-08,Paediatrics,7,7,0.0,6
+2025-01-08,Surgical Clinic,8,8,0.0,6
+2025-01-08,Diagnostics,6,5,1.3,6
+2025-01-09,Outpatient,13,11,4.4,16
+2025-01-09,Emergency,10,10,0.0,8
+2025-01-09,Maternity,7,7,0.0,6
+2025-01-09,Paediatrics,7,8,0.0,7
+2025-01-09,Surgical Clinic,8,8,0.0,3
+2025-01-09,Diagnostics,6,5,1.1,6
+2025-01-10,Outpatient,13,13,0.0,19
+2025-01-10,Emergency,10,9,1.0,9
+2025-01-10,Maternity,7,7,0.0,2
+2025-01-10,Paediatrics,7,7,0.0,5
+2025-01-10,Surgical Clinic,8,8,0.0,9
+2025-01-10,Diagnostics,6,7,0.0,9
+2025-01-11,Outpatient,13,12,1.4,13
+2025-01-11,Emergency,10,10,0.0,5
+2025-01-11,Maternity,7,7,0.0,4
+2025-01-11,Paediatrics,7,6,1.8,3
+2025-01-11,Surgical Clinic,8,7,1.1,1
+2025-01-11,Diagnostics,6,6,0.0,3
+2025-01-12,Outpatient,13,13,0.0,17
+2025-01-12,Emergency,10,9,1.7,4
+2025-01-12,Maternity,7,7,0.0,4
+2025-01-12,Paediatrics,7,7,0.0,7
+2025-01-12,Surgical Clinic,8,7,2.3,3
+2025-01-12,Diagnostics,6,6,0.0,1
+2025-01-13,Outpatient,13,14,0.0,28
+2025-01-13,Emergency,10,9,2.5,2
+2025-01-13,Maternity,7,6,0.8,4
+2025-01-13,Paediatrics,7,6,2.6,9
+2025-01-13,Surgical Clinic,8,8,0.0,5
+2025-01-13,Diagnostics,6,7,0.0,2
+2025-01-14,Outpatient,13,13,0.0,23
+2025-01-14,Emergency,10,10,0.0,7
+2025-01-14,Maternity,7,6,2.1,7
+2025-01-14,Paediatrics,7,6,1.8,2
+2025-01-14,Surgical Clinic,8,8,0.0,10
+2025-01-14,Diagnostics,6,6,0.0,2
+2025-01-15,Outpatient,13,14,0.0,22
+2025-01-15,Emergency,10,9,2.1,13
+2025-01-15,Maternity,7,7,0.0,15
+2025-01-15,Paediatrics,7,6,1.7,4
+2025-01-15,Surgical Clinic,8,7,0.7,5
+2025-01-15,Diagnostics,6,5,1.6,5
+2025-01-16,Outpatient,13,13,0.0,18
+2025-01-16,Emergency,10,8,2.6,10
+2025-01-16,Maternity,7,7,0.0,7
+2025-01-16,Paediatrics,7,7,0.0,7
+2025-01-16,Surgical Clinic,8,7,0.9,6
+2025-01-16,Diagnostics,6,6,0.0,7
+2025-01-17,Outpatient,13,12,1.6,31
+2025-01-17,Emergency,10,9,0.4,9
+2025-01-17,Maternity,7,7,0.0,2
+2025-01-17,Paediatrics,7,6,1.0,5
+2025-01-17,Surgical Clinic,8,9,0.0,1
+2025-01-17,Diagnostics,6,6,0.0,3
+2025-01-18,Outpatient,13,12,2.2,16
+2025-01-18,Emergency,10,10,0.0,11
+2025-01-18,Maternity,7,6,1.9,5
+2025-01-18,Paediatrics,7,6,2.0,4
+2025-01-18,Surgical Clinic,8,8,0.0,0
+2025-01-18,Diagnostics,6,5,1.0,2
+2025-01-19,Outpatient,13,13,0.0,9
+2025-01-19,Emergency,10,10,0.0,4
+2025-01-19,Maternity,7,7,0.0,9
+2025-01-19,Paediatrics,7,7,0.0,1
+2025-01-19,Surgical Clinic,8,8,0.0,2
+2025-01-19,Diagnostics,6,6,0.0,1
+2025-01-20,Outpatient,13,12,1.3,32
+2025-01-20,Emergency,10,8,2.4,13
+2025-01-20,Maternity,7,7,0.0,5
+2025-01-20,Paediatrics,7,6,0.7,5
+2025-01-20,Surgical Clinic,8,8,0.0,11
+2025-01-20,Diagnostics,6,6,0.0,5
+2025-01-21,Outpatient,13,13,0.0,31
+2025-01-21,Emergency,10,9,2.8,14
+2025-01-21,Maternity,7,7,0.0,4
+2025-01-21,Paediatrics,7,6,2.3,6
+2025-01-21,Surgical Clinic,8,8,0.0,2
+2025-01-21,Diagnostics,6,6,0.0,4
+2025-01-22,Outpatient,13,13,0.0,18
+2025-01-22,Emergency,10,8,4.7,19
+2025-01-22,Maternity,7,6,1.1,3
+2025-01-22,Paediatrics,7,6,1.4,6
+2025-01-22,Surgical Clinic,8,8,0.0,10
+2025-01-22,Diagnostics,6,5,2.4,4
+2025-01-23,Outpatient,13,12,0.5,20
+2025-01-23,Emergency,10,10,0.0,7
+2025-01-23,Maternity,7,6,1.7,8
+2025-01-23,Paediatrics,7,7,0.0,3
+2025-01-23,Surgical Clinic,8,8,0.0,11
+2025-01-23,Diagnostics,6,5,1.5,1
+2025-01-24,Outpatient,13,14,0.0,26
+2025-01-24,Emergency,10,10,0.0,9
+2025-01-24,Maternity,7,7,0.0,7
+2025-01-24,Paediatrics,7,7,0.0,4
+2025-01-24,Surgical Clinic,8,8,0.0,10
+2025-01-24,Diagnostics,6,6,0.0,7
+2025-01-25,Outpatient,13,12,1.2,19
+2025-01-25,Emergency,10,10,0.0,8
+2025-01-25,Maternity,7,7,0.0,4
+2025-01-25,Paediatrics,7,7,0.0,3
+2025-01-25,Surgical Clinic,8,7,0.5,5
+2025-01-25,Diagnostics,6,5,1.5,2
+2025-01-26,Outpatient,13,11,1.7,18
+2025-01-26,Emergency,10,10,0.0,6
+2025-01-26,Maternity,7,6,1.3,5
+2025-01-26,Paediatrics,7,7,0.0,4
+2025-01-26,Surgical Clinic,8,8,0.0,2
+2025-01-26,Diagnostics,6,5,2.8,0
+2025-01-27,Outpatient,13,13,0.0,17
+2025-01-27,Emergency,10,9,1.2,5
+2025-01-27,Maternity,7,7,0.0,5
+2025-01-27,Paediatrics,7,7,0.0,4
+2025-01-27,Surgical Clinic,8,7,0.8,3
+2025-01-27,Diagnostics,6,6,0.0,3
+2025-01-28,Outpatient,13,12,0.8,26
+2025-01-28,Emergency,10,10,0.0,8
+2025-01-28,Maternity,7,8,0.0,2
+2025-01-28,Paediatrics,7,7,0.0,8
+2025-01-28,Surgical Clinic,8,6,3.3,10
+2025-01-28,Diagnostics,6,6,0.0,1
+2025-01-29,Outpatient,13,13,0.0,16
+2025-01-29,Emergency,10,10,0.0,11
+2025-01-29,Maternity,7,6,2.0,5
+2025-01-29,Paediatrics,7,8,0.0,6
+2025-01-29,Surgical Clinic,8,8,0.0,7
+2025-01-29,Diagnostics,6,6,0.0,4
+2025-01-30,Outpatient,13,13,0.0,24
+2025-01-30,Emergency,10,10,0.0,11
+2025-01-30,Maternity,7,7,0.0,7
+2025-01-30,Paediatrics,7,7,0.0,8
+2025-01-30,Surgical Clinic,8,8,0.0,7
+2025-01-30,Diagnostics,6,6,0.0,7
+2025-01-31,Outpatient,13,12,1.8,26
+2025-01-31,Emergency,10,9,1.7,11
+2025-01-31,Maternity,7,8,0.0,6
+2025-01-31,Paediatrics,7,7,0.0,11
+2025-01-31,Surgical Clinic,8,7,2.4,8
+2025-01-31,Diagnostics,6,6,0.0,5
+2025-02-01,Outpatient,13,13,0.0,20
+2025-02-01,Emergency,10,10,0.0,8
+2025-02-01,Maternity,7,7,0.0,7
+2025-02-01,Paediatrics,7,7,0.0,8
+2025-02-01,Surgical Clinic,8,8,0.0,2
+2025-02-01,Diagnostics,6,5,1.9,5
+2025-02-02,Outpatient,13,12,0.6,10
+2025-02-02,Emergency,10,10,0.0,10
+2025-02-02,Maternity,7,7,0.0,4
+2025-02-02,Paediatrics,7,7,0.0,2
+2025-02-02,Surgical Clinic,8,9,0.0,7
+2025-02-02,Diagnostics,6,6,0.0,3
+2025-02-03,Outpatient,13,12,1.3,31
+2025-02-03,Emergency,10,10,0.0,12
+2025-02-03,Maternity,7,7,0.0,3
+2025-02-03,Paediatrics,7,6,1.5,5
+2025-02-03,Surgical Clinic,8,7,1.8,5
+2025-02-03,Diagnostics,6,6,0.0,9
+2025-02-04,Outpatient,13,13,0.0,17
+2025-02-04,Emergency,10,10,0.0,10
+2025-02-04,Maternity,7,7,0.0,2
+2025-02-04,Paediatrics,7,6,1.4,3
+2025-02-04,Surgical Clinic,8,8,0.0,5
+2025-02-04,Diagnostics,6,5,1.1,5
+2025-02-05,Outpatient,13,13,0.0,32
+2025-02-05,Emergency,10,10,0.0,5
+2025-02-05,Maternity,7,7,0.0,2
+2025-02-05,Paediatrics,7,6,2.0,3
+2025-02-05,Surgical Clinic,8,7,0.6,9
+2025-02-05,Diagnostics,6,6,0.0,2
+2025-02-06,Outpatient,13,13,0.0,29
+2025-02-06,Emergency,10,10,0.0,6
+2025-02-06,Maternity,7,7,0.0,10
+2025-02-06,Paediatrics,7,6,1.6,5
+2025-02-06,Surgical Clinic,8,8,0.0,4
+2025-02-06,Diagnostics,6,6,0.0,6
+2025-02-07,Outpatient,13,13,0.0,25
+2025-02-07,Emergency,10,11,0.0,8
+2025-02-07,Maternity,7,7,0.0,10
+2025-02-07,Paediatrics,7,7,0.0,6
+2025-02-07,Surgical Clinic,8,7,2.7,8
+2025-02-07,Diagnostics,6,6,0.0,5
+2025-02-08,Outpatient,13,13,0.0,27
+2025-02-08,Emergency,10,10,0.0,6
+2025-02-08,Maternity,7,6,0.5,6
+2025-02-08,Paediatrics,7,7,0.0,7
+2025-02-08,Surgical Clinic,8,8,0.0,3
+2025-02-08,Diagnostics,6,6,0.0,3
+2025-02-09,Outpatient,13,11,5.3,16
+2025-02-09,Emergency,10,9,1.7,6
+2025-02-09,Maternity,7,7,0.0,4
+2025-02-09,Paediatrics,7,7,0.0,2
+2025-02-09,Surgical Clinic,8,8,0.0,3
+2025-02-09,Diagnostics,6,5,1.8,4
+2025-02-10,Outpatient,13,11,4.5,28
+2025-02-10,Emergency,10,10,0.0,6
+2025-02-10,Maternity,7,6,0.4,6
+2025-02-10,Paediatrics,7,6,2.8,8
+2025-02-10,Surgical Clinic,8,7,0.5,7
+2025-02-10,Diagnostics,6,5,2.0,5
+2025-02-11,Outpatient,13,12,1.3,28
+2025-02-11,Emergency,10,10,0.0,14
+2025-02-11,Maternity,7,7,0.0,4
+2025-02-11,Paediatrics,7,6,2.1,6
+2025-02-11,Surgical Clinic,8,9,0.0,7
+2025-02-11,Diagnostics,6,6,0.0,4
+2025-02-12,Outpatient,13,12,0.7,29
+2025-02-12,Emergency,10,10,0.0,7
+2025-02-12,Maternity,7,6,1.6,8
+2025-02-12,Paediatrics,7,7,0.0,2
+2025-02-12,Surgical Clinic,8,7,1.8,4
+2025-02-12,Diagnostics,6,6,0.0,5
+2025-02-13,Outpatient,13,11,1.9,21
+2025-02-13,Emergency,10,9,1.8,10
+2025-02-13,Maternity,7,6,1.3,5
+2025-02-13,Paediatrics,7,6,1.9,4
+2025-02-13,Surgical Clinic,8,7,1.2,5
+2025-02-13,Diagnostics,6,6,0.0,5
+2025-02-14,Outpatient,13,13,0.0,22
+2025-02-14,Emergency,10,9,1.4,18
+2025-02-14,Maternity,7,6,1.2,3
+2025-02-14,Paediatrics,7,7,0.0,9
+2025-02-14,Surgical Clinic,8,7,2.2,3
+2025-02-14,Diagnostics,6,6,0.0,5
+2025-02-15,Outpatient,13,12,1.6,21
+2025-02-15,Emergency,10,9,0.7,14
+2025-02-15,Maternity,7,7,0.0,2
+2025-02-15,Paediatrics,7,6,0.6,6
+2025-02-15,Surgical Clinic,8,7,1.5,9
+2025-02-15,Diagnostics,6,6,0.0,3
+2025-02-16,Outpatient,13,14,0.0,13
+2025-02-16,Emergency,10,10,0.0,4
+2025-02-16,Maternity,7,6,0.5,3
+2025-02-16,Paediatrics,7,7,0.0,4
+2025-02-16,Surgical Clinic,8,7,2.7,4
+2025-02-16,Diagnostics,6,5,1.2,5
+2025-02-17,Outpatient,13,12,1.8,26
+2025-02-17,Emergency,10,11,0.0,5
+2025-02-17,Maternity,7,7,0.0,5
+2025-02-17,Paediatrics,7,7,0.0,6
+2025-02-17,Surgical Clinic,8,7,1.0,2
+2025-02-17,Diagnostics,6,6,0.0,3
+2025-02-18,Outpatient,13,11,5.0,33
+2025-02-18,Emergency,10,10,0.0,12
+2025-02-18,Maternity,7,7,0.0,7
+2025-02-18,Paediatrics,7,7,0.0,3
+2025-02-18,Surgical Clinic,8,7,2.3,8
+2025-02-18,Diagnostics,6,6,0.0,6
+2025-02-19,Outpatient,13,13,0.0,31
+2025-02-19,Emergency,10,9,1.7,5
+2025-02-19,Maternity,7,7,0.0,3
+2025-02-19,Paediatrics,7,7,0.0,4
+2025-02-19,Surgical Clinic,8,8,0.0,5
+2025-02-19,Diagnostics,6,6,0.0,4
+2025-02-20,Outpatient,13,13,0.0,20
+2025-02-20,Emergency,10,8,1.9,11
+2025-02-20,Maternity,7,6,1.9,6
+2025-02-20,Paediatrics,7,7,0.0,7
+2025-02-20,Surgical Clinic,8,7,0.5,8
+2025-02-20,Diagnostics,6,6,0.0,4
+2025-02-21,Outpatient,13,11,1.3,16
+2025-02-21,Emergency,10,9,2.4,16
+2025-02-21,Maternity,7,6,0.8,5
+2025-02-21,Paediatrics,7,6,2.1,7
+2025-02-21,Surgical Clinic,8,8,0.0,8
+2025-02-21,Diagnostics,6,6,0.0,3
+2025-02-22,Outpatient,13,13,0.0,20
+2025-02-22,Emergency,10,9,1.2,9
+2025-02-22,Maternity,7,8,0.0,9
+2025-02-22,Paediatrics,7,7,0.0,4
+2025-02-22,Surgical Clinic,8,8,0.0,7
+2025-02-22,Diagnostics,6,6,0.0,4
+2025-02-23,Outpatient,13,13,0.0,12
+2025-02-23,Emergency,10,11,0.0,4
+2025-02-23,Maternity,7,7,0.0,4
+2025-02-23,Paediatrics,7,7,0.0,4
+2025-02-23,Surgical Clinic,8,8,0.0,9
+2025-02-23,Diagnostics,6,6,0.0,3
+2025-02-24,Outpatient,13,12,2.2,23
+2025-02-24,Emergency,10,11,0.0,8
+2025-02-24,Maternity,7,7,0.0,5
+2025-02-24,Paediatrics,7,7,0.0,3
+2025-02-24,Surgical Clinic,8,8,0.0,5
+2025-02-24,Diagnostics,6,6,0.0,8
+2025-02-25,Outpatient,13,11,4.7,23
+2025-02-25,Emergency,10,8,1.1,13
+2025-02-25,Maternity,7,6,2.8,10
+2025-02-25,Paediatrics,7,7,0.0,2
+2025-02-25,Surgical Clinic,8,9,0.0,6
+2025-02-25,Diagnostics,6,6,0.0,5
+2025-02-26,Outpatient,13,12,2.4,29
+2025-02-26,Emergency,10,10,0.0,8
+2025-02-26,Maternity,7,6,2.2,9
+2025-02-26,Paediatrics,7,7,0.0,8
+2025-02-26,Surgical Clinic,8,8,0.0,9
+2025-02-26,Diagnostics,6,6,0.0,7
+2025-02-27,Outpatient,13,13,0.0,24
+2025-02-27,Emergency,10,11,0.0,9
+2025-02-27,Maternity,7,7,0.0,5
+2025-02-27,Paediatrics,7,7,0.0,5
+2025-02-27,Surgical Clinic,8,8,0.0,4
+2025-02-27,Diagnostics,6,6,0.0,5
+2025-02-28,Outpatient,13,14,0.0,27
+2025-02-28,Emergency,10,9,1.4,8
+2025-02-28,Maternity,7,7,0.0,3
+2025-02-28,Paediatrics,7,7,0.0,2
+2025-02-28,Surgical Clinic,8,7,0.5,12
+2025-02-28,Diagnostics,6,6,0.0,5
+2025-03-01,Outpatient,13,11,1.6,17
+2025-03-01,Emergency,10,11,0.0,6
+2025-03-01,Maternity,7,7,0.0,4
+2025-03-01,Paediatrics,7,7,0.0,2
+2025-03-01,Surgical Clinic,8,8,0.0,5
+2025-03-01,Diagnostics,6,6,0.0,1
+2025-03-02,Outpatient,13,12,0.6,19
+2025-03-02,Emergency,10,9,2.0,8
+2025-03-02,Maternity,7,7,0.0,1
+2025-03-02,Paediatrics,7,6,0.7,5
+2025-03-02,Surgical Clinic,8,8,0.0,2
+2025-03-02,Diagnostics,6,6,0.0,7
+2025-03-03,Outpatient,13,12,0.7,12
+2025-03-03,Emergency,10,9,2.3,8
+2025-03-03,Maternity,7,6,0.4,6
+2025-03-03,Paediatrics,7,7,0.0,6
+2025-03-03,Surgical Clinic,8,8,0.0,9
+2025-03-03,Diagnostics,6,5,0.9,4
+2025-03-04,Outpatient,13,12,0.7,19
+2025-03-04,Emergency,10,10,0.0,11
+2025-03-04,Maternity,7,7,0.0,9
+2025-03-04,Paediatrics,7,7,0.0,5
+2025-03-04,Surgical Clinic,8,7,1.6,7
+2025-03-04,Diagnostics,6,5,1.2,2
+2025-03-05,Outpatient,13,12,1.8,26
+2025-03-05,Emergency,10,10,0.0,10
+2025-03-05,Maternity,7,7,0.0,7
+2025-03-05,Paediatrics,7,6,2.7,4
+2025-03-05,Surgical Clinic,8,8,0.0,12
+2025-03-05,Diagnostics,6,6,0.0,6
+2025-03-06,Outpatient,13,13,0.0,29
+2025-03-06,Emergency,10,10,0.0,14
+2025-03-06,Maternity,7,6,2.2,4
+2025-03-06,Paediatrics,7,7,0.0,9
+2025-03-06,Surgical Clinic,8,7,2.5,8
+2025-03-06,Diagnostics,6,6,0.0,3
+2025-03-07,Outpatient,13,12,2.2,19
+2025-03-07,Emergency,10,10,0.0,16
+2025-03-07,Maternity,7,7,0.0,5
+2025-03-07,Paediatrics,7,7,0.0,4
+2025-03-07,Surgical Clinic,8,7,2.4,7
+2025-03-07,Diagnostics,6,6,0.0,5
+2025-03-08,Outpatient,13,13,0.0,14
+2025-03-08,Emergency,10,11,0.0,9
+2025-03-08,Maternity,7,6,1.5,3
+2025-03-08,Paediatrics,7,6,1.1,12
+2025-03-08,Surgical Clinic,8,7,0.7,1
+2025-03-08,Diagnostics,6,7,0.0,2
+2025-03-09,Outpatient,13,12,0.9,18
+2025-03-09,Emergency,10,10,0.0,6
+2025-03-09,Maternity,7,7,0.0,2
+2025-03-09,Paediatrics,7,7,0.0,7
+2025-03-09,Surgical Clinic,8,8,0.0,3
+2025-03-09,Diagnostics,6,5,0.7,1
+2025-03-10,Outpatient,13,12,2.0,28
+2025-03-10,Emergency,10,9,2.0,7
+2025-03-10,Maternity,7,7,0.0,4
+2025-03-10,Paediatrics,7,6,2.8,8
+2025-03-10,Surgical Clinic,8,7,1.3,7
+2025-03-10,Diagnostics,6,5,1.6,6
+2025-03-11,Outpatient,13,13,0.0,19
+2025-03-11,Emergency,10,11,0.0,12
+2025-03-11,Maternity,7,6,2.7,5
+2025-03-11,Paediatrics,7,6,1.9,7
+2025-03-11,Surgical Clinic,8,8,0.0,4
+2025-03-11,Diagnostics,6,6,0.0,0
+2025-03-12,Outpatient,13,12,2.0,25
+2025-03-12,Emergency,10,9,2.0,8
+2025-03-12,Maternity,7,6,2.7,6
+2025-03-12,Paediatrics,7,7,0.0,3
+2025-03-12,Surgical Clinic,8,7,2.1,5
+2025-03-12,Diagnostics,6,6,0.0,4
+2025-03-13,Outpatient,13,13,0.0,22
+2025-03-13,Emergency,10,11,0.0,9
+2025-03-13,Maternity,7,7,0.0,10
+2025-03-13,Paediatrics,7,7,0.0,8
+2025-03-13,Surgical Clinic,8,7,1.8,7
+2025-03-13,Diagnostics,6,5,2.2,3
+2025-03-14,Outpatient,13,11,3.8,25
+2025-03-14,Emergency,10,9,1.3,11
+2025-03-14,Maternity,7,6,1.8,3
+2025-03-14,Paediatrics,7,6,1.3,4
+2025-03-14,Surgical Clinic,8,8,0.0,11
+2025-03-14,Diagnostics,6,6,0.0,2
+2025-03-15,Outpatient,13,11,3.7,10
+2025-03-15,Emergency,10,11,0.0,6
+2025-03-15,Maternity,7,7,0.0,4
+2025-03-15,Paediatrics,7,6,0.5,4
+2025-03-15,Surgical Clinic,8,8,0.0,5
+2025-03-15,Diagnostics,6,6,0.0,4
+2025-03-16,Outpatient,13,13,0.0,13
+2025-03-16,Emergency,10,10,0.0,8
+2025-03-16,Maternity,7,7,0.0,3
+2025-03-16,Paediatrics,7,6,2.6,8
+2025-03-16,Surgical Clinic,8,8,0.0,5
+2025-03-16,Diagnostics,6,6,0.0,2
+2025-03-17,Outpatient,13,12,0.6,22
+2025-03-17,Emergency,10,10,0.0,11
+2025-03-17,Maternity,7,8,0.0,9
+2025-03-17,Paediatrics,7,6,1.0,10
+2025-03-17,Surgical Clinic,8,9,0.0,4
+2025-03-17,Diagnostics,6,6,0.0,6
+2025-03-18,Outpatient,13,12,0.8,22
+2025-03-18,Emergency,10,10,0.0,18
+2025-03-18,Maternity,7,6,0.8,7
+2025-03-18,Paediatrics,7,7,0.0,11
+2025-03-18,Surgical Clinic,8,8,0.0,7
+2025-03-18,Diagnostics,6,5,2.1,3
+2025-03-19,Outpatient,13,13,0.0,34
+2025-03-19,Emergency,10,10,0.0,9
+2025-03-19,Maternity,7,7,0.0,8
+2025-03-19,Paediatrics,7,7,0.0,5
+2025-03-19,Surgical Clinic,8,7,2.8,3
+2025-03-19,Diagnostics,6,6,0.0,4
+2025-03-20,Outpatient,13,14,0.0,27
+2025-03-20,Emergency,10,10,0.0,16
+2025-03-20,Maternity,7,7,0.0,8
+2025-03-20,Paediatrics,7,7,0.0,7
+2025-03-20,Surgical Clinic,8,8,0.0,7
+2025-03-20,Diagnostics,6,5,1.1,4
+2025-03-21,Outpatient,13,12,1.6,30
+2025-03-21,Emergency,10,9,0.7,11
+2025-03-21,Maternity,7,7,0.0,7
+2025-03-21,Paediatrics,7,6,1.3,7
+2025-03-21,Surgical Clinic,8,8,0.0,5
+2025-03-21,Diagnostics,6,6,0.0,4
+2025-03-22,Outpatient,13,14,0.0,17
+2025-03-22,Emergency,10,9,1.4,7
+2025-03-22,Maternity,7,7,0.0,3
+2025-03-22,Paediatrics,7,7,0.0,7
+2025-03-22,Surgical Clinic,8,7,1.8,7
+2025-03-22,Diagnostics,6,6,0.0,3
+2025-03-23,Outpatient,13,13,0.0,16
+2025-03-23,Emergency,10,10,0.0,7
+2025-03-23,Maternity,7,7,0.0,8
+2025-03-23,Paediatrics,7,7,0.0,8
+2025-03-23,Surgical Clinic,8,7,2.0,10
+2025-03-23,Diagnostics,6,6,0.0,5
+2025-03-24,Outpatient,13,12,1.2,22
+2025-03-24,Emergency,10,9,1.5,10
+2025-03-24,Maternity,7,6,1.0,3
+2025-03-24,Paediatrics,7,7,0.0,5
+2025-03-24,Surgical Clinic,8,9,0.0,6
+2025-03-24,Diagnostics,6,6,0.0,9
+2025-03-25,Outpatient,13,11,4.5,25
+2025-03-25,Emergency,10,9,1.7,16
+2025-03-25,Maternity,7,7,0.0,10
+2025-03-25,Paediatrics,7,7,0.0,4
+2025-03-25,Surgical Clinic,8,8,0.0,8
+2025-03-25,Diagnostics,6,6,0.0,1
+2025-03-26,Outpatient,13,14,0.0,30
+2025-03-26,Emergency,10,10,0.0,15
+2025-03-26,Maternity,7,6,2.3,7
+2025-03-26,Paediatrics,7,7,0.0,2
+2025-03-26,Surgical Clinic,8,7,1.4,4
+2025-03-26,Diagnostics,6,6,0.0,6
+2025-03-27,Outpatient,13,12,2.4,25
+2025-03-27,Emergency,10,9,1.8,2
+2025-03-27,Maternity,7,7,0.0,7
+2025-03-27,Paediatrics,7,7,0.0,7
+2025-03-27,Surgical Clinic,8,8,0.0,5
+2025-03-27,Diagnostics,6,6,0.0,6
+2025-03-28,Outpatient,13,11,1.1,22
+2025-03-28,Emergency,10,10,0.0,18
+2025-03-28,Maternity,7,7,0.0,8
+2025-03-28,Paediatrics,7,7,0.0,5
+2025-03-28,Surgical Clinic,8,7,1.9,10
+2025-03-28,Diagnostics,6,6,0.0,6
+2025-03-29,Outpatient,13,13,0.0,26
+2025-03-29,Emergency,10,10,0.0,13
+2025-03-29,Maternity,7,7,0.0,5
+2025-03-29,Paediatrics,7,6,1.7,11
+2025-03-29,Surgical Clinic,8,8,0.0,9
+2025-03-29,Diagnostics,6,6,0.0,3
+2025-03-30,Outpatient,13,11,5.2,20
+2025-03-30,Emergency,10,10,0.0,7
+2025-03-30,Maternity,7,7,0.0,6
+2025-03-30,Paediatrics,7,7,0.0,8
+2025-03-30,Surgical Clinic,8,7,2.6,7
+2025-03-30,Diagnostics,6,6,0.0,3
+2025-03-31,Outpatient,13,13,0.0,20
+2025-03-31,Emergency,10,10,0.0,9
+2025-03-31,Maternity,7,7,0.0,4
+2025-03-31,Paediatrics,7,6,0.5,3
+2025-03-31,Surgical Clinic,8,7,1.7,8
+2025-03-31,Diagnostics,6,6,0.0,5
+2025-04-01,Outpatient,13,13,0.0,34
+2025-04-01,Emergency,10,10,0.0,6
+2025-04-01,Maternity,7,7,0.0,6
+2025-04-01,Paediatrics,7,6,0.7,4
+2025-04-01,Surgical Clinic,8,8,0.0,5
+2025-04-01,Diagnostics,6,6,0.0,6
+2025-04-02,Outpatient,13,12,0.5,23
+2025-04-02,Emergency,10,10,0.0,9
+2025-04-02,Maternity,7,7,0.0,6
+2025-04-02,Paediatrics,7,7,0.0,7
+2025-04-02,Surgical Clinic,8,7,2.7,7
+2025-04-02,Diagnostics,6,6,0.0,3
+2025-04-03,Outpatient,13,11,1.4,24
+2025-04-03,Emergency,10,10,0.0,9
+2025-04-03,Maternity,7,7,0.0,10
+2025-04-03,Paediatrics,7,7,0.0,3
+2025-04-03,Surgical Clinic,8,9,0.0,11
+2025-04-03,Diagnostics,6,5,0.4,2
+2025-04-04,Outpatient,13,11,5.0,21
+2025-04-04,Emergency,10,11,0.0,9
+2025-04-04,Maternity,7,7,0.0,7
+2025-04-04,Paediatrics,7,7,0.0,9
+2025-04-04,Surgical Clinic,8,8,0.0,4
+2025-04-04,Diagnostics,6,5,2.4,3
+2025-04-05,Outpatient,13,14,0.0,27
+2025-04-05,Emergency,10,9,1.3,11
+2025-04-05,Maternity,7,7,0.0,7
+2025-04-05,Paediatrics,7,7,0.0,5
+2025-04-05,Surgical Clinic,8,8,0.0,3
+2025-04-05,Diagnostics,6,6,0.0,6
+2025-04-06,Outpatient,13,11,5.4,17
+2025-04-06,Emergency,10,9,2.0,9
+2025-04-06,Maternity,7,7,0.0,4
+2025-04-06,Paediatrics,7,6,1.3,1
+2025-04-06,Surgical Clinic,8,8,0.0,5
+2025-04-06,Diagnostics,6,6,0.0,5
+2025-04-07,Outpatient,13,11,2.4,31
+2025-04-07,Emergency,10,10,0.0,10
+2025-04-07,Maternity,7,6,2.3,14
+2025-04-07,Paediatrics,7,7,0.0,5
+2025-04-07,Surgical Clinic,8,9,0.0,12
+2025-04-07,Diagnostics,6,6,0.0,6
+2025-04-08,Outpatient,13,14,0.0,23
+2025-04-08,Emergency,10,10,0.0,10
+2025-04-08,Maternity,7,7,0.0,7
+2025-04-08,Paediatrics,7,8,0.0,12
+2025-04-08,Surgical Clinic,8,8,0.0,8
+2025-04-08,Diagnostics,6,6,0.0,7
+2025-04-09,Outpatient,13,14,0.0,28
+2025-04-09,Emergency,10,9,1.8,12
+2025-04-09,Maternity,7,7,0.0,6
+2025-04-09,Paediatrics,7,7,0.0,7
+2025-04-09,Surgical Clinic,8,8,0.0,7
+2025-04-09,Diagnostics,6,6,0.0,8
+2025-04-10,Outpatient,13,11,4.8,27
+2025-04-10,Emergency,10,10,0.0,8
+2025-04-10,Maternity,7,7,0.0,5
+2025-04-10,Paediatrics,7,7,0.0,6
+2025-04-10,Surgical Clinic,8,7,1.0,4
+2025-04-10,Diagnostics,6,6,0.0,4
+2025-04-11,Outpatient,13,12,2.3,19
+2025-04-11,Emergency,10,8,2.8,11
+2025-04-11,Maternity,7,7,0.0,7
+2025-04-11,Paediatrics,7,6,1.9,5
+2025-04-11,Surgical Clinic,8,7,2.6,8
+2025-04-11,Diagnostics,6,5,1.6,7
+2025-04-12,Outpatient,13,13,0.0,20
+2025-04-12,Emergency,10,10,0.0,5
+2025-04-12,Maternity,7,7,0.0,2
+2025-04-12,Paediatrics,7,7,0.0,2
+2025-04-12,Surgical Clinic,8,8,0.0,4
+2025-04-12,Diagnostics,6,5,2.3,3
+2025-04-13,Outpatient,13,11,5.6,9
+2025-04-13,Emergency,10,10,0.0,5
+2025-04-13,Maternity,7,6,0.9,7
+2025-04-13,Paediatrics,7,7,0.0,8
+2025-04-13,Surgical Clinic,8,7,1.0,7
+2025-04-13,Diagnostics,6,5,2.6,0
+2025-04-14,Outpatient,13,12,2.6,26
+2025-04-14,Emergency,10,10,0.0,11
+2025-04-14,Maternity,7,8,0.0,3
+2025-04-14,Paediatrics,7,7,0.0,4
+2025-04-14,Surgical Clinic,8,7,2.4,10
+2025-04-14,Diagnostics,6,6,0.0,6
+2025-04-15,Outpatient,13,13,0.0,16
+2025-04-15,Emergency,10,9,2.0,9
+2025-04-15,Maternity,7,7,0.0,7
+2025-04-15,Paediatrics,7,7,0.0,11
+2025-04-15,Surgical Clinic,8,8,0.0,3
+2025-04-15,Diagnostics,6,6,0.0,6
+2025-04-16,Outpatient,13,12,1.9,35
+2025-04-16,Emergency,10,9,0.6,9
+2025-04-16,Maternity,7,7,0.0,12
+2025-04-16,Paediatrics,7,6,1.5,5
+2025-04-16,Surgical Clinic,8,7,0.7,4
+2025-04-16,Diagnostics,6,7,0.0,6
+2025-04-17,Outpatient,13,12,1.7,22
+2025-04-17,Emergency,10,10,0.0,6
+2025-04-17,Maternity,7,7,0.0,7
+2025-04-17,Paediatrics,7,7,0.0,7
+2025-04-17,Surgical Clinic,8,7,0.7,8
+2025-04-17,Diagnostics,6,6,0.0,5
+2025-04-18,Outpatient,13,13,0.0,24
+2025-04-18,Emergency,10,9,0.9,14
+2025-04-18,Maternity,7,6,1.2,6
+2025-04-18,Paediatrics,7,8,0.0,7
+2025-04-18,Surgical Clinic,8,9,0.0,8
+2025-04-18,Diagnostics,6,5,2.3,5
+2025-04-19,Outpatient,13,12,0.8,19
+2025-04-19,Emergency,10,10,0.0,7
+2025-04-19,Maternity,7,7,0.0,6
+2025-04-19,Paediatrics,7,7,0.0,5
+2025-04-19,Surgical Clinic,8,8,0.0,8
+2025-04-19,Diagnostics,6,6,0.0,2
+2025-04-20,Outpatient,13,14,0.0,19
+2025-04-20,Emergency,10,9,1.1,15
+2025-04-20,Maternity,7,6,2.0,5
+2025-04-20,Paediatrics,7,7,0.0,3
+2025-04-20,Surgical Clinic,8,7,2.5,5
+2025-04-20,Diagnostics,6,6,0.0,3
+2025-04-21,Outpatient,13,12,2.4,24
+2025-04-21,Emergency,10,10,0.0,14
+2025-04-21,Maternity,7,6,2.0,6
+2025-04-21,Paediatrics,7,7,0.0,10
+2025-04-21,Surgical Clinic,8,7,0.4,8
+2025-04-21,Diagnostics,6,6,0.0,3
+2025-04-22,Outpatient,13,11,2.1,25
+2025-04-22,Emergency,10,10,0.0,14
+2025-04-22,Maternity,7,6,1.5,2
+2025-04-22,Paediatrics,7,8,0.0,5
+2025-04-22,Surgical Clinic,8,8,0.0,9
+2025-04-22,Diagnostics,6,5,2.8,3
+2025-04-23,Outpatient,13,13,0.0,30
+2025-04-23,Emergency,10,10,0.0,14
+2025-04-23,Maternity,7,7,0.0,9
+2025-04-23,Paediatrics,7,7,0.0,6
+2025-04-23,Surgical Clinic,8,7,1.5,4
+2025-04-23,Diagnostics,6,6,0.0,5
+2025-04-24,Outpatient,13,11,4.2,17
+2025-04-24,Emergency,10,9,0.5,15
+2025-04-24,Maternity,7,7,0.0,6
+2025-04-24,Paediatrics,7,7,0.0,4
+2025-04-24,Surgical Clinic,8,8,0.0,13
+2025-04-24,Diagnostics,6,5,0.7,9
+2025-04-25,Outpatient,13,13,0.0,23
+2025-04-25,Emergency,10,9,2.2,10
+2025-04-25,Maternity,7,7,0.0,8
+2025-04-25,Paediatrics,7,8,0.0,8
+2025-04-25,Surgical Clinic,8,7,1.5,6
+2025-04-25,Diagnostics,6,6,0.0,6
+2025-04-26,Outpatient,13,12,1.1,21
+2025-04-26,Emergency,10,9,0.7,8
+2025-04-26,Maternity,7,6,0.6,7
+2025-04-26,Paediatrics,7,7,0.0,7
+2025-04-26,Surgical Clinic,8,7,2.2,8
+2025-04-26,Diagnostics,6,6,0.0,2
+2025-04-27,Outpatient,13,13,0.0,14
+2025-04-27,Emergency,10,10,0.0,10
+2025-04-27,Maternity,7,7,0.0,2
+2025-04-27,Paediatrics,7,7,0.0,6
+2025-04-27,Surgical Clinic,8,8,0.0,3
+2025-04-27,Diagnostics,6,6,0.0,2
+2025-04-28,Outpatient,13,12,1.1,36
+2025-04-28,Emergency,10,10,0.0,10
+2025-04-28,Maternity,7,7,0.0,6
+2025-04-28,Paediatrics,7,6,2.6,7
+2025-04-28,Surgical Clinic,8,8,0.0,6
+2025-04-28,Diagnostics,6,5,1.1,3
+2025-04-29,Outpatient,13,12,1.8,21
+2025-04-29,Emergency,10,10,0.0,9
+2025-04-29,Maternity,7,7,0.0,6
+2025-04-29,Paediatrics,7,7,0.0,8
+2025-04-29,Surgical Clinic,8,7,2.3,4
+2025-04-29,Diagnostics,6,5,0.7,5
+2025-04-30,Outpatient,13,13,0.0,20
+2025-04-30,Emergency,10,11,0.0,7
+2025-04-30,Maternity,7,7,0.0,7
+2025-04-30,Paediatrics,7,7,0.0,8
+2025-04-30,Surgical Clinic,8,7,1.7,12
+2025-04-30,Diagnostics,6,6,0.0,7
+2025-05-01,Outpatient,13,13,0.0,30
+2025-05-01,Emergency,10,10,0.0,13
+2025-05-01,Maternity,7,6,1.1,9
+2025-05-01,Paediatrics,7,6,1.2,5
+2025-05-01,Surgical Clinic,8,8,0.0,5
+2025-05-01,Diagnostics,6,6,0.0,6
+2025-05-02,Outpatient,13,13,0.0,31
+2025-05-02,Emergency,10,10,0.0,10
+2025-05-02,Maternity,7,6,1.9,4
+2025-05-02,Paediatrics,7,7,0.0,2
+2025-05-02,Surgical Clinic,8,7,1.2,13
+2025-05-02,Diagnostics,6,6,0.0,3
+2025-05-03,Outpatient,13,11,1.9,23
+2025-05-03,Emergency,10,9,1.3,8
+2025-05-03,Maternity,7,7,0.0,4
+2025-05-03,Paediatrics,7,5,1.3,10
+2025-05-03,Surgical Clinic,8,8,0.0,6
+2025-05-03,Diagnostics,6,5,1.3,5
+2025-05-04,Outpatient,13,12,0.6,21
+2025-05-04,Emergency,10,9,1.1,10
+2025-05-04,Maternity,7,7,0.0,7
+2025-05-04,Paediatrics,7,6,1.9,4
+2025-05-04,Surgical Clinic,8,7,1.8,9
+2025-05-04,Diagnostics,6,5,1.0,4
+2025-05-05,Outpatient,13,12,1.2,25
+2025-05-05,Emergency,10,10,0.0,8
+2025-05-05,Maternity,7,6,2.7,8
+2025-05-05,Paediatrics,7,6,2.7,2
+2025-05-05,Surgical Clinic,8,7,0.6,8
+2025-05-05,Diagnostics,6,5,2.0,5
+2025-05-06,Outpatient,13,13,0.0,23
+2025-05-06,Emergency,10,10,0.0,14
+2025-05-06,Maternity,7,7,0.0,6
+2025-05-06,Paediatrics,7,7,0.0,9
+2025-05-06,Surgical Clinic,8,7,2.4,8
+2025-05-06,Diagnostics,6,5,2.2,5
+2025-05-07,Outpatient,13,11,2.8,31
+2025-05-07,Emergency,10,9,2.5,14
+2025-05-07,Maternity,7,7,0.0,7
+2025-05-07,Paediatrics,7,7,0.0,9
+2025-05-07,Surgical Clinic,8,8,0.0,6
+2025-05-07,Diagnostics,6,5,1.3,7
+2025-05-08,Outpatient,13,14,0.0,20
+2025-05-08,Emergency,10,9,2.1,10
+2025-05-08,Maternity,7,7,0.0,5
+2025-05-08,Paediatrics,7,6,1.5,7
+2025-05-08,Surgical Clinic,8,7,0.9,6
+2025-05-08,Diagnostics,6,5,2.3,5
+2025-05-09,Outpatient,13,14,0.0,34
+2025-05-09,Emergency,10,10,0.0,9
+2025-05-09,Maternity,7,7,0.0,7
+2025-05-09,Paediatrics,7,7,0.0,4
+2025-05-09,Surgical Clinic,8,8,0.0,7
+2025-05-09,Diagnostics,6,6,0.0,4
+2025-05-10,Outpatient,13,13,0.0,18
+2025-05-10,Emergency,10,10,0.0,14
+2025-05-10,Maternity,7,5,5.5,2
+2025-05-10,Paediatrics,7,6,1.9,6
+2025-05-10,Surgical Clinic,8,8,0.0,7
+2025-05-10,Diagnostics,6,7,0.0,9
+2025-05-11,Outpatient,13,13,0.0,20
+2025-05-11,Emergency,10,9,0.7,6
+2025-05-11,Maternity,7,6,0.9,4
+2025-05-11,Paediatrics,7,7,0.0,2
+2025-05-11,Surgical Clinic,8,7,1.2,7
+2025-05-11,Diagnostics,6,5,2.1,6
+2025-05-12,Outpatient,13,13,0.0,20
+2025-05-12,Emergency,10,11,0.0,11
+2025-05-12,Maternity,7,6,1.0,5
+2025-05-12,Paediatrics,7,7,0.0,9
+2025-05-12,Surgical Clinic,8,7,1.1,6
+2025-05-12,Diagnostics,6,6,0.0,8
+2025-05-13,Outpatient,13,10,1.5,31
+2025-05-13,Emergency,10,10,0.0,14
+2025-05-13,Maternity,7,7,0.0,8
+2025-05-13,Paediatrics,7,6,2.4,11
+2025-05-13,Surgical Clinic,8,7,0.9,7
+2025-05-13,Diagnostics,6,6,0.0,2
+2025-05-14,Outpatient,13,12,1.1,30
+2025-05-14,Emergency,10,9,2.4,12
+2025-05-14,Maternity,7,7,0.0,6
+2025-05-14,Paediatrics,7,7,0.0,5
+2025-05-14,Surgical Clinic,8,8,0.0,4
+2025-05-14,Diagnostics,6,6,0.0,7
+2025-05-15,Outpatient,13,13,0.0,21
+2025-05-15,Emergency,10,11,0.0,8
+2025-05-15,Maternity,7,7,0.0,10
+2025-05-15,Paediatrics,7,7,0.0,9
+2025-05-15,Surgical Clinic,8,9,0.0,7
+2025-05-15,Diagnostics,6,6,0.0,3
+2025-05-16,Outpatient,13,11,0.9,28
+2025-05-16,Emergency,10,10,0.0,13
+2025-05-16,Maternity,7,7,0.0,7
+2025-05-16,Paediatrics,7,6,0.8,7
+2025-05-16,Surgical Clinic,8,9,0.0,4
+2025-05-16,Diagnostics,6,6,0.0,6
+2025-05-17,Outpatient,13,12,1.3,21
+2025-05-17,Emergency,10,10,0.0,8
+2025-05-17,Maternity,7,6,1.5,6
+2025-05-17,Paediatrics,7,7,0.0,7
+2025-05-17,Surgical Clinic,8,8,0.0,2
+2025-05-17,Diagnostics,6,6,0.0,0
+2025-05-18,Outpatient,13,13,0.0,17
+2025-05-18,Emergency,10,10,0.0,5
+2025-05-18,Maternity,7,7,0.0,4
+2025-05-18,Paediatrics,7,7,0.0,4
+2025-05-18,Surgical Clinic,8,8,0.0,2
+2025-05-18,Diagnostics,6,6,0.0,2
+2025-05-19,Outpatient,13,12,2.3,31
+2025-05-19,Emergency,10,11,0.0,13
+2025-05-19,Maternity,7,7,0.0,6
+2025-05-19,Paediatrics,7,7,0.0,5
+2025-05-19,Surgical Clinic,8,8,0.0,6
+2025-05-19,Diagnostics,6,5,1.9,4
+2025-05-20,Outpatient,13,14,0.0,24
+2025-05-20,Emergency,10,9,0.5,17
+2025-05-20,Maternity,7,6,2.6,5
+2025-05-20,Paediatrics,7,8,0.0,3
+2025-05-20,Surgical Clinic,8,8,0.0,5
+2025-05-20,Diagnostics,6,5,2.1,7
+2025-05-21,Outpatient,13,12,2.0,27
+2025-05-21,Emergency,10,10,0.0,13
+2025-05-21,Maternity,7,7,0.0,9
+2025-05-21,Paediatrics,7,6,1.5,8
+2025-05-21,Surgical Clinic,8,8,0.0,3
+2025-05-21,Diagnostics,6,6,0.0,5
+2025-05-22,Outpatient,13,11,4.9,24
+2025-05-22,Emergency,10,11,0.0,13
+2025-05-22,Maternity,7,6,0.8,6
+2025-05-22,Paediatrics,7,7,0.0,6
+2025-05-22,Surgical Clinic,8,9,0.0,10
+2025-05-22,Diagnostics,6,5,1.7,4
+2025-05-23,Outpatient,13,14,0.0,30
+2025-05-23,Emergency,10,9,1.9,15
+2025-05-23,Maternity,7,7,0.0,5
+2025-05-23,Paediatrics,7,7,0.0,13
+2025-05-23,Surgical Clinic,8,7,1.7,10
+2025-05-23,Diagnostics,6,6,0.0,1
+2025-05-24,Outpatient,13,12,2.5,18
+2025-05-24,Emergency,10,11,0.0,9
+2025-05-24,Maternity,7,6,1.2,6
+2025-05-24,Paediatrics,7,6,2.4,6
+2025-05-24,Surgical Clinic,8,8,0.0,9
+2025-05-24,Diagnostics,6,6,0.0,3
+2025-05-25,Outpatient,13,13,0.0,13
+2025-05-25,Emergency,10,9,2.5,7
+2025-05-25,Maternity,7,7,0.0,5
+2025-05-25,Paediatrics,7,8,0.0,3
+2025-05-25,Surgical Clinic,8,7,1.9,7
+2025-05-25,Diagnostics,6,5,0.4,3
+2025-05-26,Outpatient,13,12,1.7,20
+2025-05-26,Emergency,10,9,2.4,10
+2025-05-26,Maternity,7,6,2.1,3
+2025-05-26,Paediatrics,7,7,0.0,3
+2025-05-26,Surgical Clinic,8,8,0.0,9
+2025-05-26,Diagnostics,6,6,0.0,11
+2025-05-27,Outpatient,13,11,2.2,17
+2025-05-27,Emergency,10,9,1.9,4
+2025-05-27,Maternity,7,7,0.0,7
+2025-05-27,Paediatrics,7,6,1.0,7
+2025-05-27,Surgical Clinic,8,8,0.0,6
+2025-05-27,Diagnostics,6,6,0.0,5
+2025-05-28,Outpatient,13,13,0.0,24
+2025-05-28,Emergency,10,9,2.7,11
+2025-05-28,Maternity,7,7,0.0,8
+2025-05-28,Paediatrics,7,7,0.0,4
+2025-05-28,Surgical Clinic,8,8,0.0,8
+2025-05-28,Diagnostics,6,6,0.0,6
+2025-05-29,Outpatient,13,13,0.0,33
+2025-05-29,Emergency,10,9,2.5,8
+2025-05-29,Maternity,7,6,2.5,9
+2025-05-29,Paediatrics,7,7,0.0,9
+2025-05-29,Surgical Clinic,8,8,0.0,10
+2025-05-29,Diagnostics,6,5,1.0,4
+2025-05-30,Outpatient,13,14,0.0,22
+2025-05-30,Emergency,10,10,0.0,15
+2025-05-30,Maternity,7,7,0.0,3
+2025-05-30,Paediatrics,7,7,0.0,3
+2025-05-30,Surgical Clinic,8,8,0.0,11
+2025-05-30,Diagnostics,6,6,0.0,1
+2025-05-31,Outpatient,13,12,1.2,25
+2025-05-31,Emergency,10,9,2.2,9
+2025-05-31,Maternity,7,7,0.0,6
+2025-05-31,Paediatrics,7,7,0.0,10
+2025-05-31,Surgical Clinic,8,8,0.0,5
+2025-05-31,Diagnostics,6,6,0.0,2
+2025-06-01,Outpatient,13,11,2.0,14
+2025-06-01,Emergency,10,9,1.8,5
+2025-06-01,Maternity,7,6,2.3,1
+2025-06-01,Paediatrics,7,7,0.0,1
+2025-06-01,Surgical Clinic,8,8,0.0,4
+2025-06-01,Diagnostics,6,6,0.0,4
+2025-06-02,Outpatient,13,13,0.0,20
+2025-06-02,Emergency,10,9,1.7,7
+2025-06-02,Maternity,7,7,0.0,5
+2025-06-02,Paediatrics,7,7,0.0,1
+2025-06-02,Surgical Clinic,8,8,0.0,3
+2025-06-02,Diagnostics,6,6,0.0,1
+2025-06-03,Outpatient,13,13,0.0,25
+2025-06-03,Emergency,10,10,0.0,11
+2025-06-03,Maternity,7,7,0.0,4
+2025-06-03,Paediatrics,7,7,0.0,6
+2025-06-03,Surgical Clinic,8,8,0.0,5
+2025-06-03,Diagnostics,6,5,1.8,6
+2025-06-04,Outpatient,13,13,0.0,28
+2025-06-04,Emergency,10,8,1.7,10
+2025-06-04,Maternity,7,7,0.0,8
+2025-06-04,Paediatrics,7,7,0.0,6
+2025-06-04,Surgical Clinic,8,8,0.0,8
+2025-06-04,Diagnostics,6,5,0.7,0
+2025-06-05,Outpatient,13,14,0.0,13
+2025-06-05,Emergency,10,9,1.8,16
+2025-06-05,Maternity,7,7,0.0,5
+2025-06-05,Paediatrics,7,7,0.0,10
+2025-06-05,Surgical Clinic,8,8,0.0,9
+2025-06-05,Diagnostics,6,6,0.0,5
+2025-06-06,Outpatient,13,13,0.0,23
+2025-06-06,Emergency,10,10,0.0,12
+2025-06-06,Maternity,7,7,0.0,9
+2025-06-06,Paediatrics,7,6,0.9,4
+2025-06-06,Surgical Clinic,8,8,0.0,5
+2025-06-06,Diagnostics,6,7,0.0,4
+2025-06-07,Outpatient,13,11,4.2,18
+2025-06-07,Emergency,10,10,0.0,9
+2025-06-07,Maternity,7,7,0.0,10
+2025-06-07,Paediatrics,7,7,0.0,5
+2025-06-07,Surgical Clinic,8,9,0.0,5
+2025-06-07,Diagnostics,6,6,0.0,1
+2025-06-08,Outpatient,13,14,0.0,14
+2025-06-08,Emergency,10,9,1.5,4
+2025-06-08,Maternity,7,6,2.6,3
+2025-06-08,Paediatrics,7,6,2.4,7
+2025-06-08,Surgical Clinic,8,8,0.0,5
+2025-06-08,Diagnostics,6,6,0.0,5
+2025-06-09,Outpatient,13,11,5.3,20
+2025-06-09,Emergency,10,10,0.0,10
+2025-06-09,Maternity,7,6,1.8,9
+2025-06-09,Paediatrics,7,7,0.0,6
+2025-06-09,Surgical Clinic,8,7,1.7,10
+2025-06-09,Diagnostics,6,5,1.1,8
+2025-06-10,Outpatient,13,14,0.0,24
+2025-06-10,Emergency,10,10,0.0,7
+2025-06-10,Maternity,7,6,2.7,4
+2025-06-10,Paediatrics,7,6,1.8,7
+2025-06-10,Surgical Clinic,8,8,0.0,4
+2025-06-10,Diagnostics,6,6,0.0,11
+2025-06-11,Outpatient,13,14,0.0,29
+2025-06-11,Emergency,10,10,0.0,11
+2025-06-11,Maternity,7,7,0.0,1
+2025-06-11,Paediatrics,7,7,0.0,5
+2025-06-11,Surgical Clinic,8,7,1.3,3
+2025-06-11,Diagnostics,6,5,2.6,7
+2025-06-12,Outpatient,13,13,0.0,24
+2025-06-12,Emergency,10,9,0.8,7
+2025-06-12,Maternity,7,7,0.0,6
+2025-06-12,Paediatrics,7,6,0.7,12
+2025-06-12,Surgical Clinic,8,7,1.4,10
+2025-06-12,Diagnostics,6,6,0.0,3
+2025-06-13,Outpatient,13,13,0.0,29
+2025-06-13,Emergency,10,10,0.0,8
+2025-06-13,Maternity,7,7,0.0,5
+2025-06-13,Paediatrics,7,7,0.0,8
+2025-06-13,Surgical Clinic,8,8,0.0,6
+2025-06-13,Diagnostics,6,6,0.0,7
+2025-06-14,Outpatient,13,13,0.0,17
+2025-06-14,Emergency,10,11,0.0,4
+2025-06-14,Maternity,7,7,0.0,5
+2025-06-14,Paediatrics,7,7,0.0,4
+2025-06-14,Surgical Clinic,8,7,0.5,8
+2025-06-14,Diagnostics,6,5,0.8,7
+2025-06-15,Outpatient,13,12,0.6,26
+2025-06-15,Emergency,10,8,3.4,6
+2025-06-15,Maternity,7,7,0.0,4
+2025-06-15,Paediatrics,7,6,1.2,4
+2025-06-15,Surgical Clinic,8,7,0.5,4
+2025-06-15,Diagnostics,6,6,0.0,4
+2025-06-16,Outpatient,13,11,4.3,16
+2025-06-16,Emergency,10,9,2.2,9
+2025-06-16,Maternity,7,7,0.0,10
+2025-06-16,Paediatrics,7,6,0.5,7
+2025-06-16,Surgical Clinic,8,7,1.6,8
+2025-06-16,Diagnostics,6,5,0.7,10
+2025-06-17,Outpatient,13,14,0.0,23
+2025-06-17,Emergency,10,11,0.0,8
+2025-06-17,Maternity,7,7,0.0,6
+2025-06-17,Paediatrics,7,7,0.0,5
+2025-06-17,Surgical Clinic,8,8,0.0,10
+2025-06-17,Diagnostics,6,6,0.0,5
+2025-06-18,Outpatient,13,14,0.0,26
+2025-06-18,Emergency,10,9,2.0,8
+2025-06-18,Maternity,7,6,2.1,3
+2025-06-18,Paediatrics,7,7,0.0,1
+2025-06-18,Surgical Clinic,8,7,1.1,9
+2025-06-18,Diagnostics,6,6,0.0,5
+2025-06-19,Outpatient,13,12,0.8,27
+2025-06-19,Emergency,10,10,0.0,8
+2025-06-19,Maternity,7,6,2.3,11
+2025-06-19,Paediatrics,7,7,0.0,6
+2025-06-19,Surgical Clinic,8,8,0.0,5
+2025-06-19,Diagnostics,6,5,1.9,6
+2025-06-20,Outpatient,13,13,0.0,27
+2025-06-20,Emergency,10,10,0.0,5
+2025-06-20,Maternity,7,7,0.0,7
+2025-06-20,Paediatrics,7,6,1.1,11
+2025-06-20,Surgical Clinic,8,8,0.0,3
+2025-06-20,Diagnostics,6,6,0.0,2
+2025-06-21,Outpatient,13,13,0.0,23
+2025-06-21,Emergency,10,10,0.0,5
+2025-06-21,Maternity,7,8,0.0,4
+2025-06-21,Paediatrics,7,7,0.0,7
+2025-06-21,Surgical Clinic,8,8,0.0,7
+2025-06-21,Diagnostics,6,5,2.0,2
+2025-06-22,Outpatient,13,13,0.0,14
+2025-06-22,Emergency,10,10,0.0,10
+2025-06-22,Maternity,7,6,1.0,6
+2025-06-22,Paediatrics,7,6,0.7,3
+2025-06-22,Surgical Clinic,8,8,0.0,8
+2025-06-22,Diagnostics,6,6,0.0,3
+2025-06-23,Outpatient,13,12,2.2,31
+2025-06-23,Emergency,10,10,0.0,8
+2025-06-23,Maternity,7,8,0.0,6
+2025-06-23,Paediatrics,7,7,0.0,6
+2025-06-23,Surgical Clinic,8,8,0.0,6
+2025-06-23,Diagnostics,6,6,0.0,3
+2025-06-24,Outpatient,13,14,0.0,17
+2025-06-24,Emergency,10,10,0.0,9
+2025-06-24,Maternity,7,7,0.0,7
+2025-06-24,Paediatrics,7,6,2.5,4
+2025-06-24,Surgical Clinic,8,9,0.0,9
+2025-06-24,Diagnostics,6,6,0.0,4
+2025-06-25,Outpatient,13,13,0.0,33
+2025-06-25,Emergency,10,10,0.0,8
+2025-06-25,Maternity,7,8,0.0,3
+2025-06-25,Paediatrics,7,7,0.0,5
+2025-06-25,Surgical Clinic,8,8,0.0,7
+2025-06-25,Diagnostics,6,5,2.2,4
+2025-06-26,Outpatient,13,12,2.1,29
+2025-06-26,Emergency,10,9,1.3,19
+2025-06-26,Maternity,7,7,0.0,7
+2025-06-26,Paediatrics,7,7,0.0,10
+2025-06-26,Surgical Clinic,8,8,0.0,8
+2025-06-26,Diagnostics,6,6,0.0,4
+2025-06-27,Outpatient,13,13,0.0,28
+2025-06-27,Emergency,10,9,1.2,11
+2025-06-27,Maternity,7,6,0.5,5
+2025-06-27,Paediatrics,7,7,0.0,5
+2025-06-27,Surgical Clinic,8,8,0.0,11
+2025-06-27,Diagnostics,6,5,2.4,5
+2025-06-28,Outpatient,13,12,1.1,19
+2025-06-28,Emergency,10,11,0.0,13
+2025-06-28,Maternity,7,8,0.0,4
+2025-06-28,Paediatrics,7,6,2.6,2
+2025-06-28,Surgical Clinic,8,7,2.6,4
+2025-06-28,Diagnostics,6,6,0.0,5
+2025-06-29,Outpatient,13,13,0.0,19
+2025-06-29,Emergency,10,9,1.5,6
+2025-06-29,Maternity,7,6,1.4,2
+2025-06-29,Paediatrics,7,6,1.5,5
+2025-06-29,Surgical Clinic,8,9,0.0,7
+2025-06-29,Diagnostics,6,5,0.6,2
+2025-06-30,Outpatient,13,13,0.0,33
+2025-06-30,Emergency,10,9,2.1,9
+2025-06-30,Maternity,7,7,0.0,3
+2025-06-30,Paediatrics,7,7,0.0,6
+2025-06-30,Surgical Clinic,8,9,0.0,5
+2025-06-30,Diagnostics,6,7,0.0,3
+2025-07-01,Outpatient,13,12,2.2,21
+2025-07-01,Emergency,10,10,0.0,9
+2025-07-01,Maternity,7,7,0.0,4
+2025-07-01,Paediatrics,7,7,0.0,8
+2025-07-01,Surgical Clinic,8,7,1.1,5
+2025-07-01,Diagnostics,6,5,0.7,8
+2025-07-02,Outpatient,13,13,0.0,28
+2025-07-02,Emergency,10,10,0.0,9
+2025-07-02,Maternity,7,7,0.0,10
+2025-07-02,Paediatrics,7,7,0.0,8
+2025-07-02,Surgical Clinic,8,8,0.0,4
+2025-07-02,Diagnostics,6,6,0.0,6
+2025-07-03,Outpatient,13,12,1.4,25
+2025-07-03,Emergency,10,11,0.0,14
+2025-07-03,Maternity,7,7,0.0,3
+2025-07-03,Paediatrics,7,7,0.0,2
+2025-07-03,Surgical Clinic,8,8,0.0,4
+2025-07-03,Diagnostics,6,6,0.0,5
+2025-07-04,Outpatient,13,12,2.6,27
+2025-07-04,Emergency,10,9,2.2,7
+2025-07-04,Maternity,7,7,0.0,4
+2025-07-04,Paediatrics,7,6,1.2,7
+2025-07-04,Surgical Clinic,8,6,5.5,4
+2025-07-04,Diagnostics,6,6,0.0,4
+2025-07-05,Outpatient,13,11,1.2,20
+2025-07-05,Emergency,10,10,0.0,8
+2025-07-05,Maternity,7,7,0.0,1
+2025-07-05,Paediatrics,7,7,0.0,6
+2025-07-05,Surgical Clinic,8,8,0.0,3
+2025-07-05,Diagnostics,6,5,1.0,1
+2025-07-06,Outpatient,13,13,0.0,29
+2025-07-06,Emergency,10,8,4.8,4
+2025-07-06,Maternity,7,7,0.0,1
+2025-07-06,Paediatrics,7,7,0.0,1
+2025-07-06,Surgical Clinic,8,7,1.6,7
+2025-07-06,Diagnostics,6,5,1.6,4
+2025-07-07,Outpatient,13,14,0.0,20
+2025-07-07,Emergency,10,8,5.4,3
+2025-07-07,Maternity,7,7,0.0,3
+2025-07-07,Paediatrics,7,6,2.4,7
+2025-07-07,Surgical Clinic,8,7,1.4,10
+2025-07-07,Diagnostics,6,6,0.0,7
+2025-07-08,Outpatient,13,12,2.2,21
+2025-07-08,Emergency,10,10,0.0,8
+2025-07-08,Maternity,7,7,0.0,4
+2025-07-08,Paediatrics,7,7,0.0,4
+2025-07-08,Surgical Clinic,8,8,0.0,8
+2025-07-08,Diagnostics,6,6,0.0,4
+2025-07-09,Outpatient,13,12,1.6,18
+2025-07-09,Emergency,10,10,0.0,6
+2025-07-09,Maternity,7,6,1.4,6
+2025-07-09,Paediatrics,7,7,0.0,9
+2025-07-09,Surgical Clinic,8,7,1.2,10
+2025-07-09,Diagnostics,6,5,1.1,4
+2025-07-10,Outpatient,13,13,0.0,30
+2025-07-10,Emergency,10,10,0.0,10
+2025-07-10,Maternity,7,6,1.7,6
+2025-07-10,Paediatrics,7,7,0.0,9
+2025-07-10,Surgical Clinic,8,7,0.5,8
+2025-07-10,Diagnostics,6,6,0.0,9
+2025-07-11,Outpatient,13,13,0.0,20
+2025-07-11,Emergency,10,9,2.5,13
+2025-07-11,Maternity,7,7,0.0,6
+2025-07-11,Paediatrics,7,7,0.0,6
+2025-07-11,Surgical Clinic,8,7,2.7,3
+2025-07-11,Diagnostics,6,5,1.0,5
+2025-07-12,Outpatient,13,12,1.9,12
+2025-07-12,Emergency,10,11,0.0,6
+2025-07-12,Maternity,7,7,0.0,3
+2025-07-12,Paediatrics,7,7,0.0,2
+2025-07-12,Surgical Clinic,8,8,0.0,5
+2025-07-12,Diagnostics,6,6,0.0,1
+2025-07-13,Outpatient,13,13,0.0,12
+2025-07-13,Emergency,10,10,0.0,12
+2025-07-13,Maternity,7,6,1.5,4
+2025-07-13,Paediatrics,7,8,0.0,5
+2025-07-13,Surgical Clinic,8,7,0.5,1
+2025-07-13,Diagnostics,6,5,1.2,2
+2025-07-14,Outpatient,13,13,0.0,28
+2025-07-14,Emergency,10,8,2.2,7
+2025-07-14,Maternity,7,8,0.0,11
+2025-07-14,Paediatrics,7,6,0.7,5
+2025-07-14,Surgical Clinic,8,8,0.0,5
+2025-07-14,Diagnostics,6,6,0.0,5
+2025-07-15,Outpatient,13,12,0.9,24
+2025-07-15,Emergency,10,9,1.5,3
+2025-07-15,Maternity,7,7,0.0,6
+2025-07-15,Paediatrics,7,7,0.0,8
+2025-07-15,Surgical Clinic,8,8,0.0,4
+2025-07-15,Diagnostics,6,6,0.0,6
+2025-07-16,Outpatient,13,13,0.0,30
+2025-07-16,Emergency,10,9,1.3,13
+2025-07-16,Maternity,7,7,0.0,8
+2025-07-16,Paediatrics,7,6,0.5,5
+2025-07-16,Surgical Clinic,8,8,0.0,7
+2025-07-16,Diagnostics,6,6,0.0,5
+2025-07-17,Outpatient,13,13,0.0,17
+2025-07-17,Emergency,10,9,0.5,11
+2025-07-17,Maternity,7,7,0.0,8
+2025-07-17,Paediatrics,7,7,0.0,9
+2025-07-17,Surgical Clinic,8,7,2.3,7
+2025-07-17,Diagnostics,6,6,0.0,6
+2025-07-18,Outpatient,13,14,0.0,22
+2025-07-18,Emergency,10,10,0.0,11
+2025-07-18,Maternity,7,8,0.0,5
+2025-07-18,Paediatrics,7,6,0.9,5
+2025-07-18,Surgical Clinic,8,8,0.0,9
+2025-07-18,Diagnostics,6,5,2.1,2
+2025-07-19,Outpatient,13,13,0.0,20
+2025-07-19,Emergency,10,10,0.0,7
+2025-07-19,Maternity,7,7,0.0,8
+2025-07-19,Paediatrics,7,7,0.0,6
+2025-07-19,Surgical Clinic,8,8,0.0,5
+2025-07-19,Diagnostics,6,5,1.2,4
+2025-07-20,Outpatient,13,14,0.0,13
+2025-07-20,Emergency,10,10,0.0,3
+2025-07-20,Maternity,7,7,0.0,1
+2025-07-20,Paediatrics,7,7,0.0,10
+2025-07-20,Surgical Clinic,8,8,0.0,2
+2025-07-20,Diagnostics,6,6,0.0,2
+2025-07-21,Outpatient,13,14,0.0,30
+2025-07-21,Emergency,10,10,0.0,10
+2025-07-21,Maternity,7,6,1.5,4
+2025-07-21,Paediatrics,7,7,0.0,8
+2025-07-21,Surgical Clinic,8,8,0.0,8
+2025-07-21,Diagnostics,6,6,0.0,10
+2025-07-22,Outpatient,13,14,0.0,29
+2025-07-22,Emergency,10,10,0.0,8
+2025-07-22,Maternity,7,7,0.0,7
+2025-07-22,Paediatrics,7,7,0.0,5
+2025-07-22,Surgical Clinic,8,7,2.0,11
+2025-07-22,Diagnostics,6,6,0.0,4
+2025-07-23,Outpatient,13,13,0.0,32
+2025-07-23,Emergency,10,9,2.3,7
+2025-07-23,Maternity,7,6,1.2,6
+2025-07-23,Paediatrics,7,7,0.0,9
+2025-07-23,Surgical Clinic,8,8,0.0,5
+2025-07-23,Diagnostics,6,6,0.0,7
+2025-07-24,Outpatient,13,13,0.0,22
+2025-07-24,Emergency,10,10,0.0,12
+2025-07-24,Maternity,7,7,0.0,10
+2025-07-24,Paediatrics,7,6,1.2,10
+2025-07-24,Surgical Clinic,8,7,1.4,8
+2025-07-24,Diagnostics,6,5,2.4,2
+2025-07-25,Outpatient,13,12,0.6,28
+2025-07-25,Emergency,10,10,0.0,6
+2025-07-25,Maternity,7,7,0.0,5
+2025-07-25,Paediatrics,7,7,0.0,7
+2025-07-25,Surgical Clinic,8,8,0.0,8
+2025-07-25,Diagnostics,6,6,0.0,1
+2025-07-26,Outpatient,13,14,0.0,15
+2025-07-26,Emergency,10,9,1.0,6
+2025-07-26,Maternity,7,6,1.1,2
+2025-07-26,Paediatrics,7,8,0.0,7
+2025-07-26,Surgical Clinic,8,9,0.0,4
+2025-07-26,Diagnostics,6,6,0.0,1
+2025-07-27,Outpatient,13,11,3.3,21
+2025-07-27,Emergency,10,10,0.0,4
+2025-07-27,Maternity,7,7,0.0,2
+2025-07-27,Paediatrics,7,7,0.0,6
+2025-07-27,Surgical Clinic,8,7,2.2,5
+2025-07-27,Diagnostics,6,6,0.0,3
+2025-07-28,Outpatient,13,13,0.0,18
+2025-07-28,Emergency,10,11,0.0,13
+2025-07-28,Maternity,7,7,0.0,2
+2025-07-28,Paediatrics,7,7,0.0,7
+2025-07-28,Surgical Clinic,8,7,1.7,11
+2025-07-28,Diagnostics,6,7,0.0,3
+2025-07-29,Outpatient,13,13,0.0,16
+2025-07-29,Emergency,10,10,0.0,7
+2025-07-29,Maternity,7,8,0.0,8
+2025-07-29,Paediatrics,7,8,0.0,4
+2025-07-29,Surgical Clinic,8,8,0.0,4
+2025-07-29,Diagnostics,6,6,0.0,0
+2025-07-30,Outpatient,13,13,0.0,26
+2025-07-30,Emergency,10,9,0.8,5
+2025-07-30,Maternity,7,7,0.0,3
+2025-07-30,Paediatrics,7,6,1.5,3
+2025-07-30,Surgical Clinic,8,7,2.2,6
+2025-07-30,Diagnostics,6,6,0.0,5
+2025-07-31,Outpatient,13,12,1.0,23
+2025-07-31,Emergency,10,9,2.3,11
+2025-07-31,Maternity,7,7,0.0,7
+2025-07-31,Paediatrics,7,7,0.0,5
+2025-07-31,Surgical Clinic,8,8,0.0,12
+2025-07-31,Diagnostics,6,6,0.0,3
+2025-08-01,Outpatient,13,13,0.0,26
+2025-08-01,Emergency,10,8,4.0,10
+2025-08-01,Maternity,7,7,0.0,5
+2025-08-01,Paediatrics,7,7,0.0,3
+2025-08-01,Surgical Clinic,8,8,0.0,11
+2025-08-01,Diagnostics,6,6,0.0,5
+2025-08-02,Outpatient,13,13,0.0,24
+2025-08-02,Emergency,10,9,2.4,13
+2025-08-02,Maternity,7,7,0.0,6
+2025-08-02,Paediatrics,7,7,0.0,4
+2025-08-02,Surgical Clinic,8,6,3.8,11
+2025-08-02,Diagnostics,6,5,2.7,4
+2025-08-03,Outpatient,13,12,1.0,16
+2025-08-03,Emergency,10,10,0.0,11
+2025-08-03,Maternity,7,6,1.0,4
+2025-08-03,Paediatrics,7,7,0.0,4
+2025-08-03,Surgical Clinic,8,8,0.0,3
+2025-08-03,Diagnostics,6,5,2.5,3
+2025-08-04,Outpatient,13,13,0.0,26
+2025-08-04,Emergency,10,10,0.0,5
+2025-08-04,Maternity,7,6,2.5,2
+2025-08-04,Paediatrics,7,6,1.0,6
+2025-08-04,Surgical Clinic,8,7,1.3,7
+2025-08-04,Diagnostics,6,6,0.0,5
+2025-08-05,Outpatient,13,12,1.2,22
+2025-08-05,Emergency,10,9,1.5,9
+2025-08-05,Maternity,7,7,0.0,8
+2025-08-05,Paediatrics,7,7,0.0,6
+2025-08-05,Surgical Clinic,8,8,0.0,10
+2025-08-05,Diagnostics,6,6,0.0,3
+2025-08-06,Outpatient,13,12,2.3,34
+2025-08-06,Emergency,10,10,0.0,14
+2025-08-06,Maternity,7,7,0.0,6
+2025-08-06,Paediatrics,7,7,0.0,7
+2025-08-06,Surgical Clinic,8,8,0.0,8
+2025-08-06,Diagnostics,6,6,0.0,5
+2025-08-07,Outpatient,13,11,5.3,24
+2025-08-07,Emergency,10,9,2.2,9
+2025-08-07,Maternity,7,5,1.2,2
+2025-08-07,Paediatrics,7,7,0.0,6
+2025-08-07,Surgical Clinic,8,8,0.0,6
+2025-08-07,Diagnostics,6,6,0.0,5
+2025-08-08,Outpatient,13,13,0.0,24
+2025-08-08,Emergency,10,10,0.0,14
+2025-08-08,Maternity,7,6,2.3,8
+2025-08-08,Paediatrics,7,7,0.0,6
+2025-08-08,Surgical Clinic,8,7,1.3,7
+2025-08-08,Diagnostics,6,6,0.0,3
+2025-08-09,Outpatient,13,13,0.0,22
+2025-08-09,Emergency,10,9,1.3,6
+2025-08-09,Maternity,7,7,0.0,8
+2025-08-09,Paediatrics,7,6,1.0,1
+2025-08-09,Surgical Clinic,8,7,2.0,6
+2025-08-09,Diagnostics,6,6,0.0,6
+2025-08-10,Outpatient,13,12,0.7,16
+2025-08-10,Emergency,10,11,0.0,9
+2025-08-10,Maternity,7,7,0.0,2
+2025-08-10,Paediatrics,7,7,0.0,3
+2025-08-10,Surgical Clinic,8,8,0.0,4
+2025-08-10,Diagnostics,6,6,0.0,5
+2025-08-11,Outpatient,13,12,2.0,20
+2025-08-11,Emergency,10,9,1.7,12
+2025-08-11,Maternity,7,6,0.8,6
+2025-08-11,Paediatrics,7,7,0.0,6
+2025-08-11,Surgical Clinic,8,8,0.0,7
+2025-08-11,Diagnostics,6,6,0.0,2
+2025-08-12,Outpatient,13,13,0.0,23
+2025-08-12,Emergency,10,10,0.0,10
+2025-08-12,Maternity,7,7,0.0,8
+2025-08-12,Paediatrics,7,7,0.0,6
+2025-08-12,Surgical Clinic,8,8,0.0,12
+2025-08-12,Diagnostics,6,5,2.0,3
+2025-08-13,Outpatient,13,12,2.8,31
+2025-08-13,Emergency,10,9,0.5,15
+2025-08-13,Maternity,7,7,0.0,6
+2025-08-13,Paediatrics,7,7,0.0,6
+2025-08-13,Surgical Clinic,8,8,0.0,7
+2025-08-13,Diagnostics,6,7,0.0,4
+2025-08-14,Outpatient,13,14,0.0,29
+2025-08-14,Emergency,10,9,2.1,14
+2025-08-14,Maternity,7,6,1.9,13
+2025-08-14,Paediatrics,7,7,0.0,6
+2025-08-14,Surgical Clinic,8,6,4.2,9
+2025-08-14,Diagnostics,6,6,0.0,4
+2025-08-15,Outpatient,13,13,0.0,15
+2025-08-15,Emergency,10,10,0.0,8
+2025-08-15,Maternity,7,7,0.0,7
+2025-08-15,Paediatrics,7,6,2.1,3
+2025-08-15,Surgical Clinic,8,7,2.2,3
+2025-08-15,Diagnostics,6,6,0.0,7
+2025-08-16,Outpatient,13,12,0.9,21
+2025-08-16,Emergency,10,10,0.0,8
+2025-08-16,Maternity,7,6,2.3,7
+2025-08-16,Paediatrics,7,6,1.5,5
+2025-08-16,Surgical Clinic,8,8,0.0,4
+2025-08-16,Diagnostics,6,5,0.8,3
+2025-08-17,Outpatient,13,12,1.1,17
+2025-08-17,Emergency,10,10,0.0,6
+2025-08-17,Maternity,7,7,0.0,3
+2025-08-17,Paediatrics,7,7,0.0,5
+2025-08-17,Surgical Clinic,8,7,2.3,4
+2025-08-17,Diagnostics,6,5,1.0,5
+2025-08-18,Outpatient,13,12,2.1,19
+2025-08-18,Emergency,10,8,2.6,9
+2025-08-18,Maternity,7,6,2.4,3
+2025-08-18,Paediatrics,7,7,0.0,10
+2025-08-18,Surgical Clinic,8,8,0.0,2
+2025-08-18,Diagnostics,6,6,0.0,2
+2025-08-19,Outpatient,13,13,0.0,28
+2025-08-19,Emergency,10,9,2.1,12
+2025-08-19,Maternity,7,6,0.8,9
+2025-08-19,Paediatrics,7,6,1.7,8
+2025-08-19,Surgical Clinic,8,8,0.0,6
+2025-08-19,Diagnostics,6,5,2.3,5
+2025-08-20,Outpatient,13,12,2.1,38
+2025-08-20,Emergency,10,10,0.0,7
+2025-08-20,Maternity,7,7,0.0,5
+2025-08-20,Paediatrics,7,7,0.0,12
+2025-08-20,Surgical Clinic,8,9,0.0,10
+2025-08-20,Diagnostics,6,6,0.0,6
+2025-08-21,Outpatient,13,14,0.0,29
+2025-08-21,Emergency,10,9,1.0,4
+2025-08-21,Maternity,7,7,0.0,7
+2025-08-21,Paediatrics,7,6,0.5,4
+2025-08-21,Surgical Clinic,8,8,0.0,4
+2025-08-21,Diagnostics,6,5,2.7,6
+2025-08-22,Outpatient,13,13,0.0,13
+2025-08-22,Emergency,10,10,0.0,9
+2025-08-22,Maternity,7,7,0.0,10
+2025-08-22,Paediatrics,7,6,2.2,8
+2025-08-22,Surgical Clinic,8,8,0.0,7
+2025-08-22,Diagnostics,6,7,0.0,3
+2025-08-23,Outpatient,13,11,5.0,23
+2025-08-23,Emergency,10,10,0.0,6
+2025-08-23,Maternity,7,8,0.0,4
+2025-08-23,Paediatrics,7,7,0.0,7
+2025-08-23,Surgical Clinic,8,8,0.0,5
+2025-08-23,Diagnostics,6,6,0.0,3
+2025-08-24,Outpatient,13,14,0.0,14
+2025-08-24,Emergency,10,9,0.7,1
+2025-08-24,Maternity,7,7,0.0,3
+2025-08-24,Paediatrics,7,7,0.0,4
+2025-08-24,Surgical Clinic,8,7,2.5,5
+2025-08-24,Diagnostics,6,5,2.0,5
+2025-08-25,Outpatient,13,13,0.0,32
+2025-08-25,Emergency,10,9,1.7,4
+2025-08-25,Maternity,7,6,0.8,9
+2025-08-25,Paediatrics,7,6,0.7,5
+2025-08-25,Surgical Clinic,8,8,0.0,3
+2025-08-25,Diagnostics,6,6,0.0,6
+2025-08-26,Outpatient,13,12,0.8,25
+2025-08-26,Emergency,10,11,0.0,10
+2025-08-26,Maternity,7,6,0.7,12
+2025-08-26,Paediatrics,7,7,0.0,8
+2025-08-26,Surgical Clinic,8,7,1.7,9
+2025-08-26,Diagnostics,6,6,0.0,5
+2025-08-27,Outpatient,13,13,0.0,19
+2025-08-27,Emergency,10,10,0.0,13
+2025-08-27,Maternity,7,7,0.0,5
+2025-08-27,Paediatrics,7,7,0.0,7
+2025-08-27,Surgical Clinic,8,8,0.0,2
+2025-08-27,Diagnostics,6,5,2.6,9
+2025-08-28,Outpatient,13,14,0.0,25
+2025-08-28,Emergency,10,10,0.0,11
+2025-08-28,Maternity,7,6,0.9,6
+2025-08-28,Paediatrics,7,7,0.0,10
+2025-08-28,Surgical Clinic,8,7,2.5,4
+2025-08-28,Diagnostics,6,6,0.0,7
+2025-08-29,Outpatient,13,13,0.0,24
+2025-08-29,Emergency,10,8,4.9,10
+2025-08-29,Maternity,7,7,0.0,5
+2025-08-29,Paediatrics,7,7,0.0,4
+2025-08-29,Surgical Clinic,8,8,0.0,6
+2025-08-29,Diagnostics,6,6,0.0,5
+2025-08-30,Outpatient,13,12,2.3,17
+2025-08-30,Emergency,10,11,0.0,12
+2025-08-30,Maternity,7,7,0.0,2
+2025-08-30,Paediatrics,7,7,0.0,5
+2025-08-30,Surgical Clinic,8,7,2.4,6
+2025-08-30,Diagnostics,6,6,0.0,1
+2025-08-31,Outpatient,13,12,1.2,16
+2025-08-31,Emergency,10,10,0.0,8
+2025-08-31,Maternity,7,6,1.0,4
+2025-08-31,Paediatrics,7,7,0.0,3
+2025-08-31,Surgical Clinic,8,7,1.8,1
+2025-08-31,Diagnostics,6,6,0.0,4
+2025-09-01,Outpatient,13,11,2.5,33
+2025-09-01,Emergency,10,10,0.0,10
+2025-09-01,Maternity,7,7,0.0,7
+2025-09-01,Paediatrics,7,6,0.9,6
+2025-09-01,Surgical Clinic,8,8,0.0,10
+2025-09-01,Diagnostics,6,6,0.0,5
+2025-09-02,Outpatient,13,13,0.0,23
+2025-09-02,Emergency,10,9,2.4,12
+2025-09-02,Maternity,7,7,0.0,9
+2025-09-02,Paediatrics,7,7,0.0,5
+2025-09-02,Surgical Clinic,8,9,0.0,5
+2025-09-02,Diagnostics,6,6,0.0,4
+2025-09-03,Outpatient,13,14,0.0,28
+2025-09-03,Emergency,10,10,0.0,13
+2025-09-03,Maternity,7,6,2.7,8
+2025-09-03,Paediatrics,7,7,0.0,5
+2025-09-03,Surgical Clinic,8,8,0.0,8
+2025-09-03,Diagnostics,6,6,0.0,4
+2025-09-04,Outpatient,13,13,0.0,31
+2025-09-04,Emergency,10,10,0.0,9
+2025-09-04,Maternity,7,7,0.0,8
+2025-09-04,Paediatrics,7,7,0.0,3
+2025-09-04,Surgical Clinic,8,8,0.0,5
+2025-09-04,Diagnostics,6,6,0.0,3
+2025-09-05,Outpatient,13,13,0.0,26
+2025-09-05,Emergency,10,10,0.0,14
+2025-09-05,Maternity,7,7,0.0,3
+2025-09-05,Paediatrics,7,7,0.0,7
+2025-09-05,Surgical Clinic,8,7,1.5,9
+2025-09-05,Diagnostics,6,6,0.0,5
+2025-09-06,Outpatient,13,12,2.4,22
+2025-09-06,Emergency,10,10,0.0,14
+2025-09-06,Maternity,7,7,0.0,9
+2025-09-06,Paediatrics,7,6,1.3,11
+2025-09-06,Surgical Clinic,8,8,0.0,3
+2025-09-06,Diagnostics,6,5,2.4,4
+2025-09-07,Outpatient,13,13,0.0,25
+2025-09-07,Emergency,10,8,2.2,8
+2025-09-07,Maternity,7,7,0.0,3
+2025-09-07,Paediatrics,7,6,2.2,5
+2025-09-07,Surgical Clinic,8,9,0.0,1
+2025-09-07,Diagnostics,6,6,0.0,5
+2025-09-08,Outpatient,13,14,0.0,26
+2025-09-08,Emergency,10,10,0.0,12
+2025-09-08,Maternity,7,7,0.0,3
+2025-09-08,Paediatrics,7,6,0.5,4
+2025-09-08,Surgical Clinic,8,8,0.0,7
+2025-09-08,Diagnostics,6,5,1.1,7
+2025-09-09,Outpatient,13,14,0.0,18
+2025-09-09,Emergency,10,10,0.0,13
+2025-09-09,Maternity,7,7,0.0,6
+2025-09-09,Paediatrics,7,7,0.0,11
+2025-09-09,Surgical Clinic,8,8,0.0,6
+2025-09-09,Diagnostics,6,5,1.9,4
+2025-09-10,Outpatient,13,12,2.6,23
+2025-09-10,Emergency,10,8,5.2,12
+2025-09-10,Maternity,7,6,0.9,9
+2025-09-10,Paediatrics,7,7,0.0,11
+2025-09-10,Surgical Clinic,8,8,0.0,5
+2025-09-10,Diagnostics,6,5,2.5,5
+2025-09-11,Outpatient,13,12,1.6,32
+2025-09-11,Emergency,10,10,0.0,9
+2025-09-11,Maternity,7,7,0.0,6
+2025-09-11,Paediatrics,7,7,0.0,10
+2025-09-11,Surgical Clinic,8,8,0.0,8
+2025-09-11,Diagnostics,6,6,0.0,4
+2025-09-12,Outpatient,13,14,0.0,25
+2025-09-12,Emergency,10,9,1.1,12
+2025-09-12,Maternity,7,7,0.0,5
+2025-09-12,Paediatrics,7,6,2.7,6
+2025-09-12,Surgical Clinic,8,7,0.7,7
+2025-09-12,Diagnostics,6,6,0.0,10
+2025-09-13,Outpatient,13,11,3.9,30
+2025-09-13,Emergency,10,10,0.0,8
+2025-09-13,Maternity,7,6,0.6,4
+2025-09-13,Paediatrics,7,8,0.0,5
+2025-09-13,Surgical Clinic,8,7,0.9,8
+2025-09-13,Diagnostics,6,6,0.0,8
+2025-09-14,Outpatient,13,12,1.8,16
+2025-09-14,Emergency,10,10,0.0,8
+2025-09-14,Maternity,7,6,1.0,5
+2025-09-14,Paediatrics,7,7,0.0,7
+2025-09-14,Surgical Clinic,8,8,0.0,3
+2025-09-14,Diagnostics,6,5,1.8,4
+2025-09-15,Outpatient,13,11,4.4,20
+2025-09-15,Emergency,10,10,0.0,7
+2025-09-15,Maternity,7,8,0.0,8
+2025-09-15,Paediatrics,7,6,0.5,5
+2025-09-15,Surgical Clinic,8,7,2.6,10
+2025-09-15,Diagnostics,6,5,2.5,5
+2025-09-16,Outpatient,13,12,1.8,21
+2025-09-16,Emergency,10,11,0.0,12
+2025-09-16,Maternity,7,6,1.8,10
+2025-09-16,Paediatrics,7,7,0.0,8
+2025-09-16,Surgical Clinic,8,9,0.0,9
+2025-09-16,Diagnostics,6,6,0.0,6
+2025-09-17,Outpatient,13,12,2.6,29
+2025-09-17,Emergency,10,9,1.9,8
+2025-09-17,Maternity,7,7,0.0,6
+2025-09-17,Paediatrics,7,7,0.0,9
+2025-09-17,Surgical Clinic,8,8,0.0,6
+2025-09-17,Diagnostics,6,5,1.3,4
+2025-09-18,Outpatient,13,11,1.7,19
+2025-09-18,Emergency,10,9,2.5,9
+2025-09-18,Maternity,7,7,0.0,14
+2025-09-18,Paediatrics,7,8,0.0,5
+2025-09-18,Surgical Clinic,8,8,0.0,6
+2025-09-18,Diagnostics,6,5,0.7,3
+2025-09-19,Outpatient,13,12,1.0,17
+2025-09-19,Emergency,10,9,2.3,14
+2025-09-19,Maternity,7,7,0.0,5
+2025-09-19,Paediatrics,7,7,0.0,4
+2025-09-19,Surgical Clinic,8,8,0.0,7
+2025-09-19,Diagnostics,6,5,0.8,4
+2025-09-20,Outpatient,13,11,4.0,27
+2025-09-20,Emergency,10,10,0.0,13
+2025-09-20,Maternity,7,6,1.8,2
+2025-09-20,Paediatrics,7,7,0.0,5
+2025-09-20,Surgical Clinic,8,8,0.0,9
+2025-09-20,Diagnostics,6,6,0.0,9
+2025-09-21,Outpatient,13,13,0.0,22
+2025-09-21,Emergency,10,9,1.2,6
+2025-09-21,Maternity,7,7,0.0,4
+2025-09-21,Paediatrics,7,6,0.4,1
+2025-09-21,Surgical Clinic,8,8,0.0,7
+2025-09-21,Diagnostics,6,6,0.0,4
+2025-09-22,Outpatient,13,14,0.0,24
+2025-09-22,Emergency,10,9,0.4,11
+2025-09-22,Maternity,7,6,2.7,6
+2025-09-22,Paediatrics,7,7,0.0,19
+2025-09-22,Surgical Clinic,8,8,0.0,10
+2025-09-22,Diagnostics,6,5,1.6,3
+2025-09-23,Outpatient,13,12,2.4,33
+2025-09-23,Emergency,10,9,1.8,15
+2025-09-23,Maternity,7,6,1.8,9
+2025-09-23,Paediatrics,7,7,0.0,8
+2025-09-23,Surgical Clinic,8,7,2.7,11
+2025-09-23,Diagnostics,6,7,0.0,3
+2025-09-24,Outpatient,13,13,0.0,26
+2025-09-24,Emergency,10,9,0.9,6
+2025-09-24,Maternity,7,7,0.0,10
+2025-09-24,Paediatrics,7,7,0.0,4
+2025-09-24,Surgical Clinic,8,8,0.0,6
+2025-09-24,Diagnostics,6,6,0.0,6
+2025-09-25,Outpatient,13,12,2.1,36
+2025-09-25,Emergency,10,10,0.0,8
+2025-09-25,Maternity,7,7,0.0,7
+2025-09-25,Paediatrics,7,6,0.8,5
+2025-09-25,Surgical Clinic,8,8,0.0,11
+2025-09-25,Diagnostics,6,5,1.2,6
+2025-09-26,Outpatient,13,13,0.0,30
+2025-09-26,Emergency,10,10,0.0,9
+2025-09-26,Maternity,7,7,0.0,8
+2025-09-26,Paediatrics,7,6,2.1,7
+2025-09-26,Surgical Clinic,8,7,1.1,7
+2025-09-26,Diagnostics,6,5,0.8,8
+2025-09-27,Outpatient,13,13,0.0,23
+2025-09-27,Emergency,10,9,0.8,11
+2025-09-27,Maternity,7,7,0.0,8
+2025-09-27,Paediatrics,7,6,0.5,6
+2025-09-27,Surgical Clinic,8,8,0.0,6
+2025-09-27,Diagnostics,6,5,0.4,2
+2025-09-28,Outpatient,13,12,2.0,19
+2025-09-28,Emergency,10,8,3.4,7
+2025-09-28,Maternity,7,7,0.0,3
+2025-09-28,Paediatrics,7,7,0.0,3
+2025-09-28,Surgical Clinic,8,8,0.0,2
+2025-09-28,Diagnostics,6,6,0.0,4
+2025-09-29,Outpatient,13,13,0.0,26
+2025-09-29,Emergency,10,10,0.0,7
+2025-09-29,Maternity,7,7,0.0,3
+2025-09-29,Paediatrics,7,7,0.0,5
+2025-09-29,Surgical Clinic,8,8,0.0,10
+2025-09-29,Diagnostics,6,6,0.0,7
+2025-09-30,Outpatient,13,12,0.9,30
+2025-09-30,Emergency,10,9,1.9,13
+2025-09-30,Maternity,7,6,2.5,7
+2025-09-30,Paediatrics,7,6,1.1,9
+2025-09-30,Surgical Clinic,8,8,0.0,12
+2025-09-30,Diagnostics,6,5,2.3,3
+2025-10-01,Outpatient,13,11,2.4,29
+2025-10-01,Emergency,10,9,0.8,13
+2025-10-01,Maternity,7,7,0.0,10
+2025-10-01,Paediatrics,7,7,0.0,6
+2025-10-01,Surgical Clinic,8,7,1.1,6
+2025-10-01,Diagnostics,6,6,0.0,6
+2025-10-02,Outpatient,13,13,0.0,23
+2025-10-02,Emergency,10,10,0.0,15
+2025-10-02,Maternity,7,8,0.0,4
+2025-10-02,Paediatrics,7,6,2.5,4
+2025-10-02,Surgical Clinic,8,8,0.0,8
+2025-10-02,Diagnostics,6,5,1.4,4
+2025-10-03,Outpatient,13,13,0.0,26
+2025-10-03,Emergency,10,9,1.0,3
+2025-10-03,Maternity,7,7,0.0,3
+2025-10-03,Paediatrics,7,6,1.5,8
+2025-10-03,Surgical Clinic,8,8,0.0,9
+2025-10-03,Diagnostics,6,5,2.0,4
+2025-10-04,Outpatient,13,13,0.0,36
+2025-10-04,Emergency,10,11,0.0,15
+2025-10-04,Maternity,7,7,0.0,1
+2025-10-04,Paediatrics,7,7,0.0,3
+2025-10-04,Surgical Clinic,8,8,0.0,8
+2025-10-04,Diagnostics,6,6,0.0,6
+2025-10-05,Outpatient,13,13,0.0,24
+2025-10-05,Emergency,10,10,0.0,14
+2025-10-05,Maternity,7,7,0.0,2
+2025-10-05,Paediatrics,7,7,0.0,1
+2025-10-05,Surgical Clinic,8,8,0.0,5
+2025-10-05,Diagnostics,6,5,1.2,4
+2025-10-06,Outpatient,13,14,0.0,23
+2025-10-06,Emergency,10,11,0.0,13
+2025-10-06,Maternity,7,7,0.0,5
+2025-10-06,Paediatrics,7,6,2.5,8
+2025-10-06,Surgical Clinic,8,7,1.9,8
+2025-10-06,Diagnostics,6,5,2.8,4
+2025-10-07,Outpatient,13,13,0.0,35
+2025-10-07,Emergency,10,11,0.0,13
+2025-10-07,Maternity,7,6,2.1,4
+2025-10-07,Paediatrics,7,6,2.8,11
+2025-10-07,Surgical Clinic,8,8,0.0,10
+2025-10-07,Diagnostics,6,6,0.0,7
+2025-10-08,Outpatient,13,13,0.0,25
+2025-10-08,Emergency,10,9,1.3,13
+2025-10-08,Maternity,7,6,1.1,10
+2025-10-08,Paediatrics,7,7,0.0,8
+2025-10-08,Surgical Clinic,8,7,0.9,15
+2025-10-08,Diagnostics,6,6,0.0,1
+2025-10-09,Outpatient,13,12,1.1,32
+2025-10-09,Emergency,10,9,2.2,10
+2025-10-09,Maternity,7,6,1.6,7
+2025-10-09,Paediatrics,7,7,0.0,3
+2025-10-09,Surgical Clinic,8,9,0.0,5
+2025-10-09,Diagnostics,6,5,1.8,4
+2025-10-10,Outpatient,13,13,0.0,41
+2025-10-10,Emergency,10,9,0.6,9
+2025-10-10,Maternity,7,6,2.8,10
+2025-10-10,Paediatrics,7,6,1.2,10
+2025-10-10,Surgical Clinic,8,8,0.0,10
+2025-10-10,Diagnostics,6,5,1.2,6
+2025-10-11,Outpatient,13,11,5.4,29
+2025-10-11,Emergency,10,10,0.0,9
+2025-10-11,Maternity,7,6,1.8,9
+2025-10-11,Paediatrics,7,6,1.0,5
+2025-10-11,Surgical Clinic,8,8,0.0,9
+2025-10-11,Diagnostics,6,5,2.6,3
+2025-10-12,Outpatient,13,11,2.3,15
+2025-10-12,Emergency,10,10,0.0,5
+2025-10-12,Maternity,7,6,1.3,3
+2025-10-12,Paediatrics,7,7,0.0,3
+2025-10-12,Surgical Clinic,8,9,0.0,3
+2025-10-12,Diagnostics,6,6,0.0,4
+2025-10-13,Outpatient,13,14,0.0,22
+2025-10-13,Emergency,10,10,0.0,16
+2025-10-13,Maternity,7,7,0.0,7
+2025-10-13,Paediatrics,7,6,1.6,7
+2025-10-13,Surgical Clinic,8,7,0.9,6
+2025-10-13,Diagnostics,6,5,2.2,4
+2025-10-14,Outpatient,13,14,0.0,20
+2025-10-14,Emergency,10,10,0.0,11
+2025-10-14,Maternity,7,8,0.0,11
+2025-10-14,Paediatrics,7,7,0.0,10
+2025-10-14,Surgical Clinic,8,8,0.0,3
+2025-10-14,Diagnostics,6,6,0.0,6
+2025-10-15,Outpatient,13,12,2.4,26
+2025-10-15,Emergency,10,10,0.0,12
+2025-10-15,Maternity,7,6,0.7,7
+2025-10-15,Paediatrics,7,7,0.0,15
+2025-10-15,Surgical Clinic,8,9,0.0,5
+2025-10-15,Diagnostics,6,6,0.0,9
+2025-10-16,Outpatient,13,14,0.0,25
+2025-10-16,Emergency,10,10,0.0,10
+2025-10-16,Maternity,7,6,0.9,5
+2025-10-16,Paediatrics,7,7,0.0,4
+2025-10-16,Surgical Clinic,8,8,0.0,8
+2025-10-16,Diagnostics,6,6,0.0,4
+2025-10-17,Outpatient,13,12,1.2,39
+2025-10-17,Emergency,10,10,0.0,11
+2025-10-17,Maternity,7,6,0.9,6
+2025-10-17,Paediatrics,7,7,0.0,7
+2025-10-17,Surgical Clinic,8,8,0.0,8
+2025-10-17,Diagnostics,6,6,0.0,8
+2025-10-18,Outpatient,13,12,1.4,31
+2025-10-18,Emergency,10,8,3.4,8
+2025-10-18,Maternity,7,7,0.0,7
+2025-10-18,Paediatrics,7,7,0.0,7
+2025-10-18,Surgical Clinic,8,8,0.0,5
+2025-10-18,Diagnostics,6,6,0.0,2
+2025-10-19,Outpatient,13,13,0.0,19
+2025-10-19,Emergency,10,9,1.3,6
+2025-10-19,Maternity,7,7,0.0,8
+2025-10-19,Paediatrics,7,6,0.7,2
+2025-10-19,Surgical Clinic,8,7,1.5,5
+2025-10-19,Diagnostics,6,6,0.0,3
+2025-10-20,Outpatient,13,14,0.0,29
+2025-10-20,Emergency,10,9,0.6,11
+2025-10-20,Maternity,7,7,0.0,10
+2025-10-20,Paediatrics,7,7,0.0,6
+2025-10-20,Surgical Clinic,8,7,2.1,5
+2025-10-20,Diagnostics,6,6,0.0,7
+2025-10-21,Outpatient,13,14,0.0,24
+2025-10-21,Emergency,10,11,0.0,13
+2025-10-21,Maternity,7,7,0.0,7
+2025-10-21,Paediatrics,7,6,1.2,5
+2025-10-21,Surgical Clinic,8,8,0.0,7
+2025-10-21,Diagnostics,6,6,0.0,4
+2025-10-22,Outpatient,13,11,3.1,20
+2025-10-22,Emergency,10,10,0.0,11
+2025-10-22,Maternity,7,7,0.0,4
+2025-10-22,Paediatrics,7,6,2.0,12
+2025-10-22,Surgical Clinic,8,8,0.0,9
+2025-10-22,Diagnostics,6,6,0.0,5
+2025-10-23,Outpatient,13,13,0.0,36
+2025-10-23,Emergency,10,10,0.0,10
+2025-10-23,Maternity,7,8,0.0,6
+2025-10-23,Paediatrics,7,7,0.0,5
+2025-10-23,Surgical Clinic,8,7,2.4,8
+2025-10-23,Diagnostics,6,6,0.0,9
+2025-10-24,Outpatient,13,13,0.0,32
+2025-10-24,Emergency,10,9,1.5,10
+2025-10-24,Maternity,7,6,2.6,9
+2025-10-24,Paediatrics,7,6,1.1,9
+2025-10-24,Surgical Clinic,8,7,1.8,5
+2025-10-24,Diagnostics,6,6,0.0,7
+2025-10-25,Outpatient,13,12,0.9,29
+2025-10-25,Emergency,10,9,1.6,12
+2025-10-25,Maternity,7,7,0.0,7
+2025-10-25,Paediatrics,7,7,0.0,4
+2025-10-25,Surgical Clinic,8,8,0.0,4
+2025-10-25,Diagnostics,6,6,0.0,4
+2025-10-26,Outpatient,13,10,3.8,16
+2025-10-26,Emergency,10,8,1.7,6
+2025-10-26,Maternity,7,6,2.0,5
+2025-10-26,Paediatrics,7,7,0.0,7
+2025-10-26,Surgical Clinic,8,8,0.0,5
+2025-10-26,Diagnostics,6,6,0.0,4
+2025-10-27,Outpatient,13,12,1.2,32
+2025-10-27,Emergency,10,10,0.0,9
+2025-10-27,Maternity,7,7,0.0,8
+2025-10-27,Paediatrics,7,6,0.6,9
+2025-10-27,Surgical Clinic,8,9,0.0,10
+2025-10-27,Diagnostics,6,6,0.0,14
+2025-10-28,Outpatient,13,13,0.0,24
+2025-10-28,Emergency,10,10,0.0,15
+2025-10-28,Maternity,7,7,0.0,7
+2025-10-28,Paediatrics,7,6,1.6,10
+2025-10-28,Surgical Clinic,8,8,0.0,5
+2025-10-28,Diagnostics,6,7,0.0,2
+2025-10-29,Outpatient,13,14,0.0,32
+2025-10-29,Emergency,10,9,2.6,12
+2025-10-29,Maternity,7,7,0.0,7
+2025-10-29,Paediatrics,7,8,0.0,8
+2025-10-29,Surgical Clinic,8,8,0.0,8
+2025-10-29,Diagnostics,6,6,0.0,7
+2025-10-30,Outpatient,13,13,0.0,26
+2025-10-30,Emergency,10,9,2.2,7
+2025-10-30,Maternity,7,7,0.0,6
+2025-10-30,Paediatrics,7,6,1.3,9
+2025-10-30,Surgical Clinic,8,8,0.0,14
+2025-10-30,Diagnostics,6,5,2.5,4
+2025-10-31,Outpatient,13,13,0.0,29
+2025-10-31,Emergency,10,10,0.0,7
+2025-10-31,Maternity,7,7,0.0,5
+2025-10-31,Paediatrics,7,6,2.5,13
+2025-10-31,Surgical Clinic,8,7,1.7,10
+2025-10-31,Diagnostics,6,6,0.0,8
+2025-11-01,Outpatient,13,12,1.3,19
+2025-11-01,Emergency,10,9,2.2,3
+2025-11-01,Maternity,7,7,0.0,4
+2025-11-01,Paediatrics,7,6,0.6,6
+2025-11-01,Surgical Clinic,8,8,0.0,9
+2025-11-01,Diagnostics,6,6,0.0,4
+2025-11-02,Outpatient,13,13,0.0,19
+2025-11-02,Emergency,10,8,1.4,9
+2025-11-02,Maternity,7,6,2.2,5
+2025-11-02,Paediatrics,7,7,0.0,9
+2025-11-02,Surgical Clinic,8,7,1.2,6
+2025-11-02,Diagnostics,6,6,0.0,3
+2025-11-03,Outpatient,13,12,1.2,21
+2025-11-03,Emergency,10,9,2.8,7
+2025-11-03,Maternity,7,7,0.0,6
+2025-11-03,Paediatrics,7,6,2.4,5
+2025-11-03,Surgical Clinic,8,7,2.4,11
+2025-11-03,Diagnostics,6,6,0.0,3
+2025-11-04,Outpatient,13,13,0.0,23
+2025-11-04,Emergency,10,9,2.1,8
+2025-11-04,Maternity,7,7,0.0,1
+2025-11-04,Paediatrics,7,7,0.0,8
+2025-11-04,Surgical Clinic,8,9,0.0,7
+2025-11-04,Diagnostics,6,6,0.0,12
+2025-11-05,Outpatient,13,12,2.0,27
+2025-11-05,Emergency,10,9,1.5,10
+2025-11-05,Maternity,7,6,2.8,3
+2025-11-05,Paediatrics,7,7,0.0,5
+2025-11-05,Surgical Clinic,8,7,0.4,12
+2025-11-05,Diagnostics,6,6,0.0,7
+2025-11-06,Outpatient,13,14,0.0,31
+2025-11-06,Emergency,10,8,4.5,11
+2025-11-06,Maternity,7,7,0.0,8
+2025-11-06,Paediatrics,7,7,0.0,6
+2025-11-06,Surgical Clinic,8,7,2.0,9
+2025-11-06,Diagnostics,6,6,0.0,5
+2025-11-07,Outpatient,13,12,2.3,32
+2025-11-07,Emergency,10,9,2.5,10
+2025-11-07,Maternity,7,7,0.0,5
+2025-11-07,Paediatrics,7,7,0.0,5
+2025-11-07,Surgical Clinic,8,8,0.0,5
+2025-11-07,Diagnostics,6,6,0.0,2
+2025-11-08,Outpatient,13,13,0.0,22
+2025-11-08,Emergency,10,10,0.0,10
+2025-11-08,Maternity,7,6,0.9,4
+2025-11-08,Paediatrics,7,6,1.1,9
+2025-11-08,Surgical Clinic,8,7,0.8,4
+2025-11-08,Diagnostics,6,6,0.0,3
+2025-11-09,Outpatient,13,12,1.0,18
+2025-11-09,Emergency,10,9,1.7,5
+2025-11-09,Maternity,7,7,0.0,6
+2025-11-09,Paediatrics,7,7,0.0,2
+2025-11-09,Surgical Clinic,8,7,1.2,6
+2025-11-09,Diagnostics,6,5,2.3,4
+2025-11-10,Outpatient,13,13,0.0,32
+2025-11-10,Emergency,10,9,1.5,8
+2025-11-10,Maternity,7,6,1.5,6
+2025-11-10,Paediatrics,7,7,0.0,9
+2025-11-10,Surgical Clinic,8,8,0.0,7
+2025-11-10,Diagnostics,6,6,0.0,4
+2025-11-11,Outpatient,13,13,0.0,23
+2025-11-11,Emergency,10,8,1.9,8
+2025-11-11,Maternity,7,6,1.1,9
+2025-11-11,Paediatrics,7,6,2.7,6
+2025-11-11,Surgical Clinic,8,8,0.0,4
+2025-11-11,Diagnostics,6,6,0.0,7
+2025-11-12,Outpatient,13,13,0.0,46
+2025-11-12,Emergency,10,9,0.9,10
+2025-11-12,Maternity,7,7,0.0,4
+2025-11-12,Paediatrics,7,7,0.0,7
+2025-11-12,Surgical Clinic,8,8,0.0,9
+2025-11-12,Diagnostics,6,6,0.0,3
+2025-11-13,Outpatient,13,12,1.6,29
+2025-11-13,Emergency,10,10,0.0,9
+2025-11-13,Maternity,7,6,0.9,4
+2025-11-13,Paediatrics,7,6,2.2,8
+2025-11-13,Surgical Clinic,8,7,2.5,10
+2025-11-13,Diagnostics,6,6,0.0,5
+2025-11-14,Outpatient,13,13,0.0,21
+2025-11-14,Emergency,10,11,0.0,12
+2025-11-14,Maternity,7,7,0.0,9
+2025-11-14,Paediatrics,7,7,0.0,10
+2025-11-14,Surgical Clinic,8,7,2.3,11
+2025-11-14,Diagnostics,6,6,0.0,5
+2025-11-15,Outpatient,13,13,0.0,16
+2025-11-15,Emergency,10,9,0.6,7
+2025-11-15,Maternity,7,6,1.0,5
+2025-11-15,Paediatrics,7,6,2.6,3
+2025-11-15,Surgical Clinic,8,7,1.2,4
+2025-11-15,Diagnostics,6,6,0.0,3
+2025-11-16,Outpatient,13,11,5.3,22
+2025-11-16,Emergency,10,10,0.0,8
+2025-11-16,Maternity,7,7,0.0,8
+2025-11-16,Paediatrics,7,7,0.0,5
+2025-11-16,Surgical Clinic,8,7,1.7,3
+2025-11-16,Diagnostics,6,6,0.0,5
+2025-11-17,Outpatient,13,13,0.0,32
+2025-11-17,Emergency,10,10,0.0,10
+2025-11-17,Maternity,7,6,0.8,8
+2025-11-17,Paediatrics,7,6,0.7,6
+2025-11-17,Surgical Clinic,8,7,1.5,5
+2025-11-17,Diagnostics,6,5,0.6,6
+2025-11-18,Outpatient,13,13,0.0,23
+2025-11-18,Emergency,10,10,0.0,8
+2025-11-18,Maternity,7,7,0.0,8
+2025-11-18,Paediatrics,7,6,0.8,5
+2025-11-18,Surgical Clinic,8,8,0.0,5
+2025-11-18,Diagnostics,6,6,0.0,4
+2025-11-19,Outpatient,13,13,0.0,21
+2025-11-19,Emergency,10,10,0.0,15
+2025-11-19,Maternity,7,6,2.1,6
+2025-11-19,Paediatrics,7,7,0.0,8
+2025-11-19,Surgical Clinic,8,8,0.0,6
+2025-11-19,Diagnostics,6,6,0.0,8
+2025-11-20,Outpatient,13,12,2.1,32
+2025-11-20,Emergency,10,9,2.0,13
+2025-11-20,Maternity,7,7,0.0,2
+2025-11-20,Paediatrics,7,6,1.5,7
+2025-11-20,Surgical Clinic,8,7,2.7,9
+2025-11-20,Diagnostics,6,6,0.0,4
+2025-11-21,Outpatient,13,12,0.9,25
+2025-11-21,Emergency,10,9,2.3,8
+2025-11-21,Maternity,7,6,1.0,8
+2025-11-21,Paediatrics,7,7,0.0,10
+2025-11-21,Surgical Clinic,8,7,2.1,5
+2025-11-21,Diagnostics,6,6,0.0,6
+2025-11-22,Outpatient,13,13,0.0,32
+2025-11-22,Emergency,10,11,0.0,10
+2025-11-22,Maternity,7,7,0.0,3
+2025-11-22,Paediatrics,7,6,1.7,7
+2025-11-22,Surgical Clinic,8,7,0.5,6
+2025-11-22,Diagnostics,6,6,0.0,3
+2025-11-23,Outpatient,13,14,0.0,12
+2025-11-23,Emergency,10,9,1.5,6
+2025-11-23,Maternity,7,6,1.8,1
+2025-11-23,Paediatrics,7,7,0.0,10
+2025-11-23,Surgical Clinic,8,7,1.9,4
+2025-11-23,Diagnostics,6,6,0.0,2
+2025-11-24,Outpatient,13,12,0.8,22
+2025-11-24,Emergency,10,10,0.0,12
+2025-11-24,Maternity,7,7,0.0,4
+2025-11-24,Paediatrics,7,7,0.0,6
+2025-11-24,Surgical Clinic,8,9,0.0,4
+2025-11-24,Diagnostics,6,6,0.0,9
+2025-11-25,Outpatient,13,11,4.9,31
+2025-11-25,Emergency,10,10,0.0,9
+2025-11-25,Maternity,7,7,0.0,6
+2025-11-25,Paediatrics,7,6,2.1,9
+2025-11-25,Surgical Clinic,8,7,2.7,5
+2025-11-25,Diagnostics,6,6,0.0,1
+2025-11-26,Outpatient,13,14,0.0,31
+2025-11-26,Emergency,10,11,0.0,16
+2025-11-26,Maternity,7,8,0.0,8
+2025-11-26,Paediatrics,7,7,0.0,6
+2025-11-26,Surgical Clinic,8,8,0.0,5
+2025-11-26,Diagnostics,6,6,0.0,5
+2025-11-27,Outpatient,13,14,0.0,27
+2025-11-27,Emergency,10,10,0.0,15
+2025-11-27,Maternity,7,8,0.0,4
+2025-11-27,Paediatrics,7,6,2.8,12
+2025-11-27,Surgical Clinic,8,8,0.0,13
+2025-11-27,Diagnostics,6,6,0.0,6
+2025-11-28,Outpatient,13,14,0.0,31
+2025-11-28,Emergency,10,9,0.8,10
+2025-11-28,Maternity,7,7,0.0,3
+2025-11-28,Paediatrics,7,7,0.0,5
+2025-11-28,Surgical Clinic,8,7,1.7,6
+2025-11-28,Diagnostics,6,5,2.2,6
+2025-11-29,Outpatient,13,13,0.0,20
+2025-11-29,Emergency,10,9,2.3,10
+2025-11-29,Maternity,7,7,0.0,7
+2025-11-29,Paediatrics,7,7,0.0,4
+2025-11-29,Surgical Clinic,8,8,0.0,7
+2025-11-29,Diagnostics,6,5,1.4,6
+2025-11-30,Outpatient,13,14,0.0,14
+2025-11-30,Emergency,10,10,0.0,8
+2025-11-30,Maternity,7,7,0.0,3
+2025-11-30,Paediatrics,7,7,0.0,4
+2025-11-30,Surgical Clinic,8,8,0.0,5
+2025-11-30,Diagnostics,6,5,0.9,4
+2025-12-01,Outpatient,13,14,0.0,31
+2025-12-01,Emergency,10,9,2.3,8
+2025-12-01,Maternity,7,8,0.0,6
+2025-12-01,Paediatrics,7,7,0.0,8
+2025-12-01,Surgical Clinic,8,9,0.0,7
+2025-12-01,Diagnostics,6,6,0.0,4
+2025-12-02,Outpatient,13,14,0.0,33
+2025-12-02,Emergency,10,10,0.0,12
+2025-12-02,Maternity,7,7,0.0,3
+2025-12-02,Paediatrics,7,6,1.6,4
+2025-12-02,Surgical Clinic,8,8,0.0,6
+2025-12-02,Diagnostics,6,6,0.0,3
+2025-12-03,Outpatient,13,12,2.1,30
+2025-12-03,Emergency,10,9,1.6,9
+2025-12-03,Maternity,7,7,0.0,11
+2025-12-03,Paediatrics,7,6,0.4,4
+2025-12-03,Surgical Clinic,8,7,1.8,2
+2025-12-03,Diagnostics,6,6,0.0,9
+2025-12-04,Outpatient,13,13,0.0,25
+2025-12-04,Emergency,10,10,0.0,11
+2025-12-04,Maternity,7,7,0.0,6
+2025-12-04,Paediatrics,7,7,0.0,6
+2025-12-04,Surgical Clinic,8,7,0.8,8
+2025-12-04,Diagnostics,6,6,0.0,2
+2025-12-05,Outpatient,13,12,2.2,23
+2025-12-05,Emergency,10,10,0.0,13
+2025-12-05,Maternity,7,6,1.6,8
+2025-12-05,Paediatrics,7,7,0.0,4
+2025-12-05,Surgical Clinic,8,7,1.9,5
+2025-12-05,Diagnostics,6,5,1.5,4
+2025-12-06,Outpatient,13,13,0.0,21
+2025-12-06,Emergency,10,9,1.9,11
+2025-12-06,Maternity,7,7,0.0,2
+2025-12-06,Paediatrics,7,7,0.0,6
+2025-12-06,Surgical Clinic,8,8,0.0,2
+2025-12-06,Diagnostics,6,5,2.0,2
+2025-12-07,Outpatient,13,12,2.2,18
+2025-12-07,Emergency,10,9,2.4,7
+2025-12-07,Maternity,7,7,0.0,2
+2025-12-07,Paediatrics,7,7,0.0,5
+2025-12-07,Surgical Clinic,8,7,2.6,8
+2025-12-07,Diagnostics,6,5,2.5,2
+2025-12-08,Outpatient,13,13,0.0,25
+2025-12-08,Emergency,10,9,2.0,9
+2025-12-08,Maternity,7,7,0.0,6
+2025-12-08,Paediatrics,7,7,0.0,5
+2025-12-08,Surgical Clinic,8,7,1.6,8
+2025-12-08,Diagnostics,6,5,1.1,4
+2025-12-09,Outpatient,13,13,0.0,23
+2025-12-09,Emergency,10,10,0.0,10
+2025-12-09,Maternity,7,7,0.0,8
+2025-12-09,Paediatrics,7,7,0.0,6
+2025-12-09,Surgical Clinic,8,7,1.1,10
+2025-12-09,Diagnostics,6,5,2.5,6
+2025-12-10,Outpatient,13,14,0.0,26
+2025-12-10,Emergency,10,9,1.4,12
+2025-12-10,Maternity,7,7,0.0,8
+2025-12-10,Paediatrics,7,7,0.0,10
+2025-12-10,Surgical Clinic,8,8,0.0,7
+2025-12-10,Diagnostics,6,6,0.0,10
+2025-12-11,Outpatient,13,13,0.0,33
+2025-12-11,Emergency,10,10,0.0,9
+2025-12-11,Maternity,7,7,0.0,6
+2025-12-11,Paediatrics,7,7,0.0,8
+2025-12-11,Surgical Clinic,8,7,1.0,6
+2025-12-11,Diagnostics,6,6,0.0,5
+2025-12-12,Outpatient,13,13,0.0,23
+2025-12-12,Emergency,10,9,1.7,14
+2025-12-12,Maternity,7,7,0.0,5
+2025-12-12,Paediatrics,7,7,0.0,4
+2025-12-12,Surgical Clinic,8,6,1.8,6
+2025-12-12,Diagnostics,6,6,0.0,7
+2025-12-13,Outpatient,13,11,0.9,26
+2025-12-13,Emergency,10,11,0.0,11
+2025-12-13,Maternity,7,7,0.0,5
+2025-12-13,Paediatrics,7,6,2.8,6
+2025-12-13,Surgical Clinic,8,8,0.0,3
+2025-12-13,Diagnostics,6,6,0.0,1
+2025-12-14,Outpatient,13,12,1.8,15
+2025-12-14,Emergency,10,9,1.1,7
+2025-12-14,Maternity,7,7,0.0,4
+2025-12-14,Paediatrics,7,7,0.0,5
+2025-12-14,Surgical Clinic,8,9,0.0,9
+2025-12-14,Diagnostics,6,6,0.0,4
+2025-12-15,Outpatient,13,11,2.6,26
+2025-12-15,Emergency,10,8,2.1,9
+2025-12-15,Maternity,7,6,0.9,3
+2025-12-15,Paediatrics,7,6,1.4,10
+2025-12-15,Surgical Clinic,8,7,2.7,6
+2025-12-15,Diagnostics,6,6,0.0,3
+2025-12-16,Outpatient,13,13,0.0,21
+2025-12-16,Emergency,10,11,0.0,13
+2025-12-16,Maternity,7,7,0.0,5
+2025-12-16,Paediatrics,7,6,1.7,5
+2025-12-16,Surgical Clinic,8,8,0.0,8
+2025-12-16,Diagnostics,6,6,0.0,4
+2025-12-17,Outpatient,13,11,3.6,36
+2025-12-17,Emergency,10,9,2.1,7
+2025-12-17,Maternity,7,7,0.0,7
+2025-12-17,Paediatrics,7,7,0.0,11
+2025-12-17,Surgical Clinic,8,8,0.0,6
+2025-12-17,Diagnostics,6,7,0.0,5
+2025-12-18,Outpatient,13,13,0.0,33
+2025-12-18,Emergency,10,9,0.7,13
+2025-12-18,Maternity,7,7,0.0,6
+2025-12-18,Paediatrics,7,7,0.0,6
+2025-12-18,Surgical Clinic,8,8,0.0,8
+2025-12-18,Diagnostics,6,6,0.0,7
+2025-12-19,Outpatient,13,12,0.4,22
+2025-12-19,Emergency,10,9,2.3,19
+2025-12-19,Maternity,7,6,2.1,5
+2025-12-19,Paediatrics,7,7,0.0,6
+2025-12-19,Surgical Clinic,8,7,1.6,6
+2025-12-19,Diagnostics,6,6,0.0,3
+2025-12-20,Outpatient,13,11,1.3,20
+2025-12-20,Emergency,10,10,0.0,7
+2025-12-20,Maternity,7,6,1.3,8
+2025-12-20,Paediatrics,7,7,0.0,6
+2025-12-20,Surgical Clinic,8,7,1.6,6
+2025-12-20,Diagnostics,6,6,0.0,4
+2025-12-21,Outpatient,13,12,0.9,11
+2025-12-21,Emergency,10,10,0.0,8
+2025-12-21,Maternity,7,6,2.4,1
+2025-12-21,Paediatrics,7,6,1.9,1
+2025-12-21,Surgical Clinic,8,6,3.9,5
+2025-12-21,Diagnostics,6,6,0.0,2
+2025-12-22,Outpatient,13,12,0.9,23
+2025-12-22,Emergency,10,9,1.6,7
+2025-12-22,Maternity,7,7,0.0,6
+2025-12-22,Paediatrics,7,7,0.0,12
+2025-12-22,Surgical Clinic,8,8,0.0,5
+2025-12-22,Diagnostics,6,6,0.0,4
+2025-12-23,Outpatient,13,12,1.2,27
+2025-12-23,Emergency,10,10,0.0,5
+2025-12-23,Maternity,7,6,1.3,3
+2025-12-23,Paediatrics,7,8,0.0,5
+2025-12-23,Surgical Clinic,8,7,2.1,4
+2025-12-23,Diagnostics,6,5,2.2,5
+2025-12-24,Outpatient,13,13,0.0,16
+2025-12-24,Emergency,10,9,1.4,9
+2025-12-24,Maternity,7,7,0.0,8
+2025-12-24,Paediatrics,7,7,0.0,6
+2025-12-24,Surgical Clinic,8,8,0.0,10
+2025-12-24,Diagnostics,6,6,0.0,4
+2025-12-25,Outpatient,13,11,2.3,23
+2025-12-25,Emergency,10,10,0.0,7
+2025-12-25,Maternity,7,7,0.0,5
+2025-12-25,Paediatrics,7,7,0.0,2
+2025-12-25,Surgical Clinic,8,8,0.0,9
+2025-12-25,Diagnostics,6,6,0.0,2
+2025-12-26,Outpatient,13,12,1.3,20
+2025-12-26,Emergency,10,9,0.9,8
+2025-12-26,Maternity,7,6,1.4,5
+2025-12-26,Paediatrics,7,6,1.1,4
+2025-12-26,Surgical Clinic,8,8,0.0,6
+2025-12-26,Diagnostics,6,6,0.0,6
+2025-12-27,Outpatient,13,11,1.6,20
+2025-12-27,Emergency,10,10,0.0,9
+2025-12-27,Maternity,7,7,0.0,3
+2025-12-27,Paediatrics,7,6,2.5,4
+2025-12-27,Surgical Clinic,8,7,2.6,7
+2025-12-27,Diagnostics,6,5,0.4,5
+2025-12-28,Outpatient,13,14,0.0,13
+2025-12-28,Emergency,10,10,0.0,7
+2025-12-28,Maternity,7,6,0.8,2
+2025-12-28,Paediatrics,7,7,0.0,5
+2025-12-28,Surgical Clinic,8,8,0.0,4
+2025-12-28,Diagnostics,6,5,1.1,1
+2025-12-29,Outpatient,13,11,1.4,27
+2025-12-29,Emergency,10,9,0.9,10
+2025-12-29,Maternity,7,7,0.0,3
+2025-12-29,Paediatrics,7,6,0.7,4
+2025-12-29,Surgical Clinic,8,8,0.0,5
+2025-12-29,Diagnostics,6,6,0.0,1
+2025-12-30,Outpatient,13,13,0.0,22
+2025-12-30,Emergency,10,10,0.0,5
+2025-12-30,Maternity,7,6,2.5,6
+2025-12-30,Paediatrics,7,7,0.0,3
+2025-12-30,Surgical Clinic,8,8,0.0,4
+2025-12-30,Diagnostics,6,5,1.2,2
+2025-12-31,Outpatient,13,13,0.0,18
+2025-12-31,Emergency,10,9,2.5,15
+2025-12-31,Maternity,7,7,0.0,3
+2025-12-31,Paediatrics,7,6,1.0,4
+2025-12-31,Surgical Clinic,8,7,2.3,5
+2025-12-31,Diagnostics,6,6,0.0,9

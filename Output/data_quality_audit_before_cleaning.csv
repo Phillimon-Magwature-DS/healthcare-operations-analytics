@@ -1,0 +1,10 @@
+Check,Result
+Rows in raw file,42150
+Unique encounter IDs,42000
+Duplicate encounter IDs,150
+Blank patient IDs,85
+Missing wait values,3035
+Negative wait values,36
+Wait values above 240 minutes,35
+Negative consultation values,25
+Consultation values above 240 minutes,30

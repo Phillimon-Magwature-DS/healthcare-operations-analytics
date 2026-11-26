@@ -1,0 +1,9 @@
+Check,Result
+Rows after de-duplication,42000
+Duplicate encounter IDs,0
+Blank patient IDs,84
+Completed visits missing wait,0
+Completed visits missing consultation,0
+Invalid wait values,0
+Invalid consultation values,0
+Missing visit dates,0

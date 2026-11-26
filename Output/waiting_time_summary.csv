@@ -1,0 +1,7 @@
+Department,AverageWaitMinutes,MedianWaitMinutes,AverageConsultationMinutes
+Diagnostics,24.2,21.0,15.8
+Emergency,26.3,23.0,32.3
+Maternity,31.4,27.0,28.1
+Outpatient,38.4,33.0,20.0
+Paediatrics,33.1,28.0,22.9
+Surgical Clinic,43.8,37.0,29.9

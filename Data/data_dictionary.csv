@@ -1,0 +1,55 @@
+File,Field,Description,DataType,Notes
+patient_master.csv,PatientID,"Synthetic patient key, not a real patient identifier.",Text,"No personal names, telephone numbers or dates of birth are included."
+patient_master.csv,Sex,Synthetic patient sex category.,Category,Use for demographic summaries only.
+patient_master.csv,AgeAtStartOfPeriod,Age at the beginning of the synthetic analysis period.,Whole number,Age is fictional and not linked to an identifiable person.
+patient_master.csv,AgeBandAtStart,Age band at start of the analysis period.,Category,"Bands: 0-4, 5-14, 15-24, 25-44, 45-64, 65+."
+patient_master.csv,HomeDistrict,Synthetic residential district group.,Category,Broad district group only.
+patient_master.csv,PrimaryPayerType,Synthetic primary payer category.,Category,"Cash, Medical Aid, Corporate, Staff."
+visits_raw.csv,EncounterID,Unique synthetic encounter identifier.,Text,150 exact duplicate rows are intentionally included.
+visits_raw.csv,PatientID,Synthetic patient key linking to patient_master.csv.,Text,A small number of values are intentionally blank.
+visits_raw.csv,VisitDate,Date of the encounter.,Date,ISO format YYYY-MM-DD.
+visits_raw.csv,ArrivalTime,Arrival time in 24-hour HH:MM format.,Text,Use to group by hour after converting to time if needed.
+visits_raw.csv,Department,Operational department.,Category,Includes a few intentional spelling variants.
+visits_raw.csv,ServiceLine,Service delivered or requested.,Category,See service_catalog.csv.
+visits_raw.csv,VisitType,New or follow-up encounter.,Category,Synthetic.
+visits_raw.csv,AppointmentType,"Scheduled, walk-in or referral.",Category,Synthetic.
+visits_raw.csv,Sex,Synthetic sex category for the encounter.,Category,Mirrors the patient master for convenience.
+visits_raw.csv,AgeAtVisit,Synthetic age at the encounter date.,Whole number,Do not interpret as real patient age.
+visits_raw.csv,AgeBand,Synthetic age band at encounter.,Category,Useful for aggregated patient-flow analysis.
+visits_raw.csv,HomeDistrict,Synthetic residential district group.,Category,Broad district group only.
+visits_raw.csv,PayerType,Payer category for the encounter.,Category,Whitespace/case inconsistencies are intentionally included.
+visits_raw.csv,ReferralSource,How the patient reached the service.,Category,Synthetic.
+visits_raw.csv,DiagnosisGroup,Broad synthetic diagnosis grouping.,Category,Not clinical coding and not suitable for medical decisions.
+visits_raw.csv,WaitMinutes,Minutes from arrival to first service.,Number,Missing and out-of-range values are intentionally included.
+visits_raw.csv,ConsultationMinutes,Duration of consultation/service.,Number,Missing and out-of-range values are intentionally included.
+visits_raw.csv,VisitStatus,"Completed, Cancelled or No Show.",Category,Wait/consultation values can be blank for non-completed visits.
+visits_raw.csv,Outcome,"Discharged, Admitted, Referred, Left Before Seen or Not Seen.",Category,Synthetic operational outcome.
+visits_raw.csv,HasVitalsRecorded,Whether a synthetic vital-observation record exists.,Boolean,Not actual clinical measurements.
+admissions.csv,AdmissionID,Unique synthetic admission key.,Text,One row per synthetic admission.
+admissions.csv,SourceEncounterID,Encounter that led to admission.,Text,Joins to Visits[EncounterID].
+admissions.csv,PatientID,Synthetic patient key.,Text,Joins to patient_master.csv.
+admissions.csv,AdmissionDate,Date admitted.,Date,ISO format YYYY-MM-DD.
+admissions.csv,DischargeDate,Date discharged.,Date,ISO format YYYY-MM-DD.
+admissions.csv,Ward,Inpatient ward.,Category,"Medical, Surgical, Maternity or Paediatric."
+admissions.csv,AdmissionSource,Route into inpatient care.,Category,Synthetic.
+admissions.csv,AdmissionType,Emergency or Elective.,Category,Synthetic.
+admissions.csv,Acuity,"Low, Moderate, High or Critical.",Category,"Synthetic planning category, not a clinical score."
+admissions.csv,DischargeDisposition,Broad discharge destination.,Category,Synthetic.
+admissions.csv,PayerType,Payer category at admission.,Category,Synthetic.
+admissions.csv,LengthOfStayDays,Number of inpatient days.,Whole number,Synthetic length of stay.
+bed_census_daily.csv,Date,Census date.,Date,One row per ward per day.
+bed_census_daily.csv,Ward,Inpatient ward.,Category,Matches admissions ward categories.
+bed_census_daily.csv,BedCapacity,Nominal ward bed capacity.,Whole number,Fixed synthetic capacity by ward.
+bed_census_daily.csv,OccupiedBeds,Beds occupied on the census date.,Whole number,A few over-capacity observations are intentionally included.
+bed_census_daily.csv,AvailableBeds,BedCapacity minus OccupiedBeds.,Whole number,Can be negative on synthetic over-capacity days.
+bed_census_daily.csv,OccupancyRate,OccupiedBeds divided by BedCapacity.,Decimal,100% is stored as 1.00.
+bed_census_daily.csv,DayOfWeek,Weekday name.,Category,Derived from Date.
+staffing_daily.csv,Date,Staffing date.,Date,One row per department per day.
+staffing_daily.csv,Department,Operational department.,Category,Matches encounter department categories.
+staffing_daily.csv,PlannedStaff,Planned staff on duty.,Whole number,Synthetic staffing plan.
+staffing_daily.csv,StaffOnDuty,Staff recorded on duty.,Whole number,Synthetic workforce availability.
+staffing_daily.csv,OvertimeHours,Total overtime hours.,Decimal,Synthetic operational measure.
+staffing_daily.csv,PatientsSeen,Completed encounter count for department/date.,Whole number,Derived from the synthetic visit table before planted data issues.
+service_catalog.csv,Department,Operational department.,Category,Department-to-service mapping.
+service_catalog.csv,ServiceLine,Service line name.,Category,Synthetic reference list.
+service_catalog.csv,ServiceCategory,Clinical or Diagnostic.,Category,Broad service grouping.

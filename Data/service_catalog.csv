@@ -1,0 +1,19 @@
+Department,ServiceLine,ServiceCategory
+Outpatient,General Consultation,Clinical
+Outpatient,Chronic Care Review,Clinical
+Outpatient,Family Medicine,Clinical
+Emergency,Emergency Assessment,Clinical
+Emergency,Urgent Treatment,Clinical
+Emergency,Trauma Review,Clinical
+Maternity,Antenatal Care,Clinical
+Maternity,Postnatal Review,Clinical
+Maternity,Maternity Assessment,Clinical
+Paediatrics,Child Health Review,Clinical
+Paediatrics,Paediatric Consultation,Clinical
+Paediatrics,Immunisation,Clinical
+Surgical Clinic,Surgical Review,Clinical
+Surgical Clinic,Wound Care,Clinical
+Surgical Clinic,Pre-operative Review,Clinical
+Diagnostics,Laboratory,Diagnostic
+Diagnostics,Imaging,Diagnostic
+Diagnostics,Diagnostic Screening,Diagnostic
