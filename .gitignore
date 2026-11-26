@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary / editor files
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+
+# Local-only environment files
+.env
+.env.*
